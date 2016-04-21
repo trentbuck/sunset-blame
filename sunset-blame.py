@@ -29,6 +29,16 @@ commit = ls_tree_args[0]
 paths = subprocess.check_output(['git', 'ls-tree', '-z', '-r', '--name-only'] + ls_tree_args).decode().strip('\x00').split('\x00')
 
 # FIXME: this turns into [''] not [] when you do "sunset-blame HEAD -- doesnotexist.py".
+# FIXME: this crashes when it hits a git submodule.
+#        git ls-tree says "16xxx commit" instead of "10xxx blob" there, but
+#        git ls-tree --name-only doesn't, and I don't want to parse the former.
+
+
+## FIXME: SHITTY TEMPORARY WORKAROUND FOR PRISONPC REPO.
+paths = [x for x in paths
+         if x not in ['debian-preseed', 'ppc-media']]
+
+
 
 # Setup libmagic1 setup.
 mime_database = magic.open(magic.MAGIC_MIME_TYPE)
@@ -44,7 +54,6 @@ sys.stderr.write('DATE(MODE) DATE(MEAN) PATH\n')
 sys.stderr.flush()
 # EXAMPLE:        1970-01-01 1970-01-01 src/chicken-parma.c
 # EXAMPLE:        1985-12-31 1978-04-13 src/chicken-parma.h
-
 
 for path in paths:
 
