@@ -5,6 +5,8 @@
 ## Due to scope creep, they're probably /de facto/ deprecated or broken,
 ## identifying & explicitly deleting/rewriting them is a good way to reduce maintenance burden.
 ## FIXME: citation needed.
+##
+## --twb, Apr 2016 (#24515)
 
 ## Overview:
 ##  1. list all regular files in commit (e.g. HEAD).
