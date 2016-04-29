@@ -34,9 +34,8 @@ paths = subprocess.check_output(['git', 'ls-tree', '-z', '-r', '--name-only'] + 
 # FIXME: this crashes when it hits a git submodule.
 #        git ls-tree says "16xxx commit" instead of "10xxx blob" there, but
 #        git ls-tree --name-only doesn't, and I don't want to parse the former.
-
-
-## FIXME: SHITTY TEMPORARY WORKAROUND FOR PRISONPC REPO.
+#
+# FIXME: SHITTY TEMPORARY WORKAROUND FOR PRISONPC REPO.
 paths = [x for x in paths
          if x not in ['debian-preseed', 'ppc-media']]
 
@@ -52,10 +51,10 @@ assert(0 == mime_database.load())
 # We could just sort inside python,
 # but that means we can't watch it scroll by and feel warm and confident that it hasn't just hung.
 
-sys.stderr.write('DATE(MODE) DATE(MEAN) PATH\n')
+sys.stderr.write('DATE(MODE) DATE(MEAN) AUTHOR   PATH\n')
 sys.stderr.flush()
-# EXAMPLE:        1970-01-01 1970-01-01 src/chicken-parma.c
-# EXAMPLE:        1985-12-31 1978-04-13 src/chicken-parma.h
+# EXAMPLE:        1970-01-01 1970-01-01 twb      src/chicken-parma.c
+# EXAMPLE:        1985-12-31 1978-04-13 lachlans src/chicken-parma.h
 
 for path in paths:
 
@@ -75,7 +74,7 @@ for path in paths:
     data = mime_database.buffer(data)
 
     if data.startswith('text/'):
-        # Get the datestamp of each line of the file.
+        # Get the datestamp & author of each line of the file.
 
         # FIXME: initial implementation uses --line-porcelain, which
         # outputs one timestamp for each line in the source file.
@@ -86,15 +85,23 @@ for path in paths:
         # FIXME: we explicitly **DO NOT** call decode() on this output,
         # because it is a mix of different encodings (depending on the input data).
         data = subprocess.check_output(['git', 'blame', '--line-porcelain', '-wMC', commit, '--', path])
-        data = [int(line.split()[1])
-                for line in data.split(b'\n')
-                if line.startswith(b'author-time ')]
-        timestamp_mode = collections.Counter(data).most_common(1)[0][0]
-        timestamp_mean = sum(data) / len(data)
+        dates = [int(line.split()[1])
+                 for line in data.split(b'\n')
+                 if line.startswith(b'author-time ')]
+        timestamp_mode = collections.Counter(dates).most_common(1)[0][0]
+        timestamp_mean = sum(dates) / len(dates)
 
-        print('{} {} {}'.format(datetime.date.fromtimestamp(timestamp_mode),
-                                datetime.date.fromtimestamp(timestamp_mean),
-                                path))
+        # Get the "twb" part of "<twb@example.net>"
+        authors = [line.decode().split()[1].split('<')[1].split('@')[0]
+                   for line in data.split(b'\n')
+                   if line.startswith(b'author-mail ')]
+        author_mode = collections.Counter(authors).most_common(1)[0][0]
+
+        print('{} {} {:8s} {}'.format(  # 8 = len('lachlans')
+            datetime.date.fromtimestamp(timestamp_mode),
+            datetime.date.fromtimestamp(timestamp_mean),
+            author_mode,
+            path))
 
 
 
