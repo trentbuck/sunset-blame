@@ -96,6 +96,8 @@ for path in paths:
                    for line in data.split(b'\n')
                    if line.startswith(b'author-mail ')]
         author_mode = collections.Counter(authors).most_common(1)[0][0]
+        if author_mode == 'anonymous':
+            author_mode = 'anon'
 
         print('{} {} {:8s} {}'.format(  # 8 = len('lachlans')
             datetime.date.fromtimestamp(timestamp_mode),
