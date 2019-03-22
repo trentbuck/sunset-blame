@@ -4,23 +4,32 @@
 
 """ FIXME: import docs from subprocess(['git', ...])-based version """
 
-import os
-import sys
-import pprint
+import argparse
 import collections
+import os
+import pprint
+import sys
 
 import pygit2
 
-repo = pygit2.Repository(os.getenv('GIT_DIR'))
-commit = repo.revparse_single(sys.argv[1])
-tree = commit.tree
 
-# FIXME: git blame -w -M -C says these options are NOT IMPLEMENTED.
-# Therefore not bothering to set them for now.
-# https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
-blame_flags = pygit2.GIT_BLAME_NORMAL
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--git-dir', default=os.getenv('GIT_DIR') or '.git')
+    parser.add_argument('--revision', default='HEAD')
+    args = parser.parse_args()
+    repo = pygit2.Repository(args.git_dir)
+    commit = repo.revparse_single(args.revision)
+    tree = commit.tree
 
-def walk(tree, parent_dirs=''):
+    # FIXME: git blame -w -M -C says these options are NOT IMPLEMENTED.
+    # Therefore not bothering to set them for now.
+    # https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
+    blame_flags = pygit2.GIT_BLAME_NORMAL
+    walk(repo, commit, tree)
+
+
+def walk(repo, commit, tree, parent_dirs=''):
     for entry in tree:
         entry_path = os.path.join(parent_dirs, entry.name)
         if entry.type == 'tree':
@@ -47,4 +56,6 @@ def walk(tree, parent_dirs=''):
         else:
             raise Exception('Unknown TreeEntry type', entry)
 
-walk(tree)
+
+if __name__ == '__main__':
+    main()
