@@ -87,6 +87,9 @@ def walk(repo, commit, tree, parent_dirs='') -> None:
                     # datetime.date objects can't be sum()med.
                     logging.debug('time is %s', signature.time)
                     dates[epoch_to_date_ordinal(signature.time)] += hunk.lines_in_hunk
+                if sum(dates.values()) == 0:
+                    logging.info('ignoring empty file %s', entry_path)
+                    continue
                 author_mode = authors.most_common(1)[0][0]
                 date_mode = datetime.date.fromordinal(dates.most_common(1)[0][0])
                 date_mean = datetime.date.fromordinal(int(statistics.mean(dates.elements())))
