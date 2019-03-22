@@ -1,10 +1,19 @@
 #!/usr/bin/python3
 
-# GOAL: blame each text/* file in foo.git, and give the age (mean & mode) and author (mode).
+"""Identify "stale" parts of a codebase, i.e. receiving little/no attention for years.
 
-# FIXME: this code doesn't actually work properly yet!
+Due to scope creep, they're probably /de facto/ deprecated or broken,
+identifying & explicitly deleting/rewriting them is a good way to reduce maintenance burden.
+FIXME: citation needed.
 
-""" FIXME: import docs from subprocess(['git', ...])-based version """
+--twb, Apr 2016 (#24515)
+
+Overview:
+ 1. list all regular files in commit (git ls-tree -z -r --name-only).
+ 2. skip any binary files (e.g. foo.jpg, bar.zip).
+ 3. for anything that's left, find the age of each line (git blame -w -M -C).
+ 4. report the mean & modal age for that file.
+"""
 
 import argparse
 import collections
@@ -12,21 +21,18 @@ import datetime
 import functools
 import logging
 import os
-import pprint
 import statistics
-import sys
-import time
 
 import pygit2
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--git-dir', default=os.getenv('GIT_DIR') or '.')
     parser.add_argument('--revision', default='HEAD')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--verbose', action='store_true')
-    # FIXME: add support for sunset-blaming only a subset, e.g. src/ but not doc/.
+    # FIXME: add support for sunset-blaming specific subdirs, e.g. src/ but not doc/.
     args = parser.parse_args()
     logging.getLogger().setLevel(
         logging.DEBUG if args.debug else
@@ -36,12 +42,6 @@ def main():
     repo = pygit2.Repository(args.git_dir)
     commit = repo.revparse_single(args.revision)
     tree = commit.tree
-
-    # FIXME: git blame -w -M -C says these options are NOT IMPLEMENTED.
-    # Therefore not bothering to set them for now.
-    # https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
-    # FIXME: it isn't using mailmap, either!!
-    blame_flags = pygit2.GIT_BLAME_NORMAL
     print('{}  {}  {:10s}  {}'.format(
         'DATE(MEAN)',
         'DATE(MODE)',
@@ -50,7 +50,7 @@ def main():
     walk(repo, commit, tree)
 
 
-def walk(repo, commit, tree, parent_dirs=''):
+def walk(repo, commit, tree, parent_dirs='') -> None:
     for entry in tree:
         entry_path = os.path.join(parent_dirs, entry.name)
         logging.debug('entry_path is %s', entry_path)
@@ -66,7 +66,13 @@ def walk(repo, commit, tree, parent_dirs=''):
             if blob.is_binary:
                 logging.info('ignoring binary blob %s', entry_path)
             else:
-                blame = repo.blame(entry_path, newest_commit=commit.id)
+                # FIXME: git blame -w -M -C says these options are NOT IMPLEMENTED.
+                # Therefore not bothering to set them for now.
+                # https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
+                # FIXME: it isn't using .mailmap, either!!
+                blame = repo.blame(entry_path,
+                                   newest_commit=commit.id,
+                                   flags=pygit2.GIT_BLAME_NORMAL)
                 authors, dates = collections.Counter(), collections.Counter()
                 for hunk in blame:
                     # Constantly re-looking up the commit is probably very inefficient.
