@@ -8,20 +8,25 @@
 
 import argparse
 import collections
+import datetime
+import functools
+import logging
 import os
 import pprint
+import statistics
 import sys
-import logging
+import time
 
 import pygit2
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--git-dir', default=os.getenv('GIT_DIR') or '.git')
+    parser.add_argument('--git-dir', default=os.getenv('GIT_DIR') or '.')
     parser.add_argument('--revision', default='HEAD')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--verbose', action='store_true')
+    # FIXME: add support for sunset-blaming only a subset, e.g. src/ but not doc/.
     args = parser.parse_args()
     logging.getLogger().setLevel(
         logging.DEBUG if args.debug else
@@ -37,6 +42,11 @@ def main():
     # https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
     # FIXME: it isn't using mailmap, either!!
     blame_flags = pygit2.GIT_BLAME_NORMAL
+    print('{}  {}  {:10s}  {}'.format(
+        'DATE(MEAN)',
+        'DATE(MODE)',
+        'WHO(MODE)',
+        'PATH'))
     walk(repo, commit, tree)
 
 
@@ -57,18 +67,42 @@ def walk(repo, commit, tree, parent_dirs=''):
                 logging.info('ignoring binary blob %s', entry_path)
             else:
                 blame = repo.blame(entry_path, newest_commit=commit.id)
-                # FIXME: constantly re-looking up the commit is probably very inefficient.
-                # Explicitly memoize it?
-                signatures = [repo.revparse_single(str(hunk.orig_commit_id)).author
-                              for hunk in blame]
-                authors = [s.email.split('@', 1)[0] for s in signatures]
-                dates = [s.time for s in signatures]
-                author_mode = collections.Counter(authors).most_common(1)[0][0]
+                authors, dates = collections.Counter(), collections.Counter()
+                for hunk in blame:
+                    # Constantly re-looking up the commit is probably very inefficient.
+                    # Therefore we explicitly memoize it.
+                    signature = hunk2signature(repo, hunk)
+                    # We reduce "frank@example.com" to just "frank", as
+                    # that's usually Good Enough.
+                    author, _, _ = signature.email.partition('@')
+                    authors[author] += hunk.lines_in_hunk
+                    # NOTE: signature.time is unix epoch (integer, not float)
+                    # We use a date ordinal so we can take the mean easily, because
+                    # datetime.date objects can't be sum()med.
+                    logging.debug('time is %s', signature.time)
+                    dates[epoch_to_date_ordinal(signature.time)] += hunk.lines_in_hunk
+                author_mode = authors.most_common(1)[0][0]
+                date_mode = datetime.date.fromordinal(dates.most_common(1)[0][0])
+                date_mean = datetime.date.fromordinal(int(statistics.mean(dates.elements())))
                 # FIXME: collate mean(time) and mode(time), print nicer line.
-                print('author_mode', author_mode, entry_path)
+                print('{}  {}  {:10s}  {}'.format(
+                    date_mean,
+                    date_mode,
+                    author_mode,
+                    entry_path))
 
         else:
             raise Exception('Unknown TreeEntry type', entry)
+
+
+@functools.lru_cache()          # <twb> Wooo, speedup from 3.244s to 3.184s!
+def hunk2signature(repo, hunk):
+    return repo.revparse_single(str(hunk.orig_commit_id)).author
+
+
+# This is like //86400, but slower and (theoretically) less buggy.
+def epoch_to_date_ordinal(i: int) -> int:
+    return datetime.datetime.utcfromtimestamp(i).toordinal()
 
 
 if __name__ == '__main__':
