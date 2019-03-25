@@ -13,6 +13,17 @@ Overview:
  2. skip any binary files (e.g. foo.jpg, bar.zip).
  3. for anything that's left, find the age of each line (git blame -w -M -C).
  4. report the mean & modal age for that file.
+
+UPDATE Mar 2019 --- ported from fork+exec git(1) to dlopen of libgit2.
+This is 50% FASTER for small repos, but 1000% SLOWER for large repos.
+This appears to be a known problem with libgit2's blame:
+
+    One of the authors of some of the recent optimizations to Git's
+    blame code has explicitly asked this his work not be included in
+    libgit2.
+
+    https://github.com/libgit2/libgit2/issues/3027
+
 """
 
 import argparse
