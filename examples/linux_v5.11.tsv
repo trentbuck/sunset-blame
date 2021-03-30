@@ -1,0 +1,750 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2005-08-18	2005-04-16	Linus Torvalds	Documentation/admin-guide/aoe/udev-install.sh
+2005-09-18	2005-04-16	Linus Torvalds	Documentation/admin-guide/laptops/laptop-mode.rst
+2006-01-13	2005-04-16	Linus Torvalds	Documentation/admin-guide/aoe/status.sh
+2006-02-08	2005-04-16	Linus Torvalds	Documentation/admin-guide/aoe/autoload.sh
+2006-04-27	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/stable/syscalls
+2006-06-09	2005-04-16	Linus Torvalds	Documentation/admin-guide/device-mapper/zero.rst
+2006-07-20	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/testing/sysfs-devices
+2006-07-26	2005-04-16	Linus Torvalds	CREDITS
+2006-08-11	2005-04-16	Linus Torvalds	Documentation/admin-guide/device-mapper/dm-io.rst
+2006-09-06	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/testing/sysfs-class
+2006-09-29	2005-04-16	Linus Torvalds	Documentation/admin-guide/java.rst
+2006-10-03	2006-07-14	Shailabh Nagar	Documentation/accounting/taskstats.rst
+2006-10-18	2005-04-16	Linus Torvalds	Documentation/admin-guide/device-mapper/kcopyd.rst
+2006-12-01	2005-04-16	Linus Torvalds	Documentation/admin-guide/laptops/sonypi.rst
+2007-01-09	2005-04-16	Linus Torvalds	Documentation/admin-guide/aoe/udev.txt
+2007-02-10	2005-04-16	Linus Torvalds	Documentation/admin-guide/blockdev/paride.rst
+2007-07-31	2005-04-16	Linus Torvalds	Documentation/admin-guide/blockdev/floppy.rst
+2007-10-19	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/stable/sysfs-module
+2007-11-18	2005-04-19	Ed L. Cashin	Documentation/admin-guide/aoe/todo.rst
+2007-12-08	2005-04-16	Linus Torvalds	Documentation/admin-guide/initrd.rst
+2008-01-07	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/removed/devfs
+2008-01-23	2005-04-16	Linus Torvalds	Documentation/PCI/pciebus-howto.rst
+2008-01-30	2008-01-30	Mark Fasheh	Documentation/ABI/stable/o2cb
+2008-02-20	2005-04-16	Linus Torvalds	Documentation/RCU/arrayRCU.rst
+2008-03-31	2008-03-31	Joel Becker	Documentation/ABI/testing/sysfs-ocfs2
+2008-05-02	2005-04-16	Linus Torvalds	Documentation/admin-guide/cgroup-v1/cpusets.rst
+2008-06-09	2008-02-08	Artem Bityutskiy	Documentation/ABI/stable/sysfs-class-ubi
+2008-07-11	2006-07-14	Shailabh Nagar	Documentation/accounting/delay-accounting.rst
+2008-07-24	2008-07-24	Nishanth Aravamudan	Documentation/ABI/testing/sysfs-kernel-mm
+2008-08-08	2006-04-27	Greg Kroah-Hartman	Documentation/ABI/README
+2008-08-11	2007-03-01	Vassili Karpov	Documentation/admin-guide/cpu-load.rst
+2008-08-13	2005-04-16	Linus Torvalds	Documentation/admin-guide/ldm.rst
+2008-09-17	2008-09-17	David Vrabel	Documentation/ABI/testing/sysfs-bus-umc
+2008-09-27	2005-04-16	Linus Torvalds	Documentation/PCI/sysfs-pci.rst
+2008-09-30	2005-09-10	Paul E. McKenney	Documentation/RCU/UP.rst
+2008-10-05	2005-04-16	Linus Torvalds	Documentation/admin-guide/highuid.rst
+2008-10-07	2006-10-01	Jay Lan	Documentation/accounting/taskstats-struct.rst
+2008-10-11	2008-04-30	Peter Zijlstra	Documentation/ABI/testing/sysfs-class-bdi
+2008-11-06	2005-04-16	Ed L. Cashin	Documentation/admin-guide/aoe/aoe.rst
+2008-11-12	2008-11-12	Rodolfo Giometti	Documentation/ABI/testing/sysfs-c2port
+2008-12-13	2008-09-17	David Vrabel	Documentation/ABI/testing/sysfs-wusb_cbaf
+2009-01-31	2005-04-16	Linus Torvalds	Documentation/admin-guide/devices.rst
+2009-03-14	2005-09-06	Paul E. McKenney	Documentation/RCU/NMI-RCU.rst
+2009-03-28	2008-04-30	Liam Girdwood	Documentation/ABI/testing/sysfs-class-regulator
+2009-04-19	2005-09-10	Paul E. McKenney	Documentation/RCU/whatisRCU.rst
+2009-05-28	2008-01-30	Mark Fasheh	Documentation/ABI/removed/o2cb
+2009-06-10	2008-08-26	Greg Kroah-Hartman	Documentation/ABI/stable/sysfs-driver-usb-usbtmc
+2009-06-17	2009-06-17	Rodolfo Giometti	Documentation/ABI/testing/sysfs-pps
+2009-06-22	2006-02-03	Linas Vepstas	Documentation/PCI/pci-error-recovery.rst
+2009-06-30	2008-04-21	Dan Williams	Documentation/ABI/testing/sysfs-dev
+2009-07-20	2005-04-16	Linus Torvalds	Documentation/admin-guide/hw_random.rst
+2009-07-22	2008-10-13	Elias Oltmanns	Documentation/admin-guide/laptops/disk-shock-protection.rst
+2009-08-20	2007-12-12	Dhaval Giani	Documentation/ABI/removed/sysfs-kernel-uids
+2009-08-28	2009-08-28	Corentin Chary	Documentation/ABI/testing/sysfs-class-lcd
+2009-09-09	2009-04-24	David Rientjes	Documentation/ABI/testing/sysfs-kernel-slab
+2009-09-17	2005-04-16	Linus Torvalds	Documentation/admin-guide/README.rst
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/DRBD-8.3-data-packets.svg
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/DRBD-data-packets.svg
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/conn-states-8.dot
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/disk-states-8.dot
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/drbd-connection-state-overview.dot
+2009-09-25	2009-09-25	Philipp Reisner	Documentation/admin-guide/blockdev/drbd/node-states-8.dot
+2009-10-06	2008-09-17	David Vrabel	Documentation/ABI/testing/sysfs-class-uwb_rc
+2009-10-13	2009-10-13	Andrew Vasquez	Documentation/ABI/stable/sysfs-driver-qla2xxx
+2009-11-09	2005-04-16	Linus Torvalds	Documentation/admin-guide/blockdev/ramdisk.rst
+2009-11-11	2009-04-27	Linus Torvalds	Documentation/COPYING-logo
+2009-11-20	2007-10-19	Balbir Singh	Documentation/accounting/cgroupstats.rst
+2009-11-20	2008-06-27	Bernhard Walle	Documentation/ABI/testing/sysfs-firmware-memmap
+2009-12-01	2006-06-25	David Wilder	Documentation/admin-guide/kdump/kdump.rst
+2009-12-05	2019-04-18	Henrique de Moraes Holschuh	Documentation/admin-guide/laptops/thinkpad-acpi.rst
+2009-12-09	2009-12-09	Laurent Pinchart	Documentation/ABI/testing/sysfs-bus-media
+2009-12-16	2009-12-16	Andi Kleen	Documentation/ABI/testing/sysfs-memory-page-offline
+2009-12-19	2005-09-06	Abhay Salunke	Documentation/admin-guide/dell_rbu.rst
+2010-02-13	2006-12-25	Grant Grundler	Documentation/PCI/pci.rst
+2010-02-13	2009-03-31	Theodore Ts'o	Documentation/ABI/testing/sysfs-fs-ext4
+2010-02-25	2007-10-19	Paul Menage	Documentation/admin-guide/cgroup-v1/cgroups.rst
+2010-03-19	2009-06-22	Jonthan Brassow	Documentation/admin-guide/device-mapper/dm-log.rst
+2010-04-02	2010-04-02	Alan Stern	Documentation/ABI/obsolete/sysfs-bus-usb
+2010-04-26	2005-09-23	Paolo 'Blaisorblade' Giarrusso	Documentation/admin-guide/device-mapper/snapshot.rst
+2010-05-12	2010-05-12	Don Prince	Documentation/ABI/testing/sysfs-driver-hid-prodikeys
+2010-05-14	2009-03-31	Bharata B Rao	Documentation/admin-guide/cgroup-v1/cpuacct.rst
+2010-05-20	2009-01-06	Gary Hade	Documentation/ABI/testing/sysfs-devices-memory
+2010-05-26	2009-08-28	Corentin Chary	Documentation/ABI/stable/sysfs-class-backlight
+2010-05-27	2010-03-30	Bruno Prémont	Documentation/ABI/testing/sysfs-driver-hid-picolcd
+2010-07-16	2008-09-17	David Vrabel	Documentation/ABI/testing/sysfs-class-uwb_rc-wusbhc
+2010-09-01	2005-04-16	Linus Torvalds	Documentation/RCU/rcu.rst
+2010-09-02	2008-10-16	Dave Hansen	Documentation/ABI/testing/sysfs-profiling
+2010-09-05	2005-04-16	Linus Torvalds	Documentation/admin-guide/blockdev/nbd.rst
+2010-09-13	2005-04-16	Linus Torvalds	Documentation/admin-guide/kernel-parameters.rst
+2010-10-09	2010-10-09	Stefan Richter	Documentation/ABI/removed/dv1394
+2010-10-25	2008-11-14	Willy Tarreau	Documentation/admin-guide/lcd-panel-cgram.rst
+2010-10-26	2010-10-26	R.Durgadoss	Documentation/ABI/stable/thermal-notification
+2010-11-02	2008-11-14	Paul E. McKenney	Documentation/RCU/rcubarrier.rst
+2010-11-18	2008-04-10	Konrad Rzeszutek	Documentation/ABI/testing/sysfs-ibft
+2010-11-30	2007-02-08	Mattia Dongili	Documentation/admin-guide/laptops/sony-laptop.rst
+2010-12-01	2006-07-31	Zhang, Yanmin	Documentation/PCI/pcieaer-howto.rst
+2010-12-04	2008-09-13	David Brownell	Documentation/ABI/obsolete/sysfs-gpio
+2010-12-13	2011-12-29	Paul E. McKenney	Documentation/RCU/RTFP.txt
+2011-01-08	2011-01-06	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-arvo
+2011-01-16	2016-09-23	NeilBrown	Documentation/admin-guide/md.rst
+2011-01-21	2011-01-21	Chuanxiao Dong	Documentation/ABI/testing/sysfs-devices-mmc
+2011-02-01	2009-08-28	Corentin Chary	Documentation/ABI/testing/sysfs-platform-eeepc-laptop
+2011-02-04	2010-05-26	Feng Tang	Documentation/ABI/testing/sysfs-firmware-sfi
+2011-02-26	2012-10-27	Paul E. McKenney	Documentation/RCU/rcuref.rst
+2011-03-05	2008-10-19	Matt Helsley	Documentation/admin-guide/cgroup-v1/freezer-subsystem.rst
+2011-03-06	2009-04-09	Kevin Cernekee	Documentation/ABI/testing/sysfs-class-mtd
+2011-03-08	2008-06-20	Zhang Rui	Documentation/ABI/testing/sysfs-firmware-acpi
+2011-03-13	2006-12-08	Thomas Maier	Documentation/ABI/testing/debugfs-pktcdvd
+2011-03-17	2005-04-16	Linus Torvalds	Documentation/admin-guide/iostats.rst
+2011-03-17	2005-04-16	Steve French	Documentation/admin-guide/cifs/usage.rst
+2011-03-25	2009-06-02	Andrew Patterson	Documentation/ABI/testing/sysfs-bus-pci-devices-cciss
+2011-04-17	2011-02-04	Pavan Savoy	Documentation/ABI/testing/sysfs-platform-kim
+2011-04-18	2009-08-28	Corentin Chary	Documentation/ABI/testing/sysfs-platform-asus-laptop
+2011-04-30	2011-04-30	Mike Waychison	Documentation/ABI/testing/sysfs-firmware-log
+2011-05-05	2009-06-22	Kiyoshi Ueda	Documentation/admin-guide/device-mapper/dm-queue-length.rst
+2011-05-11	2008-08-14	Harrison Metzger	Documentation/ABI/testing/sysfs-bus-usb-devices-usbsevseg
+2011-05-13	2010-10-09	Stefan Richter	Documentation/ABI/removed/video1394
+2011-05-19	2011-05-09	Rafał Miłecki	Documentation/ABI/testing/sysfs-bus-bcma
+2011-06-03	2005-04-16	Paul E. McKenney	Documentation/RCU/checklist.rst
+2011-06-16	2010-10-09	Stefan Richter	Documentation/ABI/removed/raw1394
+2011-06-28	2011-04-30	Mike Waychison	Documentation/ABI/testing/sysfs-firmware-gsmi
+2011-08-14	2009-08-28	Corentin Chary	Documentation/admin-guide/laptops/asus-laptop.rst
+2011-08-30	2009-06-02	Bing Zhao	Documentation/admin-guide/btmrvl.rst
+2011-08-30	2009-06-22	Kiyoshi Ueda	Documentation/admin-guide/device-mapper/dm-service-time.rst
+2011-09-05	2008-02-05	Casey Schaufler	Documentation/admin-guide/LSM/Smack.rst
+2011-09-05	2011-09-05	Ike Panhc	Documentation/ABI/testing/debugfs-ideapad
+2011-09-06	2011-03-12	Mike Waychison	Documentation/ABI/stable/sysfs-firmware-efi-vars
+2011-09-30	2010-04-09	Vivek Goyal	Documentation/admin-guide/cgroup-v1/blkio-controller.rst
+2011-10-12	2011-07-09	Stefan Richter	Documentation/ABI/stable/sysfs-bus-firewire
+2011-11-01	2011-04-22	Richard Cochran	Documentation/ABI/testing/sysfs-ptp
+2011-11-14	2008-04-30	Samuel Thibault	Documentation/admin-guide/braille-console.rst
+2011-11-14	2010-08-10	Kalhan Trisal	Documentation/ABI/testing/sysfs-bus-i2c-devices-hm6352
+2011-11-23	2011-11-23	Benjamin Tissoires	Documentation/ABI/testing/sysfs-driver-hid-multitouch
+2011-12-21	2011-11-24	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-isku
+2011-12-26	2010-01-23	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power
+2012-01-04	2010-03-18	Stefan Achatz	Documentation/ABI/testing/sysfs-driver-hid-roccat-kone
+2012-01-04	2010-07-16	Thomas Renninger	Documentation/ABI/testing/debugfs-ec
+2012-01-11	2016-09-21	Mauro Carvalho Chehab	Documentation/admin-guide/binfmt-misc.rst
+2012-01-19	2007-05-09	Heinz Mauelshagen	Documentation/admin-guide/device-mapper/delay.rst
+2012-02-05	2011-09-14	Alan Stern	Documentation/ABI/testing/sysfs-bus-pci-drivers-ehci_hcd
+2012-02-17	2008-08-26	Serge E. Hallyn	Documentation/admin-guide/LSM/SELinux.rst
+2012-03-06	2011-10-31	Joe Thornber	Documentation/admin-guide/device-mapper/persistent-data.rst
+2012-03-12	2011-02-28	Ludwig Nussel	Documentation/ABI/testing/sysfs-kernel-fscaps
+2012-03-25	2010-02-23	Paul E. McKenney	Documentation/RCU/lockdep.rst
+2012-03-27	2012-03-27	Daniel Drake	Documentation/ABI/testing/debugfs-olpc
+2012-04-01	2012-04-01	Tao Ma	Documentation/ABI/testing/sysfs-cfq-target-latency
+2012-04-09	2012-04-09	Asai Thambi S P	Documentation/ABI/testing/sysfs-block-rssd
+2012-04-13	2012-04-13	Carlos Chinea	Documentation/ABI/testing/sysfs-bus-hsi
+2012-04-18	2005-04-16	Linus Torvalds	Documentation/RCU/listRCU.rst
+2012-04-20	2011-10-09	Bart Van Assche	Documentation/ABI/stable/sysfs-driver-ib_srp
+2012-04-24	2010-12-28	Tony Luck	Documentation/ABI/testing/pstore
+2012-04-24	2012-04-24	Jon Brenner	Documentation/ABI/testing/sysfs-bus-iio-light-tsl2772
+2012-05-03	2012-05-03	Johan Hovold	Documentation/ABI/testing/sysfs-bus-i2c-devices-lm3533
+2012-05-06	2011-06-15	Michael Hennerich	Documentation/ABI/testing/sysfs-class-backlight-driver-adp8870
+2012-05-08	2012-05-08	Pablo Neira Ayuso	Documentation/ABI/removed/ip_queue
+2012-05-16	2011-06-10	Andreas Gruenbacher	Documentation/admin-guide/blockdev/drbd/data-structure-v9.rst
+2012-05-21	2012-05-21	Johan Hovold	Documentation/ABI/testing/sysfs-bus-iio-light-lm3533-als
+2012-05-29	2011-07-14	Stefan Richter	Documentation/ABI/stable/firewire-cdev
+2012-06-09	2009-02-05	Jason Baron	Documentation/admin-guide/dynamic-debug-howto.rst
+2012-06-11	2012-06-11	Liu, Jinsong	Documentation/ABI/testing/sysfs-devices-system-xen_cpu
+2012-06-16	2019-07-10	Shobhit Kukreti	Documentation/admin-guide/jfs.rst
+2012-06-17	2012-05-29	Michael Hennerich	Documentation/ABI/testing/sysfs-bus-iio-frequency-adf4350
+2012-06-23	2011-01-10	Marc Kleine-Budde	Documentation/ABI/testing/sysfs-platform-at91
+2012-06-26	2009-01-08	KAMEZAWA Hiroyuki	Documentation/admin-guide/cgroup-v1/memcg_test.rst
+2012-07-14	2011-10-26	David Vrabel	Documentation/ABI/stable/sysfs-devices-system-xen_memory
+2012-08-02	2011-11-10	David Vrabel	Documentation/ABI/stable/sysfs-bus-xen-backend
+2012-09-05	2011-10-20	Ohad Ben-Cohen	Documentation/ABI/testing/sysfs-bus-rpmsg
+2012-09-12	2009-03-20	Chris Wright	Documentation/ABI/testing/sysfs-bus-pci
+2012-09-14	2012-05-20	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-savu
+2012-09-15	2019-07-31	Mauro Carvalho Chehab	Documentation/admin-guide/cifs/authors.rst
+2012-10-02	2011-12-12	Laurent Pinchart	Documentation/ABI/testing/sysfs-devices-platform-sh_mobile_lcdc_fb
+2012-10-02	2012-10-02	Lance Ortiz	Documentation/ABI/testing/sysfs-devices-firmware_node
+2012-10-10	2008-06-17	Martin K. Petersen	Documentation/ABI/testing/sysfs-block
+2012-10-11	2010-02-24	florian@mickler.org	Documentation/ABI/stable/sysfs-class-rfkill
+2012-10-16	2012-10-16	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-lua
+2012-11-13	2009-03-17	Matthew Wilcox	Documentation/PCI/msi-howto.rst
+2012-11-15	2012-11-15	Andreas Larsson	Documentation/ABI/testing/sysfs-class-net-grcan
+2012-11-28	2013-02-15	Aristeu Rozanski	Documentation/admin-guide/cgroup-v1/devices.rst
+2012-12-01	2012-11-16	Yasuaki Ishimatsu	Documentation/ABI/testing/sysfs-devices-sun
+2012-12-03	2012-04-20	MyungJoo Ham	Documentation/ABI/testing/sysfs-class-extcon
+2012-12-09	2012-04-17	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-devices-edac
+2012-12-10	2010-10-05	Vernon Mauery	Documentation/ABI/testing/sysfs-devices-system-ibm-rtl
+2012-12-13	2012-05-29	Michael Hennerich	Documentation/ABI/testing/sysfs-bus-iio-frequency-ad9523
+2012-12-15	2012-12-15	Maxim Mikityanskiy	Documentation/ABI/testing/sysfs-platform-msi-laptop
+2012-12-24	2011-07-22	Paul E. McKenney	Documentation/RCU/lockdep-splat.rst
+2013-01-06	2019-06-12	Balbir Singh	Documentation/admin-guide/cgroup-v1/memory.rst
+2013-01-08	2009-04-13	Tetsuo Handa	Documentation/admin-guide/LSM/tomoyo.rst
+2013-01-19	2005-06-25	Vivek Goyal	Documentation/admin-guide/kdump/gdbmacros.txt
+2013-01-24	2013-01-24	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_state
+2013-01-24	2013-01-24	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-real_power_state
+2013-01-24	2013-01-24	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-resource_in_use
+2013-01-24	2013-10-26	Bart Van Assche	Documentation/ABI/stable/sysfs-transport-srp
+2013-01-25	2013-01-25	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_resources_D0
+2013-01-25	2013-01-25	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_resources_D1
+2013-01-25	2013-01-25	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_resources_D2
+2013-01-25	2013-01-25	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_resources_D3hot
+2013-01-30	2012-08-22	Xiaoyan Zhang	Documentation/ABI/testing/sysfs-driver-ppi
+2013-01-31	2013-01-31	Simon Wood	Documentation/ABI/testing/sysfs-driver-hid-srws1
+2013-02-02	2013-02-02	Ge Gao	Documentation/ABI/testing/sysfs-bus-iio-mpu6050
+2013-02-03	2009-03-20	Yu Zhao	Documentation/PCI/pci-iov-howto.rst
+2013-02-04	2012-10-29	Alan Cox	Documentation/ABI/testing/sysfs-tty
+2013-02-12	2008-07-14	Cornelia Huck	Documentation/ABI/testing/sysfs-bus-css
+2013-02-17	2011-07-03	Kirill Smelkov	Documentation/ABI/testing/sysfs-module
+2013-02-23	2013-01-04	Vivien Didelot	Documentation/ABI/testing/sysfs-platform-ts5500
+2013-02-27	2010-07-22	Andy Shevchenko	Documentation/ABI/testing/sysfs-devices-platform-_UDC_-gadget
+2013-03-06	2013-03-06	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-lpss_ltr
+2013-03-10	2013-03-10	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-konepure
+2013-03-19	2011-10-31	Joe Thornber	Documentation/admin-guide/device-mapper/thin-provisioning.rst
+2013-03-23	2011-11-04	Thomas Renninger	Documentation/ABI/stable/sysfs-acpi-pmprofile
+2013-03-23	2013-03-23	Kent Overstreet	Documentation/ABI/testing/sysfs-block-bcache
+2013-03-27	2018-03-23	Mauro Carvalho Chehab	COPYING
+2013-03-30	2012-02-09	Fernando Luis Vázquez Cao	Documentation/admin-guide/lockup-watchdogs.rst
+2013-04-11	2013-04-11	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-power_resources_wakeup
+2013-05-02	2013-05-02	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-online
+2013-05-06	2009-10-22	Len Brown	Documentation/admin-guide/cputopology.rst
+2013-05-09	2012-05-25	Markus Franke	Documentation/ABI/stable/sysfs-driver-w1_ds28e04
+2013-05-20	2011-11-22	Neil Horman	Documentation/admin-guide/cgroup-v1/net_prio.rst
+2013-05-25	2011-02-23	Mike Waychison	Documentation/ABI/testing/sysfs-firmware-dmi-entries
+2013-06-02	2012-03-28	Milan Broz	Documentation/ABI/testing/sysfs-block-dm
+2013-06-26	2013-05-23	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-phonet
+2013-06-27	2018-02-23	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-pktcdvd
+2013-06-28	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-ncm
+2013-06-30	2011-09-07	Eduard Hasenleithner	Documentation/ABI/testing/sysfs-driver-wacom
+2013-07-02	2013-07-02	Matthew Garrett	Documentation/ABI/testing/sysfs-driver-intel-rapid-start
+2013-07-08	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-obex
+2013-07-08	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-serial
+2013-07-10	2005-04-16	Paul E. McKenney	Documentation/admin-guide/kernel-parameters.txt
+2013-07-11	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-acm
+2013-07-18	2012-11-11	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-kovaplus
+2013-07-27	2015-10-17	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-koneplus
+2013-08-12	2017-10-30	Masahiro Yamada	.gitignore
+2013-08-23	2012-03-15	Jiri Olsa	Documentation/ABI/testing/sysfs-bus-event_source-devices-format
+2013-08-24	2010-05-04	Jonathan Cameron	Documentation/ABI/testing/sysfs-bus-iio
+2013-09-04	2013-02-23	Petr Holasek	Documentation/ABI/testing/sysfs-kernel-mm-ksm
+2013-09-06	2012-01-10	Mark Godfrey	Documentation/ABI/testing/sysfs-class-rtc-rtc0-device-rtc_calibration
+2013-09-10	2011-11-29	Robert Jarzmik	Documentation/ABI/testing/sysfs-devices-platform-docg3
+2013-09-13	2005-04-16	Steve French	Documentation/admin-guide/cifs/todo.rst
+2013-09-30	2009-02-04	Mimi Zohar	Documentation/ABI/testing/ima_policy
+2013-09-30	2013-06-11	H Hartley Sweeten	Documentation/ABI/testing/sysfs-class-pwm
+2013-10-03	2012-11-11	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-pyra
+2013-10-10	2011-11-26	Corentin Chary	Documentation/ABI/testing/sysfs-driver-samsung-laptop
+2013-10-13	2011-02-07	Cristina Opriceana	Documentation/ABI/testing/sysfs-bus-iio-trigger-sysfs
+2013-10-15	2013-09-05	Jeff Layton	Documentation/admin-guide/cifs/winucase_convert.pl
+2013-10-20	2013-05-05	David Herrmann	Documentation/ABI/testing/sysfs-driver-hid-wiimote
+2013-10-28	2013-10-28	Stefan Achatz	Documentation/ABI/obsolete/sysfs-driver-hid-roccat-ryos
+2013-11-07	2013-10-11	Srinivas Pandruvada	Documentation/ABI/testing/sysfs-class-powercap
+2013-12-05	2013-08-30	Hans de Goede	Documentation/ABI/stable/sysfs-bus-usb
+2013-12-06	2013-12-06	Aaro Koskinen	Documentation/ABI/testing/sysfs-platform-tahvo-usb
+2013-12-09	2013-12-03	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-ffs
+2013-12-09	2013-12-09	Frank Haverkamp	Documentation/ABI/testing/debugfs-driver-genwqe
+2013-12-27	2012-04-12	Kent Yoder	Documentation/ABI/testing/debugfs-pfo-nx-crypto
+2013-12-30	2013-12-30	Dan Williams	Documentation/ABI/removed/net_dma
+2014-01-07	2012-02-15	Bernhard Seibold	Documentation/ABI/testing/sysfs-driver-hid-lenovo
+2014-01-09	2019-07-31	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-power
+2014-01-11	2012-11-07	Kent Yoder	Documentation/ABI/stable/sysfs-class-tpm
+2014-01-12	2008-09-17	Mathias Nyman	Documentation/ABI/testing/sysfs-bus-usb
+2014-02-04	2013-07-10	Jim Ramsay	Documentation/admin-guide/device-mapper/switch.rst
+2014-03-09	2008-07-24	Nishanth Aravamudan	Documentation/ABI/testing/sysfs-kernel-mm-hugepages
+2014-03-11	2012-03-16	Matt Fleming	Documentation/admin-guide/efi-stub.rst
+2014-03-11	2014-10-01	Cody P Schafer	Documentation/ABI/testing/sysfs-bus-event_source-devices-events
+2014-03-13	2011-08-02	Michael Hennerich	Documentation/ABI/testing/sysfs-bus-iio-impedance-analyzer-ad5933
+2014-03-23	2017-05-13	Kees Cook	Documentation/admin-guide/LSM/apparmor.rst
+2014-03-30	2011-07-13	Andy Lutomirski	Documentation/ABI/stable/vdso
+2014-04-07	2010-10-26	Corentin Chary	Documentation/ABI/testing/sysfs-platform-asus-wmi
+2014-04-21	2012-03-28	Mikulas Patocka	Documentation/admin-guide/device-mapper/verity.rst
+2014-04-27	2013-12-20	Dave Young	Documentation/ABI/testing/sysfs-kernel-boot_params
+2014-05-08	2014-05-08	Srinivas Pandruvada	Documentation/ABI/testing/sysfs-bus-iio-accel-bmc150
+2014-05-08	2014-05-08	Srinivas Pandruvada	Documentation/ABI/testing/sysfs-bus-iio-gyro-bmg160
+2014-05-12	2012-04-24	Jon Brenner	Documentation/ABI/testing/sysfs-bus-iio-light-tsl2583
+2014-05-19	2014-05-19	Florian Fainelli	Documentation/ABI/testing/sysfs-platform-brcmstb-gisb-arb
+2014-05-21	2014-05-21	Sam bobroff	Documentation/ABI/stable/sysfs-devices-system-cpu
+2014-05-27	2014-02-28	Stewart Smith	Documentation/ABI/stable/sysfs-firmware-opal-elog
+2014-06-12	2014-01-23	Vivek Goyal	Documentation/ABI/testing/sysfs-kernel-vmcoreinfo
+2014-06-12	2014-06-12	Alex Williamson	Documentation/ABI/testing/sysfs-class-iommu
+2014-06-12	2014-06-12	Alex Williamson	Documentation/ABI/testing/sysfs-class-iommu-amd-iommu
+2014-06-12	2014-06-12	Alex Williamson	Documentation/ABI/testing/sysfs-class-iommu-intel-iommu
+2014-06-12	2014-06-12	Peter De Schrijver	Documentation/ABI/testing/sysfs-driver-tegra-fuse
+2014-06-23	2012-03-18	Carsten Emde	Documentation/admin-guide/edid.rst
+2014-07-03	2012-05-08	Kay Sievers	Documentation/ABI/testing/dev-kmsg
+2014-07-14	2014-07-14	Brian Foster	Documentation/ABI/testing/sysfs-fs-xfs
+2014-08-02	2011-10-01	MyungJoo Ham	Documentation/ABI/testing/sysfs-class-devfreq
+2014-08-03	2019-04-24	Changbin Du	Documentation/admin-guide/acpi/dsdt-override.rst
+2014-08-08	2014-08-08	Vyacheslav Dubeyko	Documentation/ABI/testing/sysfs-fs-nilfs2
+2014-08-12	2011-08-02	Mike Snitzer	Documentation/admin-guide/device-mapper/dm-flakey.rst
+2014-08-12	2013-03-23	Kent Overstreet	Documentation/admin-guide/bcache.rst
+2014-08-22	2014-05-23	Florian Fainelli	Documentation/ABI/testing/sysfs-class-net-statistics
+2014-09-03	2011-12-21	Kees Cook	Documentation/admin-guide/LSM/Yama.rst
+2014-09-05	2014-05-30	Bjørn Mork	Documentation/ABI/testing/sysfs-class-net-cdc_ncm
+2014-09-12	2013-08-16	Mikulas Patocka	Documentation/admin-guide/device-mapper/statistics.rst
+2014-09-29	2014-04-23	Li Jun	Documentation/ABI/testing/sysfs-platform-chipidea-usb-otg
+2014-10-15	2013-12-09	Frank Haverkamp	Documentation/ABI/testing/sysfs-driver-genwqe
+2014-10-18	2014-07-22	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-uac1_legacy
+2014-10-19	2011-01-24	Alan Ott	Documentation/ABI/testing/sysfs-driver-hid
+2014-10-25	2014-05-23	Florian Fainelli	Documentation/ABI/testing/sysfs-class-net-queues
+2014-10-29	2019-04-18	Mauro Carvalho Chehab	Documentation/admin-guide/blockdev/drbd/index.rst
+2014-11-10	2014-11-10	Mathieu Poirier	Documentation/ABI/testing/sysfs-bus-coresight-devices-funnel
+2014-11-13	2013-03-01	Joe Thornber	Documentation/admin-guide/device-mapper/cache.rst
+2014-11-17	2013-04-08	Rami Rosen	Documentation/admin-guide/cgroup-v1/net_cls.rst
+2014-11-21	2014-03-02	Stewart Smith	Documentation/ABI/stable/sysfs-firmware-opal-dump
+2014-11-21	2017-03-16	Milan Broz	Documentation/admin-guide/device-mapper/dm-crypt.rst
+2014-11-27	2013-11-16	Alexandre Courbot	Documentation/admin-guide/gpio/sysfs.rst
+2014-12-10	2014-03-03	Joe Thornber	Documentation/admin-guide/device-mapper/era.rst
+2014-12-11	2014-10-10	Felipe Balbi	Documentation/ABI/stable/sysfs-class-udc
+2014-12-29	2014-12-29	Carlo Caione	Documentation/ABI/testing/sysfs-driver-input-axp-pek
+2015-01-06	2015-01-06	Antonios Motakis	Documentation/ABI/testing/sysfs-bus-amba
+2015-01-22	2013-04-11	Paul E. McKenney	Documentation/admin-guide/kernel-per-CPU-kthreads.rst
+2015-01-27	2013-09-05	Sudeep Dutt	Documentation/ABI/testing/sysfs-class-mic
+2015-02-19	2014-11-10	Mathieu Poirier	Documentation/ABI/testing/sysfs-bus-coresight-devices-etm3x
+2015-02-20	2012-02-06	Lee Jones	Documentation/ABI/testing/sysfs-devices-soc
+2015-02-22	2013-03-01	Mike Snitzer	Documentation/admin-guide/device-mapper/cache-policies.rst
+2015-04-16	2015-04-16	NeilBrown	Documentation/ABI/testing/sysfs-platform-twl4030-usb
+2015-04-18	2012-05-29	Johan Hovold	Documentation/ABI/testing/sysfs-class-backlight-driver-lm3533
+2015-04-20	2014-07-14	Pratyush Anand	Documentation/ABI/testing/sysfs-bus-usb-lvstest
+2015-05-05	2015-05-05	Andreas Gröger	Documentation/ABI/testing/sysfs-bus-pci-drivers-janz-cmodio
+2015-05-05	2015-05-05	Andreas Gröger	Documentation/ABI/testing/sysfs-class-net-janz-ican3
+2015-05-06	2015-05-06	Seymour, Shane M	Documentation/ABI/testing/sysfs-class-scsi_tape
+2015-05-08	2007-02-14	Nicolas Pitre	.mailmap
+2015-05-11	2015-04-15	Minchan Kim	Documentation/ABI/testing/sysfs-block-zram
+2015-05-14	2012-05-23	Robert Love	Documentation/ABI/testing/sysfs-bus-fcoe
+2015-05-20	2019-06-12	Jonathan Brassow	Documentation/admin-guide/device-mapper/dm-raid.rst
+2015-05-28	2020-01-21	Paul E. McKenney	Documentation/RCU/torture.rst
+2015-06-07	2019-03-11	Keith Busch	Documentation/ABI/stable/sysfs-devices-node
+2015-06-15	2012-07-06	Maxim Mikityanskiy	Documentation/ABI/testing/sysfs-platform-ideapad-laptop
+2015-06-15	2013-06-20	Lv Zheng	Documentation/ABI/testing/sysfs-bus-acpi
+2015-06-19	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-class-led
+2015-06-25	2015-06-25	Ivan Khoronzhuk	Documentation/ABI/testing/sysfs-firmware-dmi-tables
+2015-06-25	2015-06-25	Sergey Senozhatsky	Documentation/ABI/testing/sysfs-class-zram
+2015-06-27	2014-10-08	Ian Munsie	Documentation/ABI/testing/sysfs-class-cxl
+2015-06-29	2013-12-20	Dave Young	Documentation/ABI/testing/sysfs-firmware-efi-runtime-map
+2015-07-07	2013-12-20	Dave Young	Documentation/ABI/testing/sysfs-firmware-efi
+2015-07-17	2015-07-17	Mike Marshall	Documentation/ABI/stable/sysfs-fs-orangefs
+2015-07-17	2017-08-17	Paul E. McKenney	Documentation/RCU/stallwarn.rst
+2015-08-29	2015-03-20	Josef Bacik	Documentation/admin-guide/device-mapper/log-writes.rst
+2015-08-31	2018-02-13	Aishwarya Pant	Documentation/ABI/testing/sysfs-ata
+2015-09-02	2015-02-26	Azael Avalos	Documentation/ABI/testing/sysfs-driver-toshiba_haps
+2015-09-06	2015-09-06	Matt Ranostay	Documentation/ABI/testing/sysfs-bus-iio-humidity-hdc100x
+2015-09-15	2009-10-22	Alex Chiang	Documentation/ABI/testing/sysfs-devices-system-cpu
+2015-09-22	2011-11-02	Kees Cook	Documentation/admin-guide/LSM/index.rst
+2015-09-22	2015-05-27	Stefan Agner	Documentation/ABI/testing/sysfs-bus-iio-vf610
+2015-09-22	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/configfs-stp-policy
+2015-09-22	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-bus-intel_th-devices-pti
+2015-09-22	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-class-stm_source
+2015-09-25	2014-12-16	Seth Jennings	Documentation/ABI/testing/sysfs-kernel-livepatch
+2015-09-30	2015-09-30	Clément Vuchener	Documentation/ABI/testing/sysfs-driver-hid-corsair
+2015-10-01	2014-02-20	Grant Likely	Documentation/ABI/testing/sysfs-firmware-ofw
+2015-10-01	2015-10-01	Ludovic Tancerel	Documentation/ABI/testing/sysfs-bus-iio-meas-spec
+2015-10-07	2015-10-07	Paul E. McKenney	Documentation/RCU/Design/Requirements/GPpartitionReaders1.svg
+2015-10-07	2015-10-07	Paul E. McKenney	Documentation/RCU/Design/Requirements/ReadersPartitionGP1.svg
+2015-10-08	2014-08-14	Azael Avalos	Documentation/admin-guide/laptops/toshiba_haps.rst
+2015-10-12	2015-10-12	Seymour, Shane M	Documentation/ABI/testing/sysfs-driver-st
+2015-10-17	2012-05-29	Johan Hovold	Documentation/ABI/testing/sysfs-class-led-driver-lm3533
+2015-10-22	2014-03-28	Florian Fainelli	Documentation/ABI/testing/sysfs-class-net
+2015-11-03	2014-01-17	James Hogan	Documentation/ABI/testing/sysfs-class-rc
+2015-11-22	2015-02-11	Azael Avalos	Documentation/ABI/testing/sysfs-driver-toshiba_acpi
+2015-12-05	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-class-stm
+2015-12-11	2015-12-11	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-tcm
+2015-12-12	2014-03-01	Paul E. McKenney	Documentation/RCU/rcu_dereference.rst
+2015-12-14	2015-12-14	Marc Titinger	Documentation/ABI/testing/sysfs-bus-iio-ina2xx-adc
+2015-12-15	2015-06-12	Aleksa Sarai	Documentation/admin-guide/cgroup-v1/pids.rst
+2015-12-18	2015-02-19	Gabriele Mazzotta	Documentation/ABI/testing/sysfs-platform-dell-laptop
+2015-12-28	2015-10-22	Linus Walleij	Documentation/ABI/testing/gpio-cdev
+2016-01-03	2013-10-09	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-mass-storage
+2016-01-12	2015-04-28	Matt Campbell	Documentation/ABI/stable/sysfs-driver-w1_ds28ea00
+2016-01-12	2015-11-09	Daniel Baluta	Documentation/ABI/testing/configfs-iio
+2016-01-18	2015-09-14	Matt Ranostay	Documentation/ABI/testing/sysfs-bus-iio-chemical-vz89x
+2016-01-26	2019-03-13	Steve French	Documentation/admin-guide/cifs/introduction.rst
+2016-01-29	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/BigTreeClassicRCU.svg
+2016-01-29	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/HugeTreeClassicRCU.svg
+2016-01-29	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/TreeLevel.svg
+2016-01-29	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/TreeMapping.svg
+2016-01-29	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/TreeMappingLevel.svg
+2016-02-04	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget
+2016-02-11	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/nxtlist.svg
+2016-03-01	2015-05-12	Dmitry Khromov	Documentation/ABI/stable/sysfs-bus-w1
+2016-03-08	2015-02-18	Michal Malý	Documentation/ABI/testing/sysfs-driver-hid-logitech-lg4ff
+2016-03-08	2016-02-05	Sinan Kaya	Documentation/ABI/testing/sysfs-platform-hidma-mgmt
+2016-03-11	2015-08-28	Vladimir Barinov	Documentation/ABI/testing/sysfs-bus-iio-adc-hi8435
+2016-03-26	2013-05-28	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-eem
+2016-03-26	2013-05-28	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-subset
+2016-04-12	2015-12-23	Matan Barak	Documentation/ABI/testing/configfs-rdma_cm
+2016-04-24	2016-01-19	João Paulo Rechi Vita	Documentation/ABI/removed/sysfs-class-rfkill
+2016-04-25	2015-03-04	Jacek Anaszewski	Documentation/ABI/testing/sysfs-class-led-flash
+2016-04-26	2016-03-04	Heiner Kallweit	Documentation/ABI/testing/sysfs-class-rc-nuvoton
+2016-04-30	2014-12-03	Matt Ranostay	Documentation/ABI/testing/sysfs-bus-iio-proximity-as3935
+2016-05-03	2016-05-03	Johannes Thumshirn	Documentation/ABI/testing/sysfs-bus-mcb
+2016-05-25	2015-04-28	Peter Jones	Documentation/ABI/testing/sysfs-firmware-efi-esrt
+2016-05-26	2016-05-01	Sinan Kaya	Documentation/ABI/testing/sysfs-platform-hidma
+2016-05-30	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-bus-intel_th-devices-gth
+2016-06-02	2016-05-03	Pratik Patel	Documentation/ABI/testing/sysfs-bus-coresight-devices-stm
+2016-06-06	2013-06-13	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-ecm
+2016-06-08	2014-06-03	Kim Phillips	Documentation/ABI/testing/sysfs-bus-platform
+2016-06-18	2016-11-07	Mauro Carvalho Chehab	Documentation/admin-guide/bug-hunting.rst
+2016-06-29	2016-06-29	Luis R. Rodriguez	.cocciconfig
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/ExpRCUFlow.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel0.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel1.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel2.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel3.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel4.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel5.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel6.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel7.svg
+2016-06-29	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/Funnel8.svg
+2016-07-06	2014-06-18	Janne Kanniainen	Documentation/ABI/testing/sysfs-class-leds-gt683r
+2016-07-08	2015-02-18	Benjamin Herrenschmidt	Documentation/ABI/stable/sysfs-devices
+2016-07-08	2016-04-05	Mathieu Poirier	Documentation/ABI/testing/sysfs-bus-coresight-devices-etb10
+2016-07-08	2016-06-29	Paul E. McKenney	Documentation/RCU/Design/Expedited-Grace-Periods/ExpSchedFlow.svg
+2016-07-23	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-bus-intel_th-output-devices
+2016-07-31	2018-10-03	Darrick J. Wong	Documentation/admin-guide/ext4.rst
+2016-08-02	2016-01-28	Gabriel Somlo	Documentation/ABI/testing/sysfs-firmware-qemu_fw_cfg
+2016-08-03	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-spear-pcie-gadget
+2016-08-26	2016-08-26	Rafał Miłecki	Documentation/ABI/testing/sysfs-class-led-trigger-oneshot
+2016-08-29	2015-12-03	Bjørn Mork	Documentation/ABI/testing/sysfs-class-net-qmi
+2016-08-30	2013-11-07	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-loopback
+2016-09-06	2016-05-03	Mathieu Poirier	Documentation/ABI/testing/sysfs-bus-coresight-devices-tmc
+2016-09-16	2015-05-13	Pratik Patel	Documentation/ABI/testing/sysfs-bus-coresight-devices-etm4x
+2016-10-11	2016-04-03	Wolfram Sang	Documentation/ABI/testing/sysfs-platform-i2c-demux-pinctrl
+2016-10-18	2016-10-18	Mauro Carvalho Chehab	Documentation/CodingStyle
+2016-10-18	2016-10-18	Mauro Carvalho Chehab	Documentation/SubmittingPatches
+2016-11-01	2016-11-01	Alan Tull	Documentation/ABI/testing/sysfs-class-fpga-bridge
+2016-11-08	2016-11-08	Peter Rosin	Documentation/ABI/testing/sysfs-bus-iio-dac-dpot-dac
+2016-11-08	2016-11-08	Peter Rosin	Documentation/ABI/testing/sysfs-bus-iio-potentiometer-mcp4531
+2016-11-12	2016-11-03	Jani Nikula	Documentation/admin-guide/devices.txt
+2016-11-13	2016-09-13	Craig Gallek	Documentation/ABI/testing/sysfs-kernel-irq
+2016-11-26	2016-11-07	Mauro Carvalho Chehab	Documentation/admin-guide/bug-bisect.rst
+2016-12-08	2018-02-13	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-scsi_host
+2016-12-09	2015-10-07	Alan Tull	Documentation/ABI/testing/sysfs-class-fpga-manager
+2016-12-15	2016-12-15	Linus Torvalds	Documentation/Changes
+2016-12-16	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-usb-gadget-rndis
+2017-01-06	2016-11-16	Kirti Wankhede	Documentation/ABI/testing/sysfs-bus-vfio-mdev
+2017-01-09	2014-12-10	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-uvc
+2017-01-09	2016-09-16	Rafał Miłecki	Documentation/ABI/testing/sysfs-class-led-trigger-usbport
+2017-01-12	2016-04-27	Krzysztof Opasiak	Documentation/ABI/testing/sysfs-platform-usbip-vudc
+2017-01-12	2016-05-01	Andrew F. Davis	Documentation/ABI/testing/sysfs-bus-iio-health-afe440x
+2017-01-20	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-bus-i2c-devices-fsa9480
+2017-01-22	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/blkd_task.svg
+2017-01-24	2016-09-28	William Breathitt Gray	Documentation/ABI/testing/sysfs-bus-iio-counter-104-quad-8
+2017-01-27	2017-01-27	Enric Balletbo i Serra	Documentation/ABI/testing/sysfs-bus-i2c-devices-bq32k
+2017-01-31	2017-01-31	Chanwoo Choi	Documentation/ABI/testing/sysfs-class-devfreq-event
+2017-02-28	2016-10-10	Brian Masney	Documentation/ABI/testing/sysfs-bus-iio-light-isl29018
+2017-03-04	2013-06-04	SeongJae Park	Documentation/ABI/testing/sysfs-driver-xen-blkback
+2017-03-04	2018-02-23	Aishwarya Pant	Documentation/ABI/testing/sysfs-bus-rbd
+2017-03-10	2017-03-02	Logan Gunthorpe	Documentation/ABI/testing/sysfs-class-switchtec
+2017-03-11	2019-04-18	Mauro Carvalho Chehab	Documentation/admin-guide/blockdev/zram.rst
+2017-03-12	2015-11-16	Tejun Heo	Documentation/admin-guide/cgroup-v2.rst
+2017-03-19	2014-03-14	Cody P Schafer	Documentation/ABI/testing/sysfs-bus-event_source-devices-hv_gpci
+2017-03-24	2015-03-03	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-printer
+2017-03-27	2017-03-27	Peter Chen	Documentation/ABI/testing/sysfs-platform-chipidea-usb2
+2017-03-29	2020-09-23	SeongJae Park	Documentation/ABI/testing/sysfs-driver-xen-blkfront
+2017-04-03	2017-04-03	Michal Hocko	Documentation/ABI/obsolete/sysfs-firmware-acpi
+2017-04-04	2015-05-07	Alexander Usyskin	Documentation/ABI/testing/sysfs-bus-mei
+2017-04-05	2016-11-08	Peter Rosin	Documentation/ABI/testing/sysfs-bus-iio-adc-envelope-detector
+2017-04-06	2017-04-06	Jacopo Mondi	Documentation/ABI/testing/sysfs-bus-iio-adc-max9611
+2017-04-16	2015-09-22	Alexander Shishkin	Documentation/ABI/testing/sysfs-bus-intel_th-devices-msc
+2017-04-25	2014-06-23	Alexander Usyskin	Documentation/ABI/testing/sysfs-class-mei
+2017-04-29	2015-07-30	NeilBrown	Documentation/ABI/testing/sysfs-class-power-twl4030
+2017-05-08	2016-08-01	Enric Balletbo i Serra	Documentation/ABI/testing/sysfs-bus-iio-cros-ec
+2017-05-14	2016-01-29	Paul E. McKenney	Documentation/RCU/Design/Data-Structures/BigTreePreemptRCUBHdyntickCB.svg
+2017-05-14	2017-05-14	Peter Rosin	Documentation/ABI/testing/sysfs-class-mux
+2017-05-15	2014-07-14	Konrad Rzeszutek Wilk	Documentation/ABI/testing/sysfs-driver-pciback
+2017-05-25	2017-06-14	Juergen Gross	Documentation/ABI/testing/sysfs-hypervisor-xen
+2017-05-27	2017-01-10	Parav Pandit	Documentation/admin-guide/cgroup-v1/rdma.rst
+2017-06-14	2017-06-14	Anatolij Gustschin	Documentation/ABI/testing/sysfs-driver-altera-cvp
+2017-07-01	2017-11-07	Matthew Garrett	Documentation/ABI/testing/evm
+2017-07-02	2019-05-15	Marc Gonzalez	.get_maintainer.ignore
+2017-07-14	2017-06-14	Juergen Gross	Documentation/ABI/stable/sysfs-hypervisor-xen
+2017-07-17	2017-06-01	Rashmica Gupta	Documentation/ABI/testing/ppc-memtrace
+2017-07-21	2014-03-14	Kajol Jain	Documentation/ABI/testing/sysfs-bus-event_source-devices-hv_24x7
+2017-07-30	2016-04-20	Kees Cook	Documentation/admin-guide/LSM/LoadPin.rst
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-callback-invocation.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-callback-registry.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-dyntick.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp-fqs.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp-init-2.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-hotplug.svg
+2017-08-08	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/rcu_node-lock.svg
+2017-08-10	2014-11-06	Andrzej Pietrasiewicz	Documentation/ABI/testing/configfs-usb-gadget-hid
+2017-08-10	2017-01-26	Fabrice Gasnier	Documentation/ABI/testing/sysfs-bus-iio-adc-stm32
+2017-08-10	2017-08-10	Shilpasri G Bhat	Documentation/ABI/testing/sysfs-firmware-opal-powercap
+2017-08-10	2017-08-10	Shilpasri G Bhat	Documentation/ABI/testing/sysfs-firmware-opal-psr
+2017-08-11	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp-init-1.svg
+2017-08-11	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-qs.svg
+2017-08-12	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp.svg
+2017-08-20	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp-cleanup.svg
+2017-08-20	2017-08-08	Paul E. McKenney	Documentation/RCU/Design/Memory-Ordering/TreeRCU-gp-init-3.svg
+2017-08-20	2017-09-03	Mauro Carvalho Chehab	Documentation/admin-guide/media/au0828-cardlist.rst
+2017-08-29	2017-03-27	Kishon Vijay Abraham I	Documentation/PCI/endpoint/pci-endpoint-cfs.rst
+2017-09-06	2017-09-06	Huang Ying	Documentation/ABI/testing/sysfs-kernel-mm-swap
+2017-09-06	2020-03-03	Masahiro Yamada	Documentation/.gitignore
+2017-10-09	2017-09-22	Stephen Hemminger	Documentation/ABI/stable/sysfs-bus-vmbus
+2017-10-12	2017-10-12	Jin Qian	Documentation/ABI/testing/sysfs-bus-mmc
+2017-10-16	2017-03-27	Kishon Vijay Abraham I	Documentation/PCI/endpoint/pci-endpoint.rst
+2017-11-01	2017-11-01	Mario Limonciello	Documentation/ABI/testing/dell-smbios-wmi
+2017-11-02	2017-07-16	Dan Williams	Documentation/ABI/obsolete/sysfs-class-dax
+2017-11-10	2017-01-25	Andreas Klinger	Documentation/ABI/testing/sysfs-bus-iio-distance-srf08
+2017-11-13	2016-12-07	Stuart Yoder	Documentation/ABI/testing/sysfs-bus-fsl-mc
+2017-11-18	2015-12-17	Pratyush Anand	Documentation/ABI/testing/sysfs-class-watchdog
+2017-12-08	2017-03-27	Kishon Vijay Abraham I	Documentation/PCI/endpoint/pci-test-howto.rst
+2017-12-08	2017-12-08	Lu Baolu	Documentation/ABI/testing/sysfs-bus-pci-drivers-xhci_hcd
+2017-12-12	2017-09-08	Mario Limonciello	Documentation/ABI/testing/sysfs-platform-intel-wmi-thunderbolt
+2017-12-21	2017-01-04	Mikulas Patocka	Documentation/admin-guide/device-mapper/dm-integrity.rst
+2017-12-28	2017-12-14	Boris Brezillon	Documentation/ABI/testing/sysfs-bus-i3c
+2017-12-31	2017-05-02	Benjamin Gaignard	Documentation/ABI/testing/sysfs-bus-iio-timer-stm32
+2018-01-07	2017-07-26	Srinivas Kandagatla	Documentation/ABI/stable/sysfs-bus-nvmem
+2018-01-11	2018-01-11	Alexandre Belloni	Documentation/ABI/testing/sysfs-class-rtc
+2018-01-11	2018-01-11	Arend van Spriel	Documentation/ABI/testing/sysfs-devices-coredump
+2018-01-15	2018-01-15	Arkadi Sharshevsky	Documentation/ABI/testing/devlink-resource-mlxsw
+2018-01-17	2020-11-24	Eric Auger	Documentation/ABI/testing/sysfs-kernel-iommu_groups
+2018-02-06	2018-02-06	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-backlight-adp5520
+2018-02-06	2018-02-06	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-backlight-lm3639
+2018-02-09	2017-09-20	Jan Kandziora	Documentation/ABI/testing/sysfs-driver-w1_ds28e17
+2018-02-10	2018-02-10	Aishwarya Pant	Documentation/ABI/testing/sysfs-devices-platform-dock
+2018-02-11	2017-05-02	Jeremy Kerr	Documentation/ABI/stable/sysfs-driver-aspeed-vuart
+2018-02-12	2017-12-18	Scott Bauer	Documentation/admin-guide/device-mapper/unstriped.rst
+2018-02-12	2018-02-12	Jeremy Kerr	Documentation/ABI/testing/sysfs-driver-fsi-master-gpio
+2018-02-13	2017-11-01	Mario Limonciello	Documentation/ABI/testing/sysfs-platform-dell-smbios
+2018-02-17	2017-05-14	Mauro Carvalho Chehab	Documentation/Makefile
+2018-02-17	2018-02-17	Aishwarya Pant	Documentation/ABI/testing/sysfs-block-loop
+2018-02-19	2018-02-19	Aishwarya Pant	Documentation/ABI/testing/sysfs-block-aoe
+2018-02-20	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-usb-gadget-uac2
+2018-02-21	2017-08-09	Ujjal Singh	Documentation/ABI/stable/sysfs-driver-dma-ioatdma
+2018-03-01	2018-03-01	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-bsr
+2018-03-02	2018-03-02	Aishwarya Pant	Documentation/ABI/testing/sysfs-devices-platform-trackpoint
+2018-03-02	2018-03-02	Aishwarya Pant	Documentation/ABI/testing/sysfs-driver-hid-logitech-hidpp
+2018-03-10	2018-01-19	Aishwarya Pant	Documentation/ABI/testing/sysfs-bus-rapidio
+2018-03-20	2018-03-20	Heikki Krogerus	Documentation/ABI/testing/sysfs-class-usb_role
+2018-03-21	2017-08-28	Fabrice Gasnier	Documentation/ABI/testing/sysfs-bus-iio-lptimer-stm32
+2018-03-24	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-usb-gadget-sourcesink
+2018-03-26	2018-02-13	Aishwarya Pant	Documentation/ABI/testing/sysfs-block-device
+2018-03-29	2017-12-18	Uwe Kleine-König	Documentation/ABI/testing/sysfs-bus-siox
+2018-03-29	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-usb-gadget-midi
+2018-03-31	2017-05-25	Florian Fainelli	Documentation/ABI/testing/sysfs-class-net-phydev
+2018-03-31	2018-02-06	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-backlight-adp8860
+2018-04-05	2016-11-09	Yoshihiro Shimoda	Documentation/ABI/testing/sysfs-platform-phy-rcar-gen3-usb2
+2018-04-15	2018-01-19	Aishwarya Pant	Documentation/ABI/testing/sysfs-class-rapidio
+2018-04-16	2018-02-10	Aishwarya Pant	Documentation/ABI/stable/sysfs-class-infiniband
+2018-04-17	2018-03-16	Rafael J. Wysocki	Documentation/ABI/testing/sysfs-devices-platform-ACPI-TAD
+2018-04-24	2017-06-06	Christopher Bostic	Documentation/ABI/testing/sysfs-bus-fsi
+2018-04-24	2018-01-01	Aishwarya Pant	Documentation/ABI/testing/rtc-cdev
+2018-04-26	2017-09-06	Daniel Colascione	Documentation/ABI/testing/procfs-smaps_rollup
+2018-05-01	2017-12-10	Ben Whitten	Documentation/ABI/testing/sysfs-class-led-trigger-netdev
+2018-05-03	2017-06-07	Damien Le Moal	Documentation/admin-guide/device-mapper/dm-zoned.rst
+2018-05-05	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/procfs-diskstats
+2018-05-06	2017-11-17	Andi Kleen	Documentation/admin-guide/clearing-warn-once.rst
+2018-05-07	2019-12-05	Stephen Boyd	.gitattributes
+2018-05-09	2018-02-23	Aishwarya Pant	Documentation/ABI/testing/sysfs-bus-nfit
+2018-05-12	2018-03-21	Hans Verkuil	Documentation/ABI/testing/debugfs-cec-error-inj
+2018-05-15	2018-04-23	Adam Thomson	Documentation/ABI/testing/sysfs-class-power
+2018-05-23	2017-11-21	Christian Gromm	Documentation/ABI/testing/sysfs-bus-most
+2018-06-03	2016-10-26	Mauro Carvalho Chehab	Documentation/admin-guide/index.rst
+2018-06-03	2018-06-03	Dan Williams	Documentation/ABI/removed/sysfs-bus-nfit
+2018-06-04	2020-01-22	Hridya Valsaraju	Documentation/ABI/testing/sysfs-fs-f2fs
+2018-06-07	2020-04-11	Cristian Souza	Documentation/admin-guide/init.rst
+2018-06-08	2018-03-08	Mikulas Patocka	Documentation/admin-guide/device-mapper/writecache.rst
+2018-06-08	2019-05-14	Changbin Du	Documentation/PCI/endpoint/pci-test-function.rst
+2018-06-11	2017-05-09	Peter Rajnoha	Documentation/ABI/testing/sysfs-uevent
+2018-06-16	2018-03-02	Aishwarya Pant	Documentation/ABI/testing/sysfs-driver-hid-ntrig
+2018-06-17	2018-02-24	Aishwarya Pant	Documentation/ABI/testing/sysfs-devices-platform-ipmi
+2018-06-23	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-bus-iio-magnetometer-hmc5843
+2018-06-27	2018-06-27	Heikki Krogerus	Documentation/ABI/obsolete/sysfs-class-typec
+2018-06-27	2018-06-27	Heikki Krogerus	Documentation/ABI/testing/sysfs-bus-typec
+2018-06-27	2018-06-27	Heikki Krogerus	Documentation/ABI/testing/sysfs-driver-typec-displayport
+2018-06-30	2018-06-30	Wu Hao	Documentation/ABI/testing/sysfs-class-fpga-region
+2018-07-06	2017-03-31	Yoshihiro Shimoda	Documentation/ABI/testing/sysfs-platform-renesas_usb3
+2018-07-07	2018-06-26	Bjorn Helgaas	Documentation/PCI/acpi-info.rst
+2018-07-16	2018-07-13	Thomas Gleixner	Documentation/admin-guide/hw-vuln/l1tf.rst
+2018-07-19	2018-07-19	Maxime Roussin-Bélanger	Documentation/ABI/testing/sysfs-bus-iio-light-si1133
+2018-07-20	2018-07-20	Mathieu Othacehe	Documentation/ABI/testing/sysfs-bus-iio-isl29501
+2018-07-29	2018-04-04	Prashanth Prakash	Documentation/admin-guide/acpi/cppc_sysfs.rst
+2018-07-30	2016-12-05	Sebastien Guiriec	Documentation/ABI/testing/sysfs-platform-sst-atom
+2018-08-04	2016-07-08	Octavian Purdila	Documentation/ABI/testing/configfs-acpi
+2018-08-10	2018-08-10	Stephen Hemminger	Documentation/ABI/testing/sysfs-bus-vmbus
+2018-08-20	2018-04-10	Miguel Ojeda	.clang-format
+2018-08-22	2017-03-21	Heikki Krogerus	Documentation/ABI/testing/sysfs-class-typec
+2018-08-30	2017-06-06	Mika Westerberg	Documentation/ABI/testing/sysfs-bus-thunderbolt
+2018-09-12	2018-06-01	Johan Hovold	Documentation/ABI/testing/sysfs-class-gnss
+2018-09-18	2018-09-07	Florian Fainelli	Documentation/ABI/testing/sysfs-class-net-dsa
+2018-09-19	2018-06-21	Rajat Jain	Documentation/ABI/testing/sysfs-bus-pci-devices-aer_stats
+2018-09-28	2018-09-28	Matan Ziv-Av	Documentation/ABI/testing/sysfs-platform-lg-laptop
+2018-10-05	2018-09-28	Matan Ziv-Av	Documentation/admin-guide/laptops/lg-laptop.rst
+2018-10-05	2018-10-05	Alexander Shishkin	Documentation/ABI/testing/configfs-stp-policy-p_sys-t
+2018-10-09	2018-02-15	Stanislav Nijnikov	Documentation/ABI/testing/sysfs-driver-ufs
+2018-10-22	2020-04-02	Mina Almasry	Documentation/admin-guide/cgroup-v1/hugetlb.rst
+2018-11-01	2018-07-16	Geert Uytterhoeven	Documentation/ABI/testing/sysfs-driver-bd9571mwv-regulator
+2018-11-09	2018-11-09	Heikki Krogerus	Documentation/ABI/testing/sysfs-devices-software_node
+2018-11-17	2018-01-23	Frederic Barrat	Documentation/ABI/testing/sysfs-class-ocxl
+2018-11-27	2018-10-11	Baolin Wang	Documentation/ABI/testing/sysfs-class-led-trigger-pattern
+2018-12-01	2018-01-10	Arnaud Pouliquen	Documentation/ABI/testing/sysfs-bus-iio-dfsdm-adc-stm32
+2018-12-12	2018-12-12	Enric Balletbo i Serra	Documentation/ABI/testing/sysfs-class-chromeos-driver-cros-ec-lightbar
+2018-12-12	2018-12-12	Enric Balletbo i Serra	Documentation/ABI/testing/sysfs-class-chromeos-driver-cros-ec-vbc
+2019-01-05	2019-01-15	Tomasz Duszynski	Documentation/ABI/testing/sysfs-bus-iio-sps30
+2019-01-12	2020-10-02	Rishabh Bhatnagar	Documentation/ABI/testing/sysfs-class-remoteproc
+2019-01-13	2019-07-31	Mauro Carvalho Chehab	Documentation/admin-guide/cifs/changes.rst
+2019-02-26	2019-01-11	Christian Brauner	Documentation/admin-guide/binderfs.rst
+2019-02-26	2019-02-18	Thomas Gleixner	Documentation/admin-guide/hw-vuln/mds.rst
+2019-03-05	2019-05-14	Suren Baghdasaryan	Documentation/accounting/psi.rst
+2019-04-02	2019-04-02	Patrick Havelange	Documentation/ABI/testing/sysfs-bus-counter-ftm-quaddec
+2019-04-02	2019-04-02	William Breathitt Gray	Documentation/ABI/testing/sysfs-bus-counter
+2019-04-05	2019-02-21	Helen Koike	Documentation/admin-guide/device-mapper/dm-init.rst
+2019-04-15	2018-06-17	Vadim Pasternak	Documentation/ABI/stable/sysfs-driver-mlxreg-io
+2019-04-21	2019-02-19	Thomas Gleixner	Documentation/admin-guide/hw-vuln/index.rst
+2019-04-21	2019-04-17	Mauro Carvalho Chehab	Documentation/accounting/index.rst
+2019-04-21	2019-08-04	Wu Hao	Documentation/ABI/testing/sysfs-platform-dfl-port
+2019-04-22	2019-04-18	Mauro Carvalho Chehab	Documentation/admin-guide/blockdev/drbd/figures.rst
+2019-04-22	2019-04-18	Mauro Carvalho Chehab	Documentation/admin-guide/laptops/index.rst
+2019-04-23	2019-04-12	Nick Crews	Documentation/ABI/testing/debugfs-wilco-ec
+2019-04-23	2019-04-23	Ajay Gupta	Documentation/ABI/testing/sysfs-driver-ucsi-ccg
+2019-04-24	2019-01-16	Micah Morton	Documentation/admin-guide/LSM/SafeSetID.rst
+2019-04-26	2019-04-18	Mauro Carvalho Chehab	Documentation/admin-guide/blockdev/index.rst
+2019-04-26	2019-04-24	Changbin Du	Documentation/admin-guide/acpi/ssdt-overlays.rst
+2019-04-27	2019-04-24	Changbin Du	Documentation/admin-guide/acpi/initrd_table_override.rst
+2019-04-29	2019-02-15	Oded Gabbay	Documentation/ABI/testing/sysfs-driver-habanalabs
+2019-05-05	2018-02-10	Aishwarya Pant	Documentation/ABI/testing/sysfs-platform-dptf
+2019-05-09	2019-04-19	Raul E Rangel	Documentation/ABI/testing/usb-uevent
+2019-05-10	2019-04-25	Changbin Du	Documentation/admin-guide/acpi/index.rst
+2019-05-10	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/configfs-usb-gadget-uac1
+2019-05-21	2019-01-10	Lianbo Jiang	Documentation/admin-guide/kdump/vmcoreinfo.rst
+2019-05-27	2018-12-12	Enric Balletbo i Serra	Documentation/ABI/testing/sysfs-class-chromeos
+2019-05-28	2019-03-07	Bryan Gurney	Documentation/admin-guide/device-mapper/dm-dust.rst
+2019-05-31	2019-02-15	Oded Gabbay	Documentation/ABI/testing/debugfs-driver-habanalabs
+2019-06-12	2019-04-22	Mauro Carvalho Chehab	Documentation/admin-guide/gpio/index.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/aoe/examples.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/aoe/index.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/device-mapper/dm-uevent.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/device-mapper/linear.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/device-mapper/striped.rst
+2019-06-12	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/kdump/index.rst
+2019-06-15	2019-06-04	Stefan Popa	Documentation/ABI/testing/sysfs-bus-iio-frequency-adf4371
+2019-06-18	2019-06-14	Enric Balletbo i Serra	Documentation/ABI/testing/debugfs-cros-ec
+2019-06-24	2019-06-20	Tim Chen	Documentation/admin-guide/hw-vuln/spectre.rst
+2019-06-26	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/device-mapper/index.rst
+2019-06-27	2019-05-14	Changbin Du	Documentation/PCI/index.rst
+2019-06-29	2019-06-12	Mauro Carvalho Chehab	Documentation/admin-guide/cgroup-v1/index.rst
+2019-07-05	2019-06-03	Raul E Rangel	Documentation/ABI/testing/sysfs-platform-wilco-ec
+2019-07-05	2019-10-14	Wu Hao	Documentation/ABI/testing/sysfs-platform-dfl-fme
+2019-07-06	2019-05-14	Changbin Du	Documentation/PCI/endpoint/index.rst
+2019-07-14	2019-04-02	William Breathitt Gray	Documentation/ABI/testing/sysfs-bus-counter-104-quad-8
+2019-07-26	2019-07-26	Mauro Carvalho Chehab	Documentation/admin-guide/auxdisplay/cfag12864b.rst
+2019-07-26	2019-07-26	Mauro Carvalho Chehab	Documentation/admin-guide/auxdisplay/index.rst
+2019-07-26	2019-07-26	Mauro Carvalho Chehab	Documentation/admin-guide/auxdisplay/ks0108.rst
+2019-07-31	2019-07-31	Mauro Carvalho Chehab	Documentation/admin-guide/cifs/index.rst
+2019-08-01	2019-08-01	Mauro Carvalho Chehab	Documentation/RCU/Design/Data-Structures/Data-Structures.rst
+2019-08-01	2019-08-01	Mauro Carvalho Chehab	Documentation/RCU/Design/Expedited-Grace-Periods/Expedited-Grace-Periods.rst
+2019-08-05	2019-08-01	Mauro Carvalho Chehab	Documentation/RCU/Design/Memory-Ordering/Tree-RCU-Memory-Ordering.rst
+2019-08-06	2019-02-28	Robert Shearman	Documentation/ABI/testing/sysfs-bus-i2c-devices-pca954x
+2019-08-07	2019-08-07	Tri Vo	Documentation/ABI/testing/sysfs-class-wakeup
+2019-08-11	2019-08-01	Mauro Carvalho Chehab	Documentation/RCU/Design/Requirements/Requirements.rst
+2019-09-11	2019-09-11	Nikos Tsironis	Documentation/admin-guide/device-mapper/dm-clone.rst
+2019-09-19	2019-09-19	Oleh Kravchenko	Documentation/ABI/testing/sysfs-class-led-driver-el15203000
+2019-09-27	2019-06-26	Jiunn Chang	Documentation/RCU/index.rst
+2019-10-03	2019-10-03	Branden Bonaby	Documentation/ABI/testing/debugfs-hyperv
+2019-10-07	2019-10-01	Okash Khawaja	Documentation/ABI/stable/sysfs-driver-speakup
+2019-10-19	2019-03-26	Paresh Chaudhary	Documentation/ABI/testing/sysfs-bus-iio-temperature-max31856
+2019-10-19	2019-08-22	Marek Behún	Documentation/ABI/testing/sysfs-firmware-turris-mox-rwtm
+2019-10-19	2019-09-02	Mircea Caprioru	Documentation/ABI/testing/sysfs-bus-iio-adc-ad7192
+2019-10-24	2019-10-23	Pawan Gupta	Documentation/admin-guide/hw-vuln/tsx_async_abort.rst
+2019-10-28	2020-11-25	Justin Ernst	Documentation/ABI/testing/sysfs-firmware-sgi_uv
+2019-10-29	2019-08-12	Marek Behún	Documentation/ABI/testing/sysfs-bus-moxtet-devices
+2019-11-06	2019-04-03	Christian Gromm	Documentation/ABI/testing/configfs-most
+2019-11-09	2019-09-03	Richard Gong	Documentation/ABI/testing/sysfs-devices-platform-stratix10-rsu
+2019-11-10	2019-11-04	Gomez Iglesias, Antonio	Documentation/admin-guide/hw-vuln/multihit.rst
+2019-11-11	2019-11-11	Nayna Jain	Documentation/ABI/testing/sysfs-secvar
+2019-11-19	2019-05-08	Nick Crews	Documentation/ABI/testing/sysfs-class-power-wilco
+2019-11-26	2019-11-26	Shilpasri G Bhat	Documentation/ABI/testing/sysfs-firmware-opal-sensor-groups
+2019-11-29	2019-06-04	Mauro Carvalho Chehab	Documentation/Kconfig
+2019-11-29	2019-08-12	Andrii Nakryiko	Documentation/ABI/testing/sysfs-kernel-btf
+2019-12-11	2019-12-11	Lars-Peter Clausen	Documentation/ABI/testing/sysfs-bus-iio-dma-buffer
+2019-12-11	2019-12-11	Sourabh Jain	Documentation/ABI/obsolete/sysfs-kernel-fadump_enabled
+2019-12-11	2019-12-11	Sourabh Jain	Documentation/ABI/obsolete/sysfs-kernel-fadump_registered
+2019-12-11	2019-12-11	Sourabh Jain	Documentation/ABI/obsolete/sysfs-kernel-fadump_release_mem
+2019-12-11	2019-12-11	Sourabh Jain	Documentation/ABI/removed/sysfs-kernel-fadump_release_opalcore
+2019-12-11	2019-12-11	Sourabh Jain	Documentation/ABI/testing/sysfs-kernel-fadump
+2019-12-13	2019-12-13	Srinivas Pandruvada	Documentation/admin-guide/acpi/fan_performance_states.rst
+2019-12-19	2019-12-19	Paul Moore	Documentation/ABI/obsolete/sysfs-selinux-disable
+2019-12-23	2020-05-15	Zhou Wang	Documentation/ABI/testing/debugfs-hisi-zip
+2020-01-16	2020-01-16	Florian Fainelli	Documentation/ABI/testing/sysfs-bus-mdio
+2020-01-19	2020-01-08	Stephen Smalley	Documentation/ABI/obsolete/sysfs-selinux-checkreqprot
+2020-01-26	2020-05-15	Zaibo Xu	Documentation/ABI/testing/debugfs-hisi-hpre
+2020-02-11	2020-02-11	Kenneth Lee	Documentation/ABI/testing/sysfs-driver-uacce
+2020-02-13	2020-01-10	Masami Hiramatsu	Documentation/admin-guide/bootconfig.rst
+2020-02-25	2020-02-20	Sean V Kelley	Documentation/PCI/boot-interrupts.rst
+2020-03-05	2020-05-15	Longfang Liu	Documentation/ABI/testing/debugfs-hisi-sec
+2020-03-09	2020-03-09	Heinz Mauelshagen	Documentation/admin-guide/device-mapper/dm-ebs.rst
+2020-03-10	2020-03-10	Daniel Campello	Documentation/ABI/testing/sysfs-bus-iio-sx9310
+2020-03-21	2020-01-21	Jing Lin	Documentation/ABI/stable/sysfs-driver-dma-idxd
+2020-04-01	2019-10-07	Liming Sun	Documentation/ABI/testing/sysfs-platform-mellanox-bootctl
+2020-04-05	2020-04-05	Guido Günther	Documentation/ABI/testing/sysfs-bus-iio-proximity
+2020-04-16	2020-03-20	Mike Leach	Documentation/ABI/testing/sysfs-bus-coresight-devices-cti
+2020-04-16	2020-04-16	Mika Westerberg	Documentation/ABI/obsolete/sysfs-driver-intel_pmc_bxt
+2020-04-17	2020-04-16	Mark Gross	Documentation/admin-guide/hw-vuln/special-register-buffer-data-sampling.rst
+2020-04-21	2020-01-16	Peter Chen	Documentation/ABI/testing/usb-charger-uevent
+2020-04-21	2020-04-21	Mauro Carvalho Chehab	Documentation/RCU/rculist_nulls.rst
+2020-04-22	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/debugfs-moxtet
+2020-05-07	2020-03-10	PrasannaKumar Muralidharan	Documentation/ABI/testing/sysfs-driver-jz4780-efuse
+2020-05-09	2020-04-27	Wu Hao	Documentation/ABI/testing/sysfs-bus-event_source-devices-dfl_fme
+2020-05-11	2020-04-27	Jithu Joseph	Documentation/ABI/testing/sysfs-platform-intel-wmi-sbl-fw-update
+2020-05-11	2020-05-11	Geert Uytterhoeven	Documentation/admin-guide/gpio/gpio-aggregator.rst
+2020-05-11	2020-05-11	Jack Wang	Documentation/ABI/testing/sysfs-class-rtrs-server
+2020-05-14	2020-05-11	Jack Wang	Documentation/ABI/testing/sysfs-block-rnbd
+2020-05-18	2020-05-18	Pierre-Louis Bossart	Documentation/ABI/testing/sysfs-bus-soundwire-master
+2020-05-19	2020-05-19	Hanjun Guo	Documentation/ABI/obsolete/sysfs-cpuidle
+2020-05-21	2020-05-21	Saravana Kannan	Documentation/ABI/testing/sysfs-devices-state_synced
+2020-05-21	2020-05-21	Saravana Kannan	Documentation/ABI/testing/sysfs-devices-waiting_for_supplier
+2020-05-22	2020-05-11	Jack Wang	Documentation/ABI/testing/sysfs-class-rtrs-client
+2020-05-31	2020-04-24	Rajan Vaja	Documentation/ABI/stable/sysfs-driver-firmware-zynqmp
+2020-06-02	2020-05-18	Pierre-Louis Bossart	Documentation/ABI/testing/sysfs-bus-soundwire-slave
+2020-06-04	2020-05-11	Jack Wang	Documentation/ABI/testing/sysfs-class-rnbd-server
+2020-06-07	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-class-backlight
+2020-06-11	2020-05-11	Jack Wang	Documentation/ABI/testing/sysfs-class-rnbd-client
+2020-06-12	2020-05-26	Saravanan Sekar	Documentation/ABI/testing/sysfs-class-power-mp2629
+2020-06-14	2020-06-01	Roman Sudarikov	Documentation/ABI/testing/sysfs-devices-mapping
+2020-06-15	2020-05-21	Saravana Kannan	Documentation/ABI/testing/sysfs-class-devlink
+2020-06-15	2020-06-15	Mauro Carvalho Chehab	Documentation/PCI/endpoint/function/binding/pci-test.rst
+2020-06-18	2020-06-18	Maxim Uvarov	Documentation/ABI/testing/sysfs-bus-optee-devices
+2020-06-21	2020-06-21	Tomasz Duszynski	Documentation/ABI/testing/sysfs-bus-iio-scd30
+2020-06-22	2020-06-22	Jean-Baptiste Maneyrol	Documentation/ABI/testing/sysfs-bus-iio-icm42600
+2020-07-11	2020-05-11	Akira Shimahara	Documentation/ABI/testing/sysfs-driver-w1_therm
+2020-07-16	2020-07-16	Dan Murphy	Documentation/ABI/testing/sysfs-class-led-multicolor
+2020-07-23	2020-07-23	Marek Behún	Documentation/ABI/testing/sysfs-class-led-driver-turris-omnia
+2020-08-04	2020-07-31	Vaibhav Jain	Documentation/ABI/testing/sysfs-bus-papr-pmem
+2020-08-07	2020-05-21	Saravana Kannan	Documentation/ABI/testing/sysfs-devices-consumer
+2020-08-07	2020-05-21	Saravana Kannan	Documentation/ABI/testing/sysfs-devices-supplier
+2020-08-07	2020-08-07	Eugene Zaikonnikov	Documentation/ABI/testing/sysfs-bus-iio-humidity-hdc2010
+2020-08-10	2020-08-10	Alexandru Tachici	Documentation/ABI/testing/sysfs-bus-iio-accel-adxl372
+2020-08-16	2020-08-06	Sebastian Reichel	Documentation/ABI/testing/sysfs-driver-input-exc3000
+2020-09-09	2020-09-09	Stephen Boyd	Documentation/ABI/stable/sysfs-kernel-notes
+2020-09-13	2020-09-07	Xu Yilun	Documentation/ABI/testing/sysfs-bus-dfl
+2020-09-15	2020-09-15	Xu Yilun	Documentation/ABI/testing/sysfs-driver-intel-m10-bmc
+2020-09-16	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/debugfs-turris-mox-rwtm
+2020-09-29	2020-09-29	Bartosz Golaszewski	Documentation/admin-guide/gpio/gpio-mockup.rst
+2020-09-29	2020-09-29	Bhaumik Bhatt	Documentation/ABI/stable/sysfs-bus-mhi
+2020-09-30	2020-09-29	Cezary Rojewski	Documentation/ABI/testing/sysfs-bus-pci-devices-catpt
+2020-10-04	2020-10-30	Mauro Carvalho Chehab	Documentation/ABI/testing/sysfs-bus-nvdimm
+2020-10-13	2020-10-13	Tiezhu Yang	Documentation/ABI/testing/sysfs-firmware-lefi-boardinfo
+2020-10-20	2020-10-20	Gene Chen	Documentation/ABI/testing/sysfs-bus-iio-adc-mt6360
+2020-10-21	2020-10-21	Shyam Sundar	Documentation/ABI/testing/sysfs-class-fc_host
+2020-10-21	2020-10-21	Shyam Sundar	Documentation/ABI/testing/sysfs-class-fc_remote_ports
+2020-10-27	2020-10-27	Divya Bharathi	Documentation/ABI/testing/sysfs-class-firmware-attributes
+2020-10-29	2020-10-29	Alexander Duyck	Documentation/ABI/testing/sysfs-class-intel_pmt
+2020-10-30	2020-10-30	Mauro Carvalho Chehab	Documentation/admin-guide/abi-obsolete.rst
+2020-10-30	2020-10-30	Mauro Carvalho Chehab	Documentation/admin-guide/abi-removed.rst
+2020-10-30	2020-10-30	Mauro Carvalho Chehab	Documentation/admin-guide/abi-stable.rst
+2020-10-30	2020-10-30	Mauro Carvalho Chehab	Documentation/admin-guide/abi-testing.rst
+2020-10-30	2020-10-30	Mauro Carvalho Chehab	Documentation/admin-guide/abi.rst
+2020-11-10	2020-11-10	Casey Schaufler	Documentation/ABI/testing/procfs-attr-current
+2020-11-10	2020-11-10	Casey Schaufler	Documentation/ABI/testing/procfs-attr-exec
+2020-11-10	2020-11-10	Casey Schaufler	Documentation/ABI/testing/procfs-attr-prev
+2020-11-30	2020-11-30	Mauro Carvalho Chehab	Documentation/admin-guide/features.rst
+2020-12-16	2020-12-16	Matteo Croce	Documentation/ABI/testing/sysfs-kernel-reboot
