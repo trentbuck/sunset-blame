@@ -84,13 +84,23 @@ def walk(writer, repo, commit, tree, parent_dirs='') -> None:
             if blob.is_binary:
                 logging.info('ignoring binary blob %s', entry_path)
             else:
-                # FIXME: git blame -w -M -C says these options are NOT IMPLEMENTED.
-                # Therefore not bothering to set them for now.
-                # https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
-                # FIXME: it isn't using .mailmap, either!!
-                blame = repo.blame(entry_path,
-                                   newest_commit=commit.id,
-                                   flags=pygit2.GIT_BLAME_NORMAL)
+                blame = repo.blame(
+                    entry_path,
+                    newest_commit=commit.id,
+                    flags=(
+                        # Ref. https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
+                        # requires https://github.com/libgit2/libgit2/commit/e3dcaca5
+                        # FIXME: mailmap still ignored as at these Debian 11 in 2021:
+                        #     libgit2-1.1=1.1.0+dfsg.1-4
+                        #     python3-pygit2=1.4.0+dfsg1-1
+                        pygit2.GIT_BLAME_USE_MAILMAP |
+                        # -w, requires https://github.com/libgit2/libgit2/commit/9830ab3d
+                        pygit2.GIT_BLAME_IGNORE_WHITESPACE |
+                        # -M, not implemented as at libgit2 v1.1.0
+                        pygit2.GIT_BLAME_TRACK_COPIES_SAME_FILE |  # -M
+                        # -C, not implemented as at libgit2 v1.1.0
+                        pygit2.GIT_BLAME_TRACK_COPIES_SAME_COMMIT_MOVES  # -C
+                    ))
                 authors, dates = collections.Counter(), collections.Counter()
                 for hunk in blame:
                     # Constantly re-looking up the commit is probably very inefficient.
