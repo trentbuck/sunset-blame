@@ -14,11 +14,13 @@
 ##  3. for anything that's left, use "git blame -w -M -C" to find the age of each line.
 ##  4. report the mean & modal age for that file.
 
+import collections
+import csv
+import datetime
 import subprocess
 import sys
+
 import magic
-import collections
-import datetime
 
 # EXAMPLE USAGE:
 #   sunset-blame.py
@@ -50,9 +52,12 @@ assert(0 == mime_database.load())
 # even though it's a shitty hack.
 # We could just sort inside python,
 # but that means we can't watch it scroll by and feel warm and confident that it hasn't just hung.
+#
+# UPDATE: we output CSV now, so fuck it.
 
-sys.stderr.write('DATE(MODE) DATE(MEAN) AUTHOR   PATH\n')
-sys.stderr.flush()
+# Print the heading to stderr so you can just do "sunset-blame|sort".
+writer = csv.writer(sys.stdout)
+writer.writerow(('DATE(MODE)', 'DATE(MEAN)', 'AUTHOR', 'PATH'))
 # EXAMPLE:        1970-01-01 1970-01-01 twb      src/chicken-parma.c
 # EXAMPLE:        1985-12-31 1978-04-13 lachlans src/chicken-parma.h
 
@@ -99,7 +104,7 @@ for path in paths:
         if author_mode == 'anonymous':
             author_mode = 'anon'
 
-        print('{} {} {:8s} {}'.format(  # 8 = len('lachlans')
+        writer.writerow((
             datetime.date.fromtimestamp(timestamp_mode),
             datetime.date.fromtimestamp(timestamp_mean),
             author_mode,
