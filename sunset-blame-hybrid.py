@@ -24,16 +24,23 @@ This appears to be a known problem with libgit2's blame:
 
     https://github.com/libgit2/libgit2/issues/3027
 
+UPDATE Mar 2021 --- use pygit2 for everything *except* blame.
+                    use fork+exec and parse the incremental format.
+                    I'm not 100% sure this is parsing correctly, but
+                    it is definitely honoring .mailmap at least!
+                    Speed is roughly on par with the pure fork+exec version.
+                    Speed is much faster than the pure pygit2 version.
 """
 
 import argparse
 import collections
 import csv
 import datetime
-import functools
 import logging
 import os
+import re
 import statistics
+import subprocess
 import sys
 
 import pygit2
@@ -64,15 +71,17 @@ def main() -> None:
         'DATE(MODE)',
         'WHO(MODE)',
         'PATH'))
-    walk(writer, repo, commit, tree)
+    os.environ['GIT_DIR'] = args.git_dir  # subprocess git-blame needs this
+    os.environ['GIT_WORKTREE'] = '/nonexistent'  # safety net
+    walk(args, writer, repo, commit, tree)
 
 
-def walk(writer, repo, commit, tree, parent_dirs='') -> None:
+def walk(args, writer, repo, commit, tree, parent_dirs='') -> None:
     for entry in tree:
         entry_path = os.path.join(parent_dirs, entry.name)
         logging.debug('entry_path is %s', entry_path)
         if entry.type == pygit2.GIT_OBJ_TREE:
-            walk(writer,          # global
+            walk(args, writer,          # global
                  repo,          # global
                  commit,        # global
                  repo.git_object_lookup_prefix(entry.id),  # turn TreeEntry into Tree
@@ -84,35 +93,32 @@ def walk(writer, repo, commit, tree, parent_dirs='') -> None:
             if blob.is_binary:
                 logging.info('ignoring binary blob %s', entry_path)
             else:
-                blame = repo.blame(
-                    entry_path,
-                    newest_commit=commit.id,
-                    flags=(
-                        # Ref. https://github.com/libgit2/libgit2/blob/HEAD/include/git2/blame.h#L31
-                        # requires https://github.com/libgit2/libgit2/commit/e3dcaca5
-                        # FIXME: mailmap still ignored as at these Debian 11 in 2021:
-                        #     libgit2-1.1=1.1.0+dfsg.1-4
-                        #     python3-pygit2=1.4.0+dfsg1-1
-                        pygit2.GIT_BLAME_USE_MAILMAP |
-                        # -w, requires https://github.com/libgit2/libgit2/commit/9830ab3d
-                        pygit2.GIT_BLAME_IGNORE_WHITESPACE |
-                        # -M, not implemented as at libgit2 v1.1.0
-                        pygit2.GIT_BLAME_TRACK_COPIES_SAME_FILE |  # -M
-                        # -C, not implemented as at libgit2 v1.1.0
-                        pygit2.GIT_BLAME_TRACK_COPIES_SAME_COMMIT_MOVES  # -C
-                    ))
-                authors, dates = collections.Counter(), collections.Counter()
-                for hunk in blame:
-                    # Constantly re-looking up the commit is probably very inefficient.
-                    # Therefore we explicitly memoize it.
-                    signature = hunk2signature(repo, hunk)
-                    author = signature.name
-                    authors[author] += hunk.lines_in_hunk
-                    # NOTE: signature.time is unix epoch (integer, not float)
-                    # We use a date ordinal so we can take the mean easily, because
-                    # datetime.date objects can't be sum()med.
-                    logging.debug('time is %s', signature.time)
-                    dates[epoch_to_date_ordinal(signature.time)] += hunk.lines_in_hunk
+                # FIXME: use pygit2 when this is fixed:
+                #          https://github.com/libgit2/libgit2/issues/3027
+                with subprocess.Popen(
+                        ['git', 'blame', '--incremental', '-wMC', str(commit.id), '--', entry_path],
+                        text=True,
+                        stdout=subprocess.PIPE) as p:
+                    authors, dates = collections.Counter(), collections.Counter()
+                    # FIXME: WHY THE FUCK DOESN'T CPYTHON SHIP *ANY* LL(k) OR LALR PARSER?
+                    for line in p.stdout:
+                        line = line.strip()
+                        if re.match(r'[0-9a-f]{40} ', line):
+                            if (m := re.fullmatch(r'[0-9a-f]{40} \d+ \d+ (\d+)', line)):
+                                lines_in_hunk = int(m.group(1))
+                        elif (m := re.fullmatch(r'author (.+)', line)):
+                            author = m.group(1)
+                        # elif (m := re.fullmatch(r'author-mail (.+)', line)):
+                        #     author += f' {m.group(1)}'
+                        elif (m := re.fullmatch(r'author-time (.+)', line)):
+                            date = datetime.datetime.utcfromtimestamp(int(m.group(1))).toordinal()
+                        elif line.startswith('filename '):
+                            # End of record, add it to the counters.
+                            authors[author] += lines_in_hunk
+                            dates[date] += lines_in_hunk
+                    p.wait()
+                    if p.returncode != 0:
+                        raise subprocess.CalledProcessError(p.returncode, p.cmd)
                 if sum(dates.values()) == 0:
                     logging.info('ignoring empty file %s', entry_path)
                     continue
@@ -128,16 +134,6 @@ def walk(writer, repo, commit, tree, parent_dirs='') -> None:
 
         else:
             raise Exception('Unknown TreeEntry type', entry, entry.type)
-
-
-@functools.lru_cache()          # <twb> Wooo, speedup from 3.244s to 3.184s!
-def hunk2signature(repo, hunk):
-    return repo.revparse_single(str(hunk.orig_commit_id)).author
-
-
-# This is like //86400, but slower and (theoretically) less buggy.
-def epoch_to_date_ordinal(i: int) -> int:
-    return datetime.datetime.utcfromtimestamp(i).toordinal()
 
 
 if __name__ == '__main__':
