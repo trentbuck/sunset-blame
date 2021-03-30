@@ -28,11 +28,13 @@ This appears to be a known problem with libgit2's blame:
 
 import argparse
 import collections
+import csv
 import datetime
 import functools
 import logging
 import os
 import statistics
+import sys
 
 import pygit2
 
@@ -43,6 +45,7 @@ def main() -> None:
     parser.add_argument('--revision', default='HEAD')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--verbose', action='store_true')
+    parser.add_argument('--csv', action='store_true', help='default is TSV')
     # FIXME: add support for sunset-blaming specific subdirs, e.g. src/ but not doc/.
     args = parser.parse_args()
     logging.getLogger().setLevel(
@@ -53,20 +56,24 @@ def main() -> None:
     repo = pygit2.Repository(args.git_dir)
     commit = repo.revparse_single(args.revision)
     tree = commit.tree
-    print('{}  {}  {:10s}  {}'.format(
+
+    writer = csv.writer(sys.stdout,
+                        dialect=csv.excel if args.csv else csv.excel_tab)
+    writer.writerow((
         'DATE(MEAN)',
         'DATE(MODE)',
         'WHO(MODE)',
         'PATH'))
-    walk(repo, commit, tree)
+    walk(writer, repo, commit, tree)
 
 
-def walk(repo, commit, tree, parent_dirs='') -> None:
+def walk(writer, repo, commit, tree, parent_dirs='') -> None:
     for entry in tree:
         entry_path = os.path.join(parent_dirs, entry.name)
         logging.debug('entry_path is %s', entry_path)
         if entry.type == 'tree':
-            walk(repo,          # global
+            walk(writer,          # global
+                 repo,          # global
                  commit,        # global
                  repo.git_object_lookup_prefix(entry.id),  # turn TreeEntry into Tree
                  entry_path)                               # prefix for path names
@@ -103,7 +110,7 @@ def walk(repo, commit, tree, parent_dirs='') -> None:
                 date_mode = datetime.date.fromordinal(dates.most_common(1)[0][0])
                 date_mean = datetime.date.fromordinal(int(statistics.mean(dates.elements())))
                 # FIXME: collate mean(time) and mode(time), print nicer line.
-                print('{}  {}  {:10s}  {}'.format(
+                writer.writerow((
                     date_mean,
                     date_mode,
                     author_mode,
