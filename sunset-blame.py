@@ -1,18 +1,4 @@
-#!/usr/bin/python3 -u
-
-## Goal: identify which parts of the codebase are "stale";
-## receiving little/no attention for years.
-## Due to scope creep, they're probably /de facto/ deprecated or broken,
-## identifying & explicitly deleting/rewriting them is a good way to reduce maintenance burden.
-## FIXME: citation needed.
-##
-## --twb, Apr 2016 (#24515)
-
-## Overview:
-##  1. list all regular files in commit (e.g. HEAD).
-##  2. skip any binary files (e.g. foo.jpg, bar.zip).
-##  3. for anything that's left, use "git blame -w -M -C" to find the age of each line.
-##  4. report the mean & modal age for that file.
+#!/usr/bin/python3
 
 import collections
 import csv
@@ -22,44 +8,58 @@ import sys
 
 import magic
 
-# EXAMPLE USAGE:
-#   sunset-blame.py
-#   sunset-blame.py origin/stable
-#   sunset-blame.py origin/stable src/ doc/
+__DOC__ = """ identify "stale" parts of a codebase
+
+Goal: identify which parts of the codebase are "stale";
+receiving little/no attention for years.
+Due to scope creep, they're probably /de facto/ deprecated or broken,
+identifying & explicitly deleting/rewriting them is a good way to reduce maintenance burden.
+FIXME: citation needed.
+
+--twb, Apr 2016 (#24515)
+
+Overview:
+ 1. list all regular files in commit (e.g. HEAD).
+ 2. skip any binary files (e.g. foo.jpg, bar.zip).
+ 3. for anything that's left, use "git blame -w -M -C" to find the age of each line.
+ 4. report the mean & modal age for that file.
+
+EXAMPLE USAGE:
+  sunset-blame.py
+  sunset-blame.py origin/stable
+  sunset-blame.py origin/stable src/ doc/
+
+EXAMPLE OUTPUT:
+  $ sunset-blame.py | column -t
+  DATE(MODE) DATE(MEAN) AUTHOR   PATH
+  1970-01-01 1970-01-01 twb      src/chicken-parma.c
+  1985-12-31 1978-04-13 lachlans src/chicken-parma.h
+"""
+
 
 ls_tree_args = sys.argv[1:] or ['HEAD']
 commit = ls_tree_args[0]
 
-paths = subprocess.check_output(['git', 'ls-tree', '-z', '-r', '--name-only'] + ls_tree_args).decode().strip('\x00').split('\x00')
+paths = subprocess.check_output(
+    ['git', 'ls-tree', '-z', '-r', '--name-only', *ls_tree_args],
+    text=True).split('\x00')[:-1]
 
 # FIXME: this turns into [''] not [] when you do "sunset-blame HEAD -- doesnotexist.py".
 # FIXME: this crashes when it hits a git submodule.
 #        git ls-tree says "16xxx commit" instead of "10xxx blob" there, but
 #        git ls-tree --name-only doesn't, and I don't want to parse the former.
-#
-# FIXME: SHITTY TEMPORARY WORKAROUND FOR PRISONPC REPO.
-paths = [x for x in paths
-         if x not in ['debian-preseed', 'ppc-media']]
 
 
 
-# Setup libmagic1 setup.
+# Setup libmagic1.
 mime_database = magic.open(magic.MAGIC_MIME_TYPE)
-assert(0 == mime_database.load())
+_ = mime_database.load()
+if _ != 0:
+    raise RuntimeError('Failed to initialize libmagic1 database', _)
 
-# Print the table header.
-# We write to stderr so that "|sort -nr" will do what we expect,
-# even though it's a shitty hack.
-# We could just sort inside python,
-# but that means we can't watch it scroll by and feel warm and confident that it hasn't just hung.
-#
-# UPDATE: we output CSV now, so fuck it.
-
-# Print the heading to stderr so you can just do "sunset-blame|sort".
+# Write header line.
 writer = csv.writer(sys.stdout)
 writer.writerow(('DATE(MODE)', 'DATE(MEAN)', 'AUTHOR', 'PATH'))
-# EXAMPLE:        1970-01-01 1970-01-01 twb      src/chicken-parma.c
-# EXAMPLE:        1985-12-31 1978-04-13 lachlans src/chicken-parma.h
 
 for path in paths:
 
@@ -101,8 +101,6 @@ for path in paths:
                    for line in data.split(b'\n')
                    if line.startswith(b'author-mail ')]
         author_mode = collections.Counter(authors).most_common(1)[0][0]
-        if author_mode == 'anonymous':
-            author_mode = 'anon'
 
         writer.writerow((
             datetime.date.fromtimestamp(timestamp_mode),
