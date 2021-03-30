@@ -71,15 +71,15 @@ def walk(writer, repo, commit, tree, parent_dirs='') -> None:
     for entry in tree:
         entry_path = os.path.join(parent_dirs, entry.name)
         logging.debug('entry_path is %s', entry_path)
-        if entry.type == 'tree':
+        if entry.type == pygit2.GIT_OBJ_TREE:
             walk(writer,          # global
                  repo,          # global
                  commit,        # global
                  repo.git_object_lookup_prefix(entry.id),  # turn TreeEntry into Tree
                  entry_path)                               # prefix for path names
-        elif entry.type == 'commit':
+        elif entry.type == pygit2.GIT_OBJ_COMMIT:
             logging.info('Ignoring submodule %s', entry_path)
-        elif entry.type == 'blob':
+        elif entry.type == pygit2.GIT_OBJ_BLOB:
             blob = repo.git_object_lookup_prefix(entry.id)
             if blob.is_binary:
                 logging.info('ignoring binary blob %s', entry_path)
@@ -127,7 +127,7 @@ def walk(writer, repo, commit, tree, parent_dirs='') -> None:
                     entry_path))
 
         else:
-            raise Exception('Unknown TreeEntry type', entry)
+            raise Exception('Unknown TreeEntry type', entry, entry.type)
 
 
 @functools.lru_cache()          # <twb> Wooo, speedup from 3.244s to 3.184s!
