@@ -89,9 +89,7 @@ def walk(repo, commit, tree, parent_dirs='') -> None:
                     # Constantly re-looking up the commit is probably very inefficient.
                     # Therefore we explicitly memoize it.
                     signature = hunk2signature(repo, hunk)
-                    # We reduce "frank@example.com" to just "frank", as
-                    # that's usually Good Enough.
-                    author, _, _ = signature.email.partition('@')
+                    author = signature.name
                     authors[author] += hunk.lines_in_hunk
                     # NOTE: signature.time is unix epoch (integer, not float)
                     # We use a date ordinal so we can take the mean easily, because
