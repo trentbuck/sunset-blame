@@ -1,0 +1,242 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2018-02-04	2018-01-18	Domingo Oropeza	.atoum.php
+2017-01-25	2017-01-25	Alexander Salas Bastidas	.gitattributes
+2017-10-30	2018-01-29	Naylin Medina	.github/ISSUE_TEMPLATE.md
+2018-05-03	2018-05-03	Alexander Salas Bastidas	.github/ISSUE_TEMPLATE/Bug_report.md
+2018-05-03	2018-05-03	Alexander Salas Bastidas	.github/ISSUE_TEMPLATE/Feature_request.md
+2018-03-18	2018-06-18	Naylin Medina	.github/PULL_REQUEST_TEMPLATE.md
+2017-11-14	2017-11-14	Naylin Medina	.github/invite-contributors.yml
+2018-01-29	2018-01-26	Naylin	.github/settings.yml
+2017-01-28	2016-12-15	btry	.gitignore
+2018-02-04	2017-11-21	Thierry Bugier	.travis.yml
+2017-06-14	2017-03-02	Thierry Bugier Pineau	.tx/config
+2018-10-01	2018-12-21	Domingo Oropeza	CHANGELOG.md
+2017-11-11	2017-11-11	Naylin Medina	CODE_OF_CONDUCT.md
+2018-02-19	2018-02-13	bootbeep	CONTRIBUTING.md
+2017-07-05	2017-07-05	Thierry Bugier Pineau	LICENSE.md
+2017-09-06	2017-07-19	Thierry Bugier Pineau	README.md
+2017-10-04	2017-07-06	Thierry Bugier Pineau	RoboFile.php
+2017-06-20	2017-03-30	Thierry Bugier Pineau	ajax/geolocation.php
+2017-06-13	2017-07-05	Thierry Bugier Pineau	ajax/getGraph.php
+2017-05-27	2016-12-15	btry	ajax/mqtt_test.php
+2017-07-27	2017-07-05	Thierry Bugier Pineau	ajax/policyValue.php
+2017-10-18	2017-02-08	Thierry Bugier Pineau	composer.json
+2018-05-25	2018-02-14	Thierry Bugier	composer.lock
+2016-12-22	2016-12-15	btry	config.js
+2017-08-25	2017-03-03	Thierry Bugier Pineau	css/style.css
+2017-06-11	2016-12-15	Thierry Bugier Pineau	front/agent.form.php
+2017-06-17	2017-07-05	Thierry Bugier Pineau	front/agent.php
+2017-06-25	2017-07-05	Thierry Bugier Pineau	front/config.form.php
+2017-08-03	2017-06-28	Thierry Bugier Pineau	front/entityconfig.form.php
+2017-06-25	2017-07-05	Thierry Bugier Pineau	front/file.form.php
+2017-07-11	2017-07-05	Thierry Bugier Pineau	front/file.php
+2017-04-26	2016-12-15	btry	front/fleet.form.php
+2017-06-18	2017-07-05	Thierry Bugier Pineau	front/fleet.php
+2017-07-02	2017-03-03	Thierry Bugier Pineau	front/invitation.form.php
+2017-07-11	2017-07-05	Thierry Bugier Pineau	front/invitation.php
+2017-06-02	2017-07-05	Thierry Bugier Pineau	front/menu.php
+2017-05-11	2016-12-15	Thierry Bugier Pineau	front/package.form.php
+2017-06-27	2017-07-05	Thierry Bugier Pineau	front/package.php
+2017-07-16	2017-07-05	Thierry Bugier Pineau	front/policycategory.form.php
+2017-07-16	2017-07-05	Thierry Bugier Pineau	front/policycategory.php
+2017-08-08	2017-07-05	Thierry Bugier Pineau	front/task.form.php
+2017-07-16	2017-07-05	Thierry Bugier Pineau	front/wellknownpath.form.php
+2017-07-16	2017-07-05	Thierry Bugier Pineau	front/wellknownpath.php
+2017-06-15	2016-12-15	Thierry Bugier Pineau	hook.php
+2017-09-07	2016-12-15	btry	inc/agent.class.php
+2018-10-08	2018-10-08	Domingo Oropeza	inc/broker/brokerbus.class.php
+2018-10-08	2018-10-08	Domingo Oropeza	inc/broker/brokerenvelope.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/broker/brokerhandlerlocator.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/broker/brokermessage.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/broker/brokerreceivedmessage.class.php
+2018-10-31	2018-10-31	Domingo Oropeza	inc/broker/brokerworker.class.php
+2018-01-24	2018-11-22	Domingo Oropeza	inc/common.class.php
+2017-10-09	2017-10-29	Thierry Bugier	inc/config.class.php
+2018-05-23	2018-05-22	Domingo Oropeza	inc/deployable.class.php
+2017-07-13	2016-12-15	Thierry Bugier	inc/entityconfig.class.php
+2018-10-30	2018-12-11	Domingo Oropeza	inc/exception/agentsendqueryexception.class.php
+2018-11-01	2018-12-11	Domingo Oropeza	inc/exception/fusioninventoryruleinconsistency.class.php
+2018-10-20	2018-12-11	Domingo Oropeza	inc/exception/policyapplicationexception.class.php
+2018-11-04	2018-12-11	Domingo Oropeza	inc/exception/taskpublishpolicybadfleetexception.class.php
+2018-11-04	2018-12-11	Domingo Oropeza	inc/exception/taskpublishpolicypolicynotfoundexception.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmconnection.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmenvelope.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmmiddleware.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmsender.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmsendmessagehandler.class.php
+2018-12-05	2018-12-05	Domingo Oropeza	inc/fcm/fcmtransport.class.php
+2017-08-06	2016-12-15	btry	inc/file.class.php
+2017-07-28	2016-12-15	btry	inc/fleet.class.php
+2018-05-07	2018-04-30	Thierry Bugier	inc/fusioninventory.class.php
+2017-08-21	2016-12-15	btry	inc/geolocation.class.php
+2017-06-29	2017-03-03	Thierry Bugier Pineau	inc/graph.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokerenvelopeawareinterface.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokerenvelopeiteminterface.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokermiddlewareinterface.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokerreceiverinterface.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokersenderinterface.class.php
+2018-10-09	2018-10-08	Domingo Oropeza	inc/interfaces/brokertransportinterface.class.php
+2017-07-10	2016-12-15	btry	inc/invitation.class.php
+2017-06-23	2016-12-15	Thierry Bugier	inc/invitationlog.class.php
+2017-05-08	2017-03-03	Thierry Bugier Pineau	inc/menu.class.php
+2018-10-10	2018-10-10	Domingo Oropeza	inc/mqtt/mqttconnection.class.php
+2018-10-11	2018-10-08	Domingo Oropeza	inc/mqtt/mqttenvelope.class.php
+2018-10-10	2018-10-08	Domingo Oropeza	inc/mqtt/mqttmiddleware.class.php
+2018-10-30	2018-10-30	Domingo Oropeza	inc/mqtt/mqttreceivemessagehandler.class.php
+2018-10-15	2018-10-08	Domingo Oropeza	inc/mqtt/mqttreceiver.class.php
+2018-10-11	2018-10-08	Domingo Oropeza	inc/mqtt/mqttsender.class.php
+2018-10-11	2018-10-08	Domingo Oropeza	inc/mqtt/mqttsendmessagehandler.class.php
+2018-10-10	2018-10-10	Domingo Oropeza	inc/mqtt/mqtttransport.class.php
+2017-04-04	2016-12-15	btry	inc/mqttacl.class.php
+2018-02-05	2018-09-18	Domingo Oropeza	inc/mqttlog.class.php
+2017-03-15	2016-12-15	btry	inc/mqttuser.class.php
+2017-08-01	2016-12-15	btry	inc/notifiableinterface.class.php
+2017-06-09	2016-12-15	btry	inc/notificationtargetinvitation.class.php
+2017-09-07	2016-12-15	btry	inc/package.class.php
+2017-09-28	2017-09-15	Thierry Bugier	inc/policy.class.php
+2017-10-09	2016-12-15	Thierry Bugier	inc/policybase.class.php
+2017-06-04	2016-12-15	btry	inc/policyboolean.class.php
+2017-07-05	2016-12-15	Thierry Bugier	inc/policycategory.class.php
+2017-07-17	2016-12-15	btry	inc/policydeployapplication.class.php
+2017-06-16	2016-12-15	btry	inc/policydeployfile.class.php
+2017-05-20	2016-12-15	btry	inc/policydropdown.class.php
+2017-03-08	2016-12-15	btry	inc/policyfactory.class.php
+2017-04-16	2016-12-15	btry	inc/policyinteger.class.php
+2017-06-25	2016-12-15	btry	inc/policyinterface.class.php
+2017-06-19	2016-12-15	btry	inc/policyremoveapplication.class.php
+2017-06-03	2016-12-15	btry	inc/policyremovefile.class.php
+2017-05-05	2016-12-15	btry	inc/policystring.class.php
+2017-04-28	2016-12-15	btry	inc/profile.class.php
+2017-09-11	2016-12-15	btry	inc/task.class.php
+2018-04-21	2018-03-23	Thierry Bugier	inc/taskstatus.class.php
+2017-05-27	2016-12-15	btry	inc/upkparser.class.php
+2017-07-12	2016-12-15	Thierry Bugier	inc/wellknownpath.class.php
+2017-07-03	2016-12-15	btry	install/install.class.php
+2017-03-31	2016-12-15	btry	install/mysql/plugin_flyvemdm_empty.sql
+2018-05-05	2018-04-29	Thierry Bugier	install/policies/deployment.php
+2018-05-04	2018-04-29	Thierry Bugier	install/policies/encryption.php
+2018-06-24	2018-04-29	Thierry Bugier	install/policies/mdm.php
+2018-05-03	2018-04-29	Thierry Bugier	install/policies/password.php
+2018-05-06	2018-04-29	Thierry Bugier	install/policies/peripherals.php
+2018-05-05	2018-04-29	Thierry Bugier	install/policies/phone.php
+2018-05-04	2018-04-29	Thierry Bugier	install/policies/usb.php
+2018-05-04	2018-04-29	Thierry Bugier	install/policies/userInterface.php
+2018-08-17	2018-08-13	Thierry Bugier	install/upgrade_to_2_0.php
+2017-07-21	2017-03-03	Thierry Bugier Pineau	lib/GlpiLocalesExtension.php
+2017-03-31	2017-03-31	Thierry Bugier Pineau	lib/leaflet-1.0.3/leaflet-src.js
+2017-03-31	2017-03-31	Thierry Bugier Pineau	lib/leaflet-1.0.3/leaflet-src.map
+2017-03-31	2017-03-31	Thierry Bugier Pineau	lib/leaflet-1.0.3/leaflet.css
+2017-03-31	2017-03-31	Thierry Bugier Pineau	lib/leaflet-1.0.3/leaflet.js
+2018-09-15	2018-09-04	Thierry Bugier	locales/ca_ES.po
+2018-06-27	2018-04-30	Thierry Bugier	locales/cs_CZ.po
+2018-08-07	2018-07-04	Domingo Oropeza	locales/es_AR.po
+2018-07-05	2018-04-23	Domingo Oropeza	locales/es_ES.po
+2018-07-01	2018-04-23	Domingo Oropeza	locales/es_MX.po
+2018-12-17	2018-12-17	Thierry Bugier	locales/eu_ES.po
+2017-12-26	2017-03-02	Thierry Bugier Pineau	locales/flyvemdm.pot
+2018-03-22	2018-04-22	Domingo Oropeza	locales/fr_FR.po
+2018-12-12	2018-12-12	Domingo Oropeza	locales/ko_KR.po
+2018-04-10	2018-10-03	Domingo Oropeza	locales/pt_BR.po
+2017-03-05	2017-03-03	Thierry Bugier Pineau	locales/ru.po
+2018-12-17	2018-12-17	Thierry Bugier	locales/ru_RU.po
+2017-09-28	2017-01-25	Alexander Salas Bastidas	package.json
+2017-08-25	2016-12-21	btry	plugin.xml
+2016-12-15	2016-12-15	btry	scripts/.htaccess
+2016-12-16	2016-12-15	btry	scripts/loop-run.sh
+2018-02-19	2018-02-15	Thierry Bugier	scripts/mqtt-rebuild-messages.php
+2017-11-19	2017-07-05	Thierry Bugier	scripts/mqtt.php
+2016-12-17	2016-12-15	btry	scripts/service.sh
+2017-07-23	2016-12-15	Thierry Bugier Pineau	setup.php
+2018-05-05	2018-07-11	Domingo Oropeza	tests/after_success.sh
+2018-08-23	2018-08-23	Domingo Oropeza	tests/apidocs.sh
+2018-02-08	2018-02-08	Thierry Bugier	tests/before_install.sh
+2018-05-06	2018-07-22	Thierry Bugier	tests/before_script.sh
+2017-10-11	2017-11-21	Thierry Bugier	tests/bootstrap.php
+2018-06-20	2018-06-25	Domingo Oropeza	tests/patches/allow-test-on-master-branch.patch
+2018-03-15	2018-03-15	Thierry Bugier	tests/patches/fi-fix-obsolete-query.patch
+2018-10-10	2018-10-10	Thierry Bugier	tests/patches/fusioninventory/compat-glpi-9-3-2.diff
+2018-05-15	2018-04-28	Thierry Bugier	tests/patches/fusioninventory/raise-max-version.patch
+2018-01-10	2018-01-10	Thierry Bugier	tests/patches/glpi/10f8dabfc5e20bb5a4e7d4ba4b93706871156a8a.diff
+2018-07-22	2018-07-22	Thierry Bugier	tests/plugin_flyvemdm_config_2.0.0-rc.1.sql
+2018-07-22	2018-07-22	Thierry Bugier	tests/plugin_flyvemdm_empty_2.0.0-rc.1.sql
+2018-03-26	2018-03-22	Thierry Bugier	tests/src/Flyvemdm/Tests/ApiRestTestCase.php
+2018-10-16	2018-10-08	Domingo Oropeza	tests/src/Flyvemdm/Tests/CallbackReceiver.php
+2018-05-30	2018-04-16	Domingo Oropeza	tests/src/Flyvemdm/Tests/CommonTestCase.php
+2018-10-15	2018-10-08	Domingo Oropeza	tests/src/Flyvemdm/Tests/DummyMessage.php
+2018-10-11	2018-10-08	Domingo Oropeza	tests/src/Flyvemdm/Tests/DummyMessageInterface.php
+2018-12-07	2018-12-07	Domingo Oropeza	tests/src/Flyvemdm/Tests/DummyMiddleware.php
+2018-03-30	2018-03-22	Thierry Bugier	tests/src/Glpi/Tests/ApiExitException.php
+2018-03-24	2018-03-22	Thierry Bugier	tests/src/Glpi/Tests/ApiRestTestCase.php
+2018-03-23	2018-03-22	Thierry Bugier	tests/src/Glpi/Tests/CommonDBTestCase.php
+2018-04-13	2018-03-22	Thierry Bugier	tests/src/Glpi/Tests/CommonTestCase.php
+2018-03-10	2018-07-22	Thierry Bugier	tests/suite-install/Config.php
+2017-10-20	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/Entity.php
+2018-01-10	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmAgent.php
+2017-10-14	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmFile.php
+2017-10-06	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmFleet.php
+2017-08-28	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmGeolocation.php
+2017-11-17	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmInvitation.php
+2017-07-07	2017-07-05	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmMqttuser.php
+2017-09-30	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmPackage.php
+2017-09-18	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmPolicyDeployFile.php
+2017-09-18	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmPolicyRemoveFile.php
+2017-12-12	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/PluginFlyvemdmTask.php
+2017-10-21	2017-07-29	Thierry Bugier Pineau	tests/suite-integration/ProfileRight.php
+2017-07-23	2017-07-29	Thierry Bugier Pineau	tests/suite-uninstall/Config.php
+2018-06-05	2017-12-04	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmAgent.php
+2018-05-09	2018-07-04	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmCommon.php
+2017-12-01	2017-11-09	Thierry Bugier	tests/suite-unit/PluginFlyvemdmConfig.php
+2018-03-30	2018-02-21	Thierry Bugier	tests/suite-unit/PluginFlyvemdmEntityConfig.php
+2018-03-10	2018-02-15	Thierry Bugier	tests/suite-unit/PluginFlyvemdmFile.php
+2018-01-16	2017-12-04	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmFleet.php
+2018-05-11	2018-04-30	Thierry Bugier	tests/suite-unit/PluginFlyvemdmFusionInventory.php
+2018-11-26	2018-11-26	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmGeolocation.php
+2018-01-31	2017-12-07	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmInvitation.php
+2017-12-08	2017-11-29	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmInvitationlog.php
+2017-12-07	2017-11-29	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmMqttacl.php
+2018-03-28	2017-11-29	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmMqttlog.php
+2018-05-11	2018-02-26	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPackage.php
+2018-02-25	2017-11-15	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyBase.php
+2017-11-04	2017-11-14	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyBoolean.php
+2017-12-03	2017-11-17	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyCategory.php
+2018-01-12	2017-11-28	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyDeployapplication.php
+2017-12-11	2017-11-15	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyDeployfile.php
+2017-11-25	2017-11-15	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyDropdown.php
+2017-10-19	2017-11-15	Thierry Bugier Pineau	tests/suite-unit/PluginFlyvemdmPolicyInteger.php
+2018-04-13	2018-03-14	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmPolicyRemoveapplication.php
+2017-10-25	2017-11-15	Thierry Bugier	tests/suite-unit/PluginFlyvemdmPolicyString.php
+2018-07-21	2018-07-13	Thierry Bugier	tests/suite-unit/PluginFlyvemdmTask.php
+2018-06-05	2018-08-01	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmTaskstatus.php
+2017-12-06	2017-11-28	Domingo Oropeza	tests/suite-unit/PluginFlyvemdmWellknownpath.php
+2018-10-20	2018-10-08	Domingo Oropeza	tests/suite-unit/broker/BrokerBus.php
+2018-11-01	2018-11-01	Domingo Oropeza	tests/suite-unit/broker/BrokerEnvelope.php
+2018-10-16	2018-10-08	Domingo Oropeza	tests/suite-unit/broker/BrokerMessage.php
+2017-05-23	2016-12-15	btry	tools/cli_install.php
+2018-04-27	2018-04-18	Thierry Bugier	tools/dev/HEADER
+2018-04-18	2018-04-18	Thierry Bugier	tools/dev/PHPStorm-GLPI-coding-convention.xml
+2018-04-18	2018-04-18	Thierry Bugier	tools/dev/README.md
+2018-04-18	2018-04-18	Thierry Bugier	tools/dev/eclipse-PDT-GLPI-coding-convention.xml
+2018-03-19	2017-12-04	Domingo Oropeza	tpl/_agentInfo.html.twig
+2017-06-09	2017-03-03	Thierry Bugier Pineau	tpl/agent.html.twig
+2017-12-19	2017-12-04	Domingo Oropeza	tpl/agentComputerInfo.html.twig
+2017-03-15	2017-03-03	Thierry Bugier Pineau	tpl/agent_dangerzone.html.twig
+2017-07-20	2017-03-03	Thierry Bugier Pineau	tpl/agent_fleet.html.twig
+2018-04-16	2018-03-23	Thierry Bugier	tpl/agent_taskstatus.html.twig
+2017-07-14	2017-03-30	Thierry Bugier Pineau	tpl/computer_geolocation.html.twig
+2017-11-09	2017-11-09	Thierry Bugier	tpl/config-applemdm.html.twig
+2017-12-03	2017-10-29	Thierry Bugier	tpl/config-debug.html.twig
+2018-02-05	2017-10-29	Thierry Bugier	tpl/config-messagequeue.html.twig
+2018-01-27	2017-11-09	Thierry Bugier	tpl/config-wizard.html.twig
+2017-05-24	2017-03-03	Thierry Bugier Pineau	tpl/config.html.twig
+2017-08-20	2017-06-28	Thierry Bugier Pineau	tpl/entity_entityconfig.html.twig
+2017-05-30	2017-03-03	Thierry Bugier Pineau	tpl/file.html.twig
+2017-09-07	2017-03-03	Thierry Bugier Pineau	tpl/fleet.html.twig
+2017-09-08	2017-03-03	Thierry Bugier Pineau	tpl/fleet_policy.html.twig
+2018-04-09	2018-03-23	Thierry Bugier	tpl/fleet_taskstatus.html.twig
+2017-12-24	2017-06-08	Thierry Bugier Pineau	tpl/invitation.html.twig
+2017-03-03	2017-03-03	Thierry Bugier Pineau	tpl/mass_invitation.html.twig
+2017-08-13	2017-03-03	Thierry Bugier Pineau	tpl/menu.html.twig
+2018-09-18	2018-09-18	Domingo Oropeza	tpl/mqttlog_list.html.twig
+2017-06-18	2017-03-03	Thierry Bugier Pineau	tpl/package.html.twig
+2018-02-11	2018-02-01	Domingo Oropeza	tpl/policy_form.html.twig
+2018-06-02	2018-05-31	Luis F. Gonzalez	tpl/policy_value.html.twig

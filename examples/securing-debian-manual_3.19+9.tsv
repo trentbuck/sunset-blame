@@ -1,0 +1,274 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2018-05-13	2018-05-13	Javier Fernandez-Sanguino	README.translators
+2018-03-21	2018-03-18	Marcos Fouces	bin/build-html
+2018-03-18	2018-03-18	Marcos Fouces	bin/common.sh
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	de-DE/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	de-DE/Revision_History.xml
+2005-06-27	2005-03-25	Jens Seidel	de-DE/old_de/after-compromise.sgml
+2006-04-26	2005-03-10	Jens Seidel	de-DE/old_de/after-install.sgml
+2005-06-11	2005-03-10	Jens Seidel	de-DE/old_de/appendix.sgml
+2005-05-26	2005-03-10	Jens Seidel	de-DE/old_de/automatic.sgml
+2004-11-15	2004-06-04	Javier Fernández-Sanguino Peña	de-DE/old_de/before-begin.sgml
+2006-10-01	2005-03-13	Jens Seidel	de-DE/old_de/before-compromise.sgml
+2005-06-04	2004-06-04	Javier Fernández-Sanguino Peña	de-DE/old_de/before-install.sgml
+2005-12-28	2005-03-10	Jens Seidel	de-DE/old_de/copyleft.sgml
+2015-05-16	2015-05-16	Simon Brandmair	de-DE/old_de/de.po
+2006-07-04	2006-06-19	Jens Seidel	de-DE/old_de/developer.sgml
+2005-03-02	2005-03-20	Jens Seidel	de-DE/old_de/faq.sgml
+2005-07-25	2005-04-27	Jens Seidel	de-DE/old_de/infrastructure.sgml
+2005-12-24	2004-06-04	Javier Fernández-Sanguino Peña	de-DE/old_de/intro.sgml
+2005-04-06	2005-03-23	Jens Seidel	de-DE/old_de/sec-tools.sgml
+2005-09-04	2005-03-20	Jens Seidel	de-DE/old_de/services.sgml
+2004-12-20	2004-06-04	Jens Seidel	de-DE/old_de/titletoc.sgml
+2012-08-23	2012-08-23	David Prévot	debian/TODO.Debian
+2013-03-13	2012-08-23	David Prévot	debian/changelog
+2018-03-20	2018-03-20	Marcos Fouces	debian/compat
+2015-03-31	2012-08-23	David Prévot	debian/control
+2018-03-26	2018-03-26	Marcos Fouces	debian/copyright
+2012-08-23	2012-08-23	David Prévot	debian/dhelp
+2012-08-23	2012-08-23	David Prévot	debian/harden-doc.dirs
+2013-04-27	2012-08-23	David Prévot	debian/harden-doc.doc-base
+2018-04-29	2018-04-29	Marcos Fouces	debian/harden-doc.lintian-overrides
+2016-12-14	2018-03-20	Marcos Fouces	debian/rules
+2016-05-01	2016-05-01	Javier Fernández-Sanguino Peña	debian/source/format
+2012-03-09	2018-03-18	Marcos Fouces	en-US/01_intro.xml
+2012-01-20	2018-03-18	Marcos Fouces	en-US/02_before-begin.xml
+2012-03-15	2018-03-18	Marcos Fouces	en-US/03_before-install.xml
+2011-11-27	2018-03-18	Marcos Fouces	en-US/04_after-install.xml
+2010-08-29	2018-03-18	Javier Fernández-Sanguino Peña	en-US/05_services.xml
+2010-04-30	2004-06-04	Javier Fernández-Sanguino Peña	en-US/06_automatic.xml
+2010-03-08	2018-03-18	Javier Fernández-Sanguino Peña	en-US/07_infrastructure.xml
+2012-02-29	2018-03-18	Marcos Fouces	en-US/08_sec-tools.xml
+2011-12-13	2006-05-16	Javier Fernández-Sanguino Peña	en-US/09_developer.xml
+2011-05-03	2018-03-18	Javier Fernández-Sanguino Peña	en-US/10_before-compromise.xml
+2012-06-02	2018-03-18	Marcos Fouces	en-US/11_after-compromise.xml
+2011-06-21	2018-03-18	Marcos Fouces	en-US/12_faq.xml
+2009-01-24	2004-06-04	Javier Fernández-Sanguino Peña	en-US/99_appendix.xml
+2018-03-18	2018-03-18	Marcos Fouces	en-US/Author_Group.xml
+2018-03-18	2018-03-18	Marcos Fouces	en-US/Book_Info.xml
+2018-03-19	2018-03-18	Marcos Fouces	en-US/Revision_History.xml
+2018-03-18	2018-03-18	Marcos Fouces	en-US/Securing_Debian_Manual.ent
+2018-03-18	2018-03-18	Marcos Fouces	en-US/Securing_Debian_Manual.xml
+2005-05-31	2004-06-04	Javier Fernández-Sanguino Peña	en-US/copyleft.sgml
+2018-03-18	2018-03-18	Marcos Fouces	en-US/images/icon.svg
+2005-03-13	2004-06-04	Javier Fernández-Sanguino Peña	en-US/titletoc.sgml
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	es-ES/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	es-ES/Revision_History.xml
+2001-04-11	2001-04-11	Javier Fernández-Sanguino Peña	es-ES/es_old/COMO-Asegurar-Debian.sgml
+2001-03-07	2001-03-07	Javier Fernández-Sanguino Peña	es-ES/es_old/COMO-Asegurar-Debian.xml
+2001-04-11	2001-04-11	Javier Fernández-Sanguino Peña	es-ES/es_old/OLD/COMO-Asegurar-Debian.sgml
+2001-03-07	2001-03-07	Javier Fernández-Sanguino Peña	es-ES/es_old/OLD/COMO-Asegurar-Debian.xml
+2007-03-22	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/after-compromise.sgml
+2004-06-12	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/after-install.sgml
+2004-06-13	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/appendix.sgml
+2006-09-15	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/automatic.sgml
+2006-09-19	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/before-begin.sgml
+2004-06-04	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/before-compromise.sgml
+2007-02-27	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/before-install.sgml
+2007-01-31	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/copyleft.sgml
+2004-06-06	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/faq.sgml
+2004-06-04	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/infrastructure.sgml
+2004-06-11	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/intro.sgml
+2007-01-18	2007-05-28	Javier Fernández-Sanguino Peña	es-ES/es_old/sec-tools.sgml
+2004-06-07	2004-06-04	Javier Fernández-Sanguino Peña	es-ES/es_old/services.sgml
+2006-04-14	2007-05-19	Javier Fernández-Sanguino Peña	es-ES/es_old/titletoc.sgml
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/08_sec-tools.po
+2018-03-21	2018-03-20	Marcos Fouces	fr-FR/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	fr-FR/Revision_History.po
+2018-04-04	2018-03-20	Marcos Fouces	fr-FR/Revision_History.xml
+2012-04-30	2012-04-07	David Prévot	fr-FR/old_fr/fr.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	it-IT/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	it-IT/Revision_History.xml
+2007-12-27	2008-10-19	Stefano Canepa	it-IT/it_old/after-compromise.sgml
+2007-02-21	2008-10-19	Stefano Canepa	it-IT/it_old/after-install.sgml
+2006-04-24	2004-06-04	Javier Fernández-Sanguino Peña	it-IT/it_old/appendix.sgml
+2007-08-31	2008-10-19	Stefano Canepa	it-IT/it_old/automatic.sgml
+2006-10-25	2008-10-19	Stefano Canepa	it-IT/it_old/before-begin.sgml
+2007-10-17	2008-10-19	Stefano Canepa	it-IT/it_old/before-compromise.sgml
+2007-02-08	2008-10-19	Stefano Canepa	it-IT/it_old/before-install.sgml
+2005-08-10	2004-06-04	Javier Fernández-Sanguino Peña	it-IT/it_old/copyleft.sgml
+2008-10-19	2008-10-19	Stefano Canepa	it-IT/it_old/developer.sgml
+2006-12-06	2008-10-19	Stefano Canepa	it-IT/it_old/faq.sgml
+2007-07-07	2008-10-19	Stefano Canepa	it-IT/it_old/infrastructure.sgml
+2007-06-10	2008-10-19	Stefano Canepa	it-IT/it_old/intro.sgml
+2007-02-20	2008-10-19	Stefano Canepa	it-IT/it_old/sec-tools.sgml
+2007-01-25	2008-10-19	Stefano Canepa	it-IT/it_old/services.sgml
+2005-11-18	2004-06-04	Javier Fernández-Sanguino Peña	it-IT/it_old/titletoc.sgml
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	ja-JP/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	ja-JP/Revision_History.xml
+2004-06-28	2004-06-04	Javier Fernández-Sanguino Peña	ja-JP/ja_old/copyleft.sgml
+2004-06-04	2004-06-04	Javier Fernández-Sanguino Peña	ja-JP/ja_old/intro.sgml
+2004-06-25	2004-06-04	Javier Fernández-Sanguino Peña	ja-JP/ja_old/titletoc.sgml
+2018-03-18	2018-03-18	Marcos Fouces	pot/01_intro.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/02_before-begin.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/03_before-install.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/04_after-install.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/05_services.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/06_automatic.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/07_infrastructure.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/08_sec-tools.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/09_developer.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/10_before-compromise.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/11_after-compromise.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/12_faq.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/99_appendix.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/Author_Group.pot
+2018-03-18	2018-03-18	Marcos Fouces	pot/Book_Info.pot
+2018-03-20	2018-03-18	Marcos Fouces	pot/Revision_History.pot
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	pt-BR/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	pt-BR/Revision_History.xml
+2006-06-19	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/after-compromise.sgml
+2006-04-16	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/after-install.sgml
+2006-04-18	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/appendix.sgml
+2006-04-22	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/automatic.sgml
+2006-05-09	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/before-begin.sgml
+2006-05-18	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/before-compromise.sgml
+2006-04-04	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/before-install.sgml
+2006-10-15	2007-09-24	Javier Fernández-Sanguino Peña	pt-BR/old/copyleft.sgml
+2006-04-18	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/faq.sgml
+2006-04-20	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/infrastructure.sgml
+2006-04-09	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/intro.sgml
+2006-04-20	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/sec-tools.sgml
+2005-06-07	2005-05-14	Javier Fernández-Sanguino Peña	pt-BR/old/services.sgml
+2006-01-22	2006-04-18	Javier Fernández-Sanguino Peña	pt-BR/old/titletoc.sgml
+2018-03-18	2018-03-18	Marcos Fouces	publican-pdf.cfg
+2018-03-26	2018-03-18	Marcos Fouces	publican.cfg
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	ru-RU/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	ru-RU/Revision_History.xml
+2004-06-14	2004-06-04	Javier Fernández-Sanguino Peña	ru-RU/old/copyleft.sgml
+2004-06-04	2004-06-04	Javier Fernández-Sanguino Peña	ru-RU/old/intro.sgml
+2004-09-10	2004-06-04	Javier Fernández-Sanguino Peña	ru-RU/old/titletoc.sgml
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/01_intro.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/02_before-begin.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/03_before-install.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/04_after-install.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/05_services.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/06_automatic.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/07_infrastructure.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/08_sec-tools.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/09_developer.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/10_before-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/11_after-compromise.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/12_faq.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/99_appendix.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/Author_Group.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/Book_Info.po
+2018-03-20	2018-03-20	Marcos Fouces	zh-CN/Revision_History.po
+2018-04-12	2018-03-20	Marcos Fouces	zh-CN/Revision_History.xml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/after-compromise.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/after-install.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/appendix.sgml
+2005-03-24	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/automatic.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/before-begin.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/before-compromise.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/before-install.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/copyleft.sgml
+2005-03-12	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/faq.sgml
+2005-03-13	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/infrastructure.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/intro.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/sec-tools.sgml
+2005-03-12	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/services.sgml
+2005-03-11	2005-03-11	Javier Fernández-Sanguino Peña	zh-CN/old/titletoc.sgml

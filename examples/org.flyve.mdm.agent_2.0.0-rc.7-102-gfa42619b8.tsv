@@ -1,0 +1,303 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2018-02-16	2018-05-28	Naylin Medina	.circleci/README.md
+2018-06-17	2018-07-19	Rafa Hernandez	.circleci/config.yml
+2019-07-24	2019-07-24	Alexander Salas Bastidas	.github/FUNDING.yml
+2017-10-13	2018-01-29	Naylin	.github/ISSUE_TEMPLATE.md
+2018-05-03	2018-05-03	Alexander Salas Bastidas	.github/ISSUE_TEMPLATE/Bug_report.md
+2018-05-03	2018-05-03	Alexander Salas Bastidas	.github/ISSUE_TEMPLATE/Feature_request.md
+2018-03-17	2018-06-27	Naylin Medina	.github/PULL_REQUEST_TEMPLATE.md
+2017-10-24	2017-10-24	Naylin	.github/invite-contributors.yml
+2017-11-05	2017-10-18	Naylin Medina	.github/settings.yml
+2017-06-27	2017-06-01	Alexander Salas Bastidas	.gitignore
+2017-12-04	2017-09-06	Rafa Hernandez	.tx/config
+2018-07-30	2018-07-30	Rafael Jesus Hernández Vasquez	CHANGELOG.md
+2018-08-14	2018-09-18	Alexander Salas Bastidas	CODE_OF_CONDUCT.md
+2018-03-12	2018-03-09	Naylin	CONTRIBUTING.md
+2018-07-20	2018-07-20	Rafa Hernandez	Gemfile
+2018-11-03	2018-07-20	Rafa Hernandez	Gemfile.lock
+2017-07-21	2017-07-21	Alexander Salas Bastidas	LICENSE.md
+2018-01-01	2017-09-15	Naylin	README.md
+2017-06-17	2017-07-04	Rafa Hernández	app/.gitignore
+2018-04-14	2018-08-16	Rafa Hernandez	app/build.gradle
+2017-06-01	2017-06-01	Alexander Salas Bastidas	app/proguard-rules.pro
+2018-04-04	2018-04-04	Rafa Hernandez	app/release/output.json
+2017-11-01	2017-11-01	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/SplashTest.java
+2018-06-25	2018-06-25	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/deeplink/DeeplinkModelTest.java
+2018-01-16	2018-01-07	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/enrollment/EnrollmentHelperTest.java
+2018-06-25	2018-06-25	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/enrollment/EnrollmentModelTest.java
+2018-06-25	2018-06-25	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/permission/PermissionModelTest.java
+2018-06-25	2018-06-25	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/user/UserModelTest.java
+2018-06-25	2018-06-25	Rafa Hernandez	app/src/androidTest/java/org/flyve/mdm/agent/core/walkthrough/WalkthroughModelTest.java
+2018-11-30	2018-11-30	Rafa Hernandez	app/src/fcm/AndroidManifest.xml
+2018-11-22	2018-11-22	Rafa Hernandez	app/src/fcm/google-services.json
+2019-01-28	2018-12-13	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/MessagePolicies.java
+2018-02-28	2018-01-05	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/core/enrollment/Enrollment.java
+2017-11-21	2017-07-13	Rafa Hernández	app/src/fcm/java/org/flyve/mdm/agent/core/enrollment/EnrollmentHelper.java
+2018-02-24	2018-01-05	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/core/enrollment/EnrollmentModel.java
+2018-02-14	2018-01-05	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/core/enrollment/EnrollmentPresenter.java
+2018-10-05	2018-10-05	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/firebase/InstanceIDService.java
+2018-11-05	2018-10-05	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/firebase/MessagingService.java
+2017-11-08	2017-07-13	Rafa Hernández	app/src/fcm/java/org/flyve/mdm/agent/ui/EnrollmentActivity.java
+2017-12-05	2017-11-01	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/ui/FragmentMQTTConfig.java
+2017-11-11	2017-06-30	Rafa Hernández	app/src/fcm/java/org/flyve/mdm/agent/ui/MDMAgent.java
+2017-10-26	2017-07-30	Rafa Hernández	app/src/fcm/java/org/flyve/mdm/agent/ui/MainActivity.java
+2018-11-07	2018-12-13	Rafa Hernandez	app/src/fcm/java/org/flyve/mdm/agent/ui/PushPoliciesActivity.java
+2017-12-22	2017-07-26	Rafa Hernández	app/src/fcm/java/org/flyve/mdm/agent/ui/SplashActivity.java
+2018-10-23	2018-10-10	Rafa Hernandez	app/src/fcm/res/layout/activity_push_policies.xml
+2017-08-02	2017-07-18	Rafa Hernández	app/src/fcm/res/layout/fragment_information.xml
+2018-04-03	2018-10-08	Rafa Hernandez	app/src/main/AndroidManifest.xml
+2019-03-03	2019-12-10	Teclib	app/src/main/assets/about.properties
+2018-05-09	2018-09-26	Rafa Hernandez	app/src/main/assets/setup.properties
+2018-11-22	2018-11-22	Rafa Hernandez	app/src/main/google-services.json
+2018-10-04	2018-02-13	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/adapter/ApplicationsAdapter.java
+2018-01-03	2017-12-18	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/adapter/ConnectivityAdapter.java
+2017-09-20	2017-07-30	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/adapter/DrawerAdapter.java
+2018-04-13	2018-04-11	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/adapter/FilesAdapter.java
+2017-09-29	2017-06-30	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/adapter/LogAdapter.java
+2018-01-26	2017-12-19	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/adapter/PoliciesAdapter.java
+2018-12-14	2018-12-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/adapter/TopicsAdapter.java
+2018-08-25	2018-08-21	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/CommonErrorType.java
+2017-10-13	2017-06-30	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/core/Routes.java
+2018-01-25	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/deeplink/Deeplink.java
+2018-02-02	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/deeplink/DeeplinkModel.java
+2018-01-21	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/deeplink/DeeplinkPresenter.java
+2018-01-17	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/deeplink/DeeplinkSchema.java
+2018-03-30	2018-03-20	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/permission/Permission.java
+2018-04-09	2018-03-20	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/permission/PermissionModel.java
+2018-03-28	2018-03-20	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/permission/PermissionPresenter.java
+2018-01-26	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/user/User.java
+2018-01-24	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/user/UserModel.java
+2018-01-22	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/user/UserPresenter.java
+2018-01-28	2018-01-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/user/UserSchema.java
+2018-01-22	2018-01-04	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/walkthrough/Walkthrough.java
+2017-11-23	2017-08-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/walkthrough/WalkthroughModel.java
+2018-01-15	2018-01-05	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/walkthrough/WalkthroughPresenter.java
+2018-01-15	2018-01-05	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/core/walkthrough/WalkthroughSchema.java
+2018-08-29	2018-06-29	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/ApplicationData.java
+2018-07-06	2018-06-29	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/FileData.java
+2018-11-16	2018-11-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/MDMLogData.java
+2018-03-31	2018-04-09	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/MqttData.java
+2018-06-23	2018-05-15	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/PoliciesData.java
+2018-12-17	2018-12-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/TopicsData.java
+2018-07-11	2018-03-22	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/ApplicationDao.java
+2018-06-01	2018-04-09	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/FileDao.java
+2018-11-16	2018-11-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/MDMLogDao.java
+2018-04-07	2018-04-03	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/MQTTDao.java
+2018-05-07	2018-04-08	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/PoliciesDao.java
+2018-12-29	2018-12-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/dao/TopicsDao.java
+2018-04-22	2018-03-22	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/Application.java
+2018-05-14	2018-04-09	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/File.java
+2018-11-16	2018-11-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/MDMLog.java
+2018-04-05	2018-04-03	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/MQTT.java
+2018-04-29	2018-04-08	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/Policies.java
+2018-12-14	2018-12-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/entity/Topics.java
+2018-04-16	2018-03-22	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/database/setup/AppDataBase.java
+2018-02-08	2018-01-08	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/data/localstorage/AppData.java
+2017-09-04	2017-08-09	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/data/localstorage/LocalStorage.java
+2017-10-04	2017-09-01	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/data/localstorage/SupervisorData.java
+2017-09-23	2017-08-09	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/data/localstorage/UserData.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/AirplaneModePolicy.java
+2018-09-08	2018-05-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/BasePolicies.java
+2018-06-08	2018-05-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/BluetoothPolicy.java
+2018-06-14	2018-05-15	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/CameraPolicy.java
+2019-09-17	2019-08-28	Kita	app/src/main/java/org/flyve/mdm/agent/policies/DeployAppPolicy.java
+2019-09-16	2019-08-28	Kita	app/src/main/java/org/flyve/mdm/agent/policies/DeployFilePolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/GPSPolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/HostpotTetheringPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/MaximumFailedPasswordForWipePolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/MaximumTimeToLockPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/MobileLinePolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/NFCPolicy.java
+2018-06-15	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordEnablePolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinLengthPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinLetterPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinLowerCasePolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinNonLetterPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinNumericPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinSymbolsPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordMinUpperCasePolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PasswordQualityPolicy.java
+2019-10-24	2019-10-24	Teclib	app/src/main/java/org/flyve/mdm/agent/policies/PoliciesAsyncTask.java
+2018-05-18	2018-05-15	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PoliciesException.java
+2019-03-25	2018-12-13	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/PoliciesFiles.java
+2019-09-05	2019-08-28	Kita	app/src/main/java/org/flyve/mdm/agent/policies/RemoveAppPolicy.java
+2019-09-05	2019-08-28	Kita	app/src/main/java/org/flyve/mdm/agent/policies/RemoveFilePolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/RoamingPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/ScreenCapturePolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/SpeakerphonePolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StatusBarPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StorageEncryptionPolicy.java
+2018-06-07	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamAccessibilityPolicy.java
+2018-06-02	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamAlarmPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamDTMFPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamMusicPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamNotificationPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamRingPolicy.java
+2018-06-08	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/StreamVoiceCallPolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/UsbAdbPolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/UsbMtpPolicy.java
+2018-06-09	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/UsbPtpPolicy.java
+2018-06-12	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/VPNPolicy.java
+2018-06-10	2018-05-17	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/policies/WifiPolicy.java
+2019-10-18	2019-10-18	Teclib	app/src/main/java/org/flyve/mdm/agent/receivers/AppReceiver.java
+2018-03-05	2018-02-02	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/receivers/CustomPhoneStateListener.java
+2017-08-27	2017-07-04	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/receivers/FlyveAdminReceiver.java
+2017-12-16	2017-07-07	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/receivers/MQTTConnectivityReceiver.java
+2019-07-21	2019-07-21	Stanislas	app/src/main/java/org/flyve/mdm/agent/service/RunOnStartup.java
+2017-09-04	2017-08-15	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/DisclosureActivity.java
+2017-10-11	2017-07-31	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/EditUserActivity.java
+2018-04-18	2018-04-12	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/ErrorActivity.java
+2017-12-09	2017-10-25	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentAbout.java
+2018-01-26	2017-12-18	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentActivity.java
+2018-03-01	2018-02-09	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentAppList.java
+2018-08-24	2018-03-21	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentConfiguration.java
+2018-04-27	2018-03-22	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentFeedback.java
+2018-04-14	2018-04-11	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentFileList.java
+2017-08-24	2017-07-31	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/FragmentHelp.java
+2017-09-13	2017-07-20	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/FragmentInformation.java
+2017-12-01	2017-07-18	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/FragmentLog.java
+2018-02-19	2017-12-19	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentPolicies.java
+2017-10-12	2017-08-17	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/FragmentSlideWalkthrough.java
+2018-02-15	2017-11-25	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentTestPolicies.java
+2018-12-14	2018-12-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/FragmentTopics.java
+2018-04-19	2018-02-16	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/InstallAppActivity.java
+2018-04-21	2017-11-14	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/LockActivity.java
+2019-10-24	2019-10-24	Teclib	app/src/main/java/org/flyve/mdm/agent/ui/OptionsEnrollmentActivity.java
+2018-04-27	2018-03-19	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/PermissionEnrollmentActivity.java
+2017-09-29	2017-07-31	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/PreviewSupervisorActivity.java
+2017-09-23	2017-08-16	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/ui/PreviewUserActivity.java
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/ScanActivity.java
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/ScannerView.java
+2017-12-06	2017-07-13	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/ui/StartEnrollmentActivity.java
+2019-10-18	2019-10-18	Teclib	app/src/main/java/org/flyve/mdm/agent/ui/UninstallAppActivity.java
+2017-08-01	2017-07-11	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/AppInfo.java
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/CameraManager.java
+2017-11-15	2017-06-01	Alexander Salas Bastidas	app/src/main/java/org/flyve/mdm/agent/utils/ConnectionHTTP.java
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/DialogBuilder.java
+2017-11-08	2017-10-25	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/EnvInfoAbout.java
+2017-11-14	2017-10-25	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/EnvInfoSetup.java
+2017-12-15	2018-01-25	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/FastLocationProvider.java
+2017-08-22	2017-06-06	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/FlyveLog.java
+2018-02-10	2017-07-27	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/Helpers.java
+2017-08-15	2017-07-13	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/InputValidatorHelper.java
+2018-05-15	2018-05-02	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/Inventory.java
+2017-09-14	2017-08-04	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/LogFileReader.java
+2017-08-21	2017-08-08	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/MultipleEditText.java
+2017-08-28	2017-08-10	Rafa Hernández	app/src/main/java/org/flyve/mdm/agent/utils/RoundedImageView.java
+2018-01-18	2018-01-15	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/StorageFolder.java
+2018-02-26	2018-02-21	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/TimeAlarm.java
+2017-12-03	2017-11-20	Rafa Hernandez	app/src/main/java/org/flyve/mdm/agent/utils/UtilsCrash.java
+2019-10-18	2019-10-18	Teclib	app/src/main/res/drawable-anydpi/ic_delete_grey.xml
+2017-07-30	2017-07-30	Rafa Hernández	app/src/main/res/drawable/separator_line.xml
+2018-07-10	2018-06-27	Rafa Hernandez	app/src/main/res/layout-land/fragment_walkthrough_step.xml
+2017-10-25	2017-10-25	Rafa Hernandez	app/src/main/res/layout/activity_about.xml
+2017-08-23	2017-08-15	Rafa Hernández	app/src/main/res/layout/activity_disclosure.xml
+2018-04-12	2018-04-12	Rafa Hernandez	app/src/main/res/layout/activity_error.xml
+2018-02-20	2018-02-15	Rafa Hernandez	app/src/main/res/layout/activity_install_app.xml
+2017-11-20	2017-11-14	Rafa Hernandez	app/src/main/res/layout/activity_lock.xml
+2017-07-12	2017-07-30	Rafa Hernández	app/src/main/res/layout/activity_main.xml
+2019-10-24	2019-10-24	Teclib	app/src/main/res/layout/activity_option_enrollment.xml
+2018-03-31	2018-03-19	Rafa Hernandez	app/src/main/res/layout/activity_permission_enrollment.xml
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/res/layout/activity_scan.xml
+2018-03-05	2018-04-23	Rafa Hernandez	app/src/main/res/layout/activity_splash.xml
+2017-08-17	2017-07-18	Rafa Hernández	app/src/main/res/layout/activity_splash_enrolled.xml
+2017-11-10	2017-07-13	Rafa Hernández	app/src/main/res/layout/activity_start_enrollment.xml
+2017-08-06	2017-07-31	Rafa Hernández	app/src/main/res/layout/activity_supervisor_preview.xml
+2017-07-26	2017-07-13	Rafa Hernández	app/src/main/res/layout/activity_user_form.xml
+2017-08-24	2017-08-16	Rafa Hernández	app/src/main/res/layout/activity_user_preview.xml
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/res/layout/dialog_title.xml
+2017-12-18	2017-12-18	Rafa Hernandez	app/src/main/res/layout/fragment_activity.xml
+2018-02-10	2018-02-09	Rafa Hernandez	app/src/main/res/layout/fragment_app_list.xml
+2018-06-28	2018-03-21	Rafa Hernandez	app/src/main/res/layout/fragment_configuration.xml
+2018-03-22	2018-03-22	Rafa Hernandez	app/src/main/res/layout/fragment_feedback.xml
+2018-04-11	2018-04-11	Rafa Hernandez	app/src/main/res/layout/fragment_file_list.xml
+2017-07-31	2017-07-31	Rafa Hernández	app/src/main/res/layout/fragment_help.xml
+2017-07-28	2017-07-18	Rafa Hernández	app/src/main/res/layout/fragment_log.xml
+2017-11-01	2017-11-01	Rafa Hernandez	app/src/main/res/layout/fragment_mqtt_configuration.xml
+2018-02-13	2017-12-19	Rafa Hernandez	app/src/main/res/layout/fragment_policies.xml
+2017-12-12	2017-11-25	Rafa Hernandez	app/src/main/res/layout/fragment_test_policies.xml
+2018-12-14	2018-12-14	Rafa Hernandez	app/src/main/res/layout/fragment_topics.xml
+2017-11-13	2017-08-17	Rafa Hernández	app/src/main/res/layout/fragment_walkthrough_step.xml
+2018-06-05	2018-02-13	Rafa Hernandez	app/src/main/res/layout/list_item_application.xml
+2017-12-18	2017-12-18	Rafa Hernandez	app/src/main/res/layout/list_item_connectivity.xml
+2017-07-30	2017-07-30	Rafa Hernández	app/src/main/res/layout/list_item_drawer.xml
+2018-04-17	2018-04-11	Rafa Hernandez	app/src/main/res/layout/list_item_file.xml
+2018-02-23	2018-02-13	Rafa Hernandez	app/src/main/res/layout/list_item_log.xml
+2018-04-03	2017-12-19	Rafa Hernandez	app/src/main/res/layout/list_item_policies.xml
+2018-12-14	2018-12-14	Rafa Hernandez	app/src/main/res/layout/list_item_topics.xml
+2018-03-23	2018-03-23	Rafa Hernandez	app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2018-10-19	2018-10-19	Rafa Hernandez	app/src/main/res/raw/flyve_org.crt
+2017-09-11	2017-07-30	Rafa Hernández	app/src/main/res/values-v21/styles.xml
+2017-11-27	2018-04-23	Rafa Hernandez	app/src/main/res/values/colors.xml
+2018-04-23	2018-04-23	Rafa Hernandez	app/src/main/res/values/dimens.xml
+2018-01-15	2018-06-26	Rafa Hernandez	app/src/main/res/values/strings.xml
+2017-07-24	2017-07-13	Rafa Hernández	app/src/main/res/values/styles.xml
+2017-07-04	2017-07-04	Rafa Hernández	app/src/main/res/xml/device_admin.xml
+2017-06-28	2017-06-28	Rafael Hernandez	app/src/main/res/xml/device_admin_uses_policies.xml
+2018-06-28	2018-06-28	Rafa Hernandez	app/src/main/res/xml/file_paths.xml
+2018-12-13	2018-11-30	Rafa Hernandez	app/src/mqtt/AndroidManifest.xml
+2018-11-22	2018-11-22	Rafa Hernandez	app/src/mqtt/google-services.json
+2018-02-07	2018-01-05	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/enrollment/Enrollment.java
+2017-11-13	2017-07-13	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/core/enrollment/EnrollmentHelper.java
+2018-02-08	2018-01-05	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/enrollment/EnrollmentModel.java
+2018-01-31	2018-01-05	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/enrollment/EnrollmentPresenter.java
+2019-10-25	2019-10-23	Teclib	app/src/mqtt/java/org/flyve/mdm/agent/core/mqtt/MqttController.java
+2019-07-16	2019-07-16	Stanislas	app/src/mqtt/java/org/flyve/mdm/agent/core/mqtt/MqttDownloadSSL.java
+2018-10-28	2018-09-06	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/mqtt/MqttModel.java
+2018-09-06	2018-09-06	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/mqtt/MqttPresenter.java
+2018-09-06	2018-09-06	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/core/mqtt/mqtt.java
+2017-07-21	2017-06-02	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/receivers/MQTTRestarterBroadcastReceiver.java
+2019-10-23	2019-10-23	Teclib	app/src/mqtt/java/org/flyve/mdm/agent/receivers/MqttReceiver.java
+2017-07-14	2017-06-01	Alexander Salas Bastidas	app/src/mqtt/java/org/flyve/mdm/agent/security/AndroidCryptoProvider.java
+2017-09-30	2017-06-30	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/services/MQTTService.java
+2017-09-28	2017-07-13	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/ui/EnrollmentActivity.java
+2017-12-04	2017-11-01	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/ui/FragmentMQTTConfig.java
+2017-12-08	2017-06-30	Rafa Hernandez	app/src/mqtt/java/org/flyve/mdm/agent/ui/MDMAgent.java
+2017-10-23	2017-07-30	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/ui/MainActivity.java
+2017-10-17	2017-07-26	Rafa Hernández	app/src/mqtt/java/org/flyve/mdm/agent/ui/SplashActivity.java
+2017-07-30	2017-07-18	Rafa Hernández	app/src/mqtt/res/layout/fragment_information.xml
+2017-09-06	2017-09-06	Rafa Hernandez	app/src/test/java/org/flyve/inventory/agent/ExampleUnitTest.java
+2018-01-09	2017-06-01	Alexander Salas Bastidas	build.gradle
+2018-06-08	2018-05-28	Naylin Medina	ci/README.md
+2018-07-26	2018-07-26	Rafa Hernandez	ci/scripts/app_certification.sh
+2019-07-16	2019-07-16	Stanislas	ci/scripts/ci_licenses.sh
+2018-01-18	2017-09-18	Rafa Hernandez	ci/scripts/commit_version.sh
+2018-06-19	2018-06-13	Naylin Medina	ci/scripts/create_about_data.sh
+2018-07-01	2018-06-27	Naylin Medina	ci/scripts/create_documentation.sh
+2018-09-10	2018-09-10	Rafa Hernandez	ci/scripts/deploy_alpha.sh
+2018-07-13	2018-06-27	Naylin Medina	ci/scripts/deploy_production.sh
+2018-07-19	2018-06-27	Naylin Medina	ci/scripts/generate_documentation.sh
+2018-03-21	2017-09-18	Naylin Medina	ci/scripts/github_release.sh
+2018-08-03	2018-07-23	Rafa Hernandez	ci/scripts/google_cloud.sh
+2018-04-02	2018-06-13	Naylin Medina	ci/scripts/push_changes.sh
+2018-03-06	2017-11-01	Naylin Medina	ci/scripts/push_screenshot.sh
+2018-08-06	2018-07-26	Rafa Hernandez	ci/scripts/release.sh
+2018-04-26	2017-09-18	Rafa Hernandez	ci/scripts/setup_environment.sh
+2019-07-30	2019-07-22	Alexander Salas Bastidas	ci/scripts/setup_ruby_gems.sh
+2017-12-05	2017-09-18	Rafa Hernandez	ci/scripts/transifex.sh
+2018-07-27	2018-07-27	Rafa Hernandez	ci/scripts/validate_running.sh
+2017-07-14	2017-07-14	Rafa Hernández	fastlane/Appfile
+2018-02-17	2017-07-14	Rafa Hernández	fastlane/Fastfile
+2017-12-02	2017-11-01	Rafa Hernandez	fastlane/Screengrabfile
+2017-07-23	2017-07-14	Rafa Hernández	fastlane/actions/sign_apk.rb
+2017-07-20	2017-07-20	Rafa Hernández	fastlane/actions/telegram.rb
+2017-07-14	2017-07-14	Rafa Hernández	fastlane/actions/zipalign.rb
+2017-06-23	2017-06-01	Alexander Salas Bastidas	gradle.properties
+2018-05-28	2017-09-18	Rafa Hernandez	gradle/wrapper/gradle-wrapper.properties
+2017-09-18	2017-09-18	Rafa Hernandez	gradlew
+2017-09-18	2017-09-18	Rafa Hernandez	gradlew.bat
+2018-02-20	2017-08-22	Rafa Hernández	package.json
+2018-11-28	2018-11-28	Rafa Hernandez	policies/.gitignore
+2018-11-28	2018-11-28	Rafa Hernandez	policies/build.gradle
+2018-11-28	2018-11-28	Rafa Hernandez	policies/proguard-rules.pro
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/androidTest/java/com/workshop/policies/ExampleInstrumentedTest.java
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/main/AndroidManifest.xml
+2017-11-20	2017-07-07	Rafa Hernández	policies/src/main/java/org/flyve/policies/manager/AndroidPolicies.java
+2018-02-24	2018-11-28	Rafa Hernandez	policies/src/main/java/org/flyve/policies/manager/CustomPolicies.java
+2018-01-18	2017-12-28	Rafa Hernandez	policies/src/main/java/org/flyve/policies/manager/DeviceLockedController.java
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/main/java/org/flyve/policies/utils/FlyveLog.java
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/main/java/org/flyve/policies/utils/Helpers.java
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/main/res/values/strings.xml
+2018-11-28	2018-11-28	Rafa Hernandez	policies/src/test/java/com/workshop/policies/ExampleUnitTest.java
+2018-11-28	2018-11-28	Rafa Hernandez	settings.gradle
+2018-10-02	2018-06-27	Naylin Medina	yarn.lock

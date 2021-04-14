@@ -1,0 +1,853 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2018-02-02	2018-02-01	Rasika Perera	.github/stale.yml
+2015-06-01	2015-05-12	maheshika	.gitignore
+2015-05-12	2015-05-12	maheshika	LICENSE
+2017-01-15	2017-01-24	Rasika Perera	README.md
+2017-09-26	2017-09-26	maheshika	issue_template.md
+2017-03-16	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/pom.xml
+2017-08-28	2017-08-28	Nirothipan	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/META-INF/component.xml
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/META-INF/product.xml
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/product/about.html
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/styles/css/main.css
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/css/dashboard-common.css
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/css/main.css
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/docs/userguide.html
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/index-old.jsp
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/index.jsp
+2017-03-07	2017-03-07	sinthuja	modules/components/org.wso2.iot.core.admin.styles/src/main/resources/web/tenant-dashboard/system_stats_ajaxprocessor.jsp
+2017-03-22	2017-03-07	sinthuja	modules/components/pom.xml
+2018-03-15	2018-03-12	Ruwan Yatawara	modules/cxf-filters/pom.xml
+2017-03-24	2017-03-07	sinthuja	modules/distribution/pom.xml
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/analytics/bin/build.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/analytics/bin/ciphertool.bat
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/analytics/bin/ciphertool.sh
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/bin/load-spark-env-vars.bat
+2017-07-17	2017-03-08	sinthuja	modules/distribution/src/analytics/bin/load-spark-env-vars.sh
+2017-03-11	2017-03-08	sinthuja	modules/distribution/src/analytics/bin/wso2server.bat
+2017-03-16	2017-03-08	sinthuja	modules/distribution/src/analytics/bin/wso2server.sh
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/analytics/spark/spark-udf-config.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/carbon.xml
+2017-12-19	2018-03-04	charitha	modules/distribution/src/analytics/conf/cdm_config_change.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/analytics/conf/cipher-standalone-config.properties
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/datasource_config_change.xml
+2017-10-06	2017-10-06	charitha	modules/distribution/src/analytics/conf/datasources/cdm-datasources.xml
+2017-03-09	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/ds_config.xml
+2017-07-17	2017-07-17	Rasika Perera	modules/distribution/src/analytics/conf/etc/config-validation.xml
+2017-03-22	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/input-adapter-change.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/jndi.properties
+2017-03-09	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/log4j.properties
+2018-03-04	2018-03-04	charitha	modules/distribution/src/analytics/conf/modified_cdm_config.xml
+2017-04-07	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/output-adapter-change.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/registry.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/security/Owasp.CsrfGuard.Carbon.properties
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/security/authenticators.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/security/cipher-text.properties
+2017-04-01	2017-03-08	sinthuja	modules/distribution/src/analytics/conf/security/cipher-tool.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/analytics/conf/tomcat/carbon/WEB-INF/web.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/analytics/conf/tomcat/webapp-classloading-environments.xml
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/designer.json
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/jaggery.conf
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/libs/VizGrammar_2.js
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/libs/iot-gadget-utils.js
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/modules/oauth/token-handler-utils.js
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/jaggeryapps/portal/modules/oauth/token-handlers.js
+2017-03-21	2017-03-21	sinthuja	modules/distribution/src/analytics/resources/allthemes/Default/admin/main.css
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/resources/geodashboard/events.csv
+2017-03-08	2017-03-08	sinthuja	modules/distribution/src/analytics/resources/geodashboard/events_streamConfiguration.xml
+2017-04-05	2017-04-05	sinthuja	modules/distribution/src/analytics/resources/profile/master-datasources.xml
+2017-03-23	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/connected-cup/pom.xml
+2017-03-24	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/activity_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/audio_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/audio_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/battery_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/battery_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/call_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/call_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/location_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/location_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/network_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/network_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/screen_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/screen_data_streamConfiguration.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/sms_data.csv
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/analytics/samples/device-plugins/resources/eventsimulatorfiles/sms_data_streamConfiguration.xml
+2017-04-07	2017-03-07	sinthuja	modules/distribution/src/assembly/bin.xml
+2017-04-28	2017-03-07	sinthuja	modules/distribution/src/assembly/filter.properties
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/broker/bin/build.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/broker/bin/ciphertool.bat
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/broker/bin/ciphertool.sh
+2017-03-14	2017-03-13	sinthuja	modules/distribution/src/broker/bin/wso2server.bat
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/bin/wso2server.sh
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/axis2/axis2.xml
+2017-03-17	2017-03-13	sinthuja	modules/distribution/src/broker/conf/broker.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/carbon.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/broker/conf/cipher-standalone-config.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/datasources/master-datasources.xml
+2017-07-17	2017-07-17	Rasika Perera	modules/distribution/src/broker/conf/etc/config-validation.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/etc/launch.ini
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/hazelcast.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/log4j.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/messaging-event-broker.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/metrics.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/security/cipher-text.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/security/cipher-tool.properties
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/tomcat/carbon/WEB-INF/web.xml
+2017-03-13	2017-03-13	sinthuja	modules/distribution/src/broker/conf/tomcat/webapp-classloading-environments.xml
+2017-11-05	2018-03-16	geethkokila	modules/distribution/src/core/LICENSE.txt
+2017-03-17	2017-03-07	sinthuja	modules/distribution/src/core/README
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/api_templates/default_api_template.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/api_templates/prototype_template.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/api_templates/velocity_template.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/fault/json_fault.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/in/json_to_xml_in_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/in/log_in_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/in/preserve_accept_header.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/in/xml_to_json_in_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/out/apply_accept_header.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/out/json_to_xml_out_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/out/log_out_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/customsequences/out/xml_to_json_out_message.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/default-tiers/default-app-tiers.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/default-tiers/default-res-tiers.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/default-tiers/default-tiers.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/api/_API_Application_Registration_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/api/_AuthorizeAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/api/_RevokeAPI_.xml
+2017-11-17	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/api/_TokenAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/api/_UserInfoAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/proxy-services/WorkflowCallbackService.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/registry.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_api_registration_fault_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_auth_failure_handler_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_build_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_cors_request_handler_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_dcr_fault_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_production_key_error_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_resource_mismatch_handler_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_sandbox_key_error_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_throttle_out_handler_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/_token_fault_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/fault.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/sequences/main.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/api-resources/synapse-configs/default/synapse.xml
+2017-03-16	2017-03-15	sinthuja	modules/distribution/src/core/bin/analytics.bat
+2017-03-17	2017-03-15	sinthuja	modules/distribution/src/core/bin/analytics.sh
+2017-03-16	2017-03-15	sinthuja	modules/distribution/src/core/bin/broker.bat
+2017-03-17	2017-03-15	sinthuja	modules/distribution/src/core/bin/broker.sh
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/build.xml
+2017-04-18	2017-04-17	sinthuja	modules/distribution/src/core/bin/carbondump.bat
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/carbondump.sh
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/chpasswd.bat
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/chpasswd.sh
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/ciphertool.bat
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/bin/ciphertool.sh
+2017-03-21	2017-03-15	sinthuja	modules/distribution/src/core/bin/iot-server.bat
+2017-03-22	2017-03-15	sinthuja	modules/distribution/src/core/bin/iot-server.sh
+2017-04-29	2017-04-19	sinthuja	modules/distribution/src/core/bin/profile-creator.bat
+2017-04-17	2017-04-05	sinthuja	modules/distribution/src/core/bin/profile-creator.sh
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/cloud/portal/common.css
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/cloud/portal/global-navigation.jag
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/cloud/portal/portal.js
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/analytics/analytics-data-config.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/api-manager.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/app-manager.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/axis2/axis2.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/axis2/axis2_client.xml
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/conf/carbon.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/core/conf/cipher-standalone-config.properties
+2017-04-05	2017-03-07	sinthuja	modules/distribution/src/core/conf/datasources/cdm-datasources.xml
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/conf/datasources/master-datasources.xml
+2017-07-17	2017-07-17	Rasika Perera	modules/distribution/src/core/conf/etc/config-validation.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/etc/launch.ini
+2017-03-12	2017-03-07	sinthuja	modules/distribution/src/core/conf/etc/webapp-publisher-config.xml
+2017-03-12	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/application-authentication.xml
+2017-03-11	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/identity-providers/default.xml
+2017-03-14	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/identity-providers/iot_default.xml
+2017-08-11	2017-03-13	sinthuja	modules/distribution/src/core/conf/identity/identity.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/API_STORE.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/default.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/devicemgt.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/portal.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/publisher.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/sp_cdm.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/sp_mdm.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/service-providers/store.xml
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity/sso-idp-config.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/identity_config_change.xml
+2017-03-23	2017-03-07	sinthuja	modules/distribution/src/core/conf/input-adapter-change.xml
+2017-03-10	2017-03-07	sinthuja	modules/distribution/src/core/conf/license-config.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/log4j.properties
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/nhttp.properties
+2017-03-19	2017-03-07	sinthuja	modules/distribution/src/core/conf/output-adapter-change.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/passthru-http.properties
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/conf/registry.xml
+2017-03-08	2017-03-07	sinthuja	modules/distribution/src/core/conf/security/Owasp.CsrfGuard.Carbon.properties
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/security/Owasp.CsrfGuard.dashboard.properties
+2017-03-14	2017-03-07	sinthuja	modules/distribution/src/core/conf/security/application-authenticators.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/security/authenticators.xml
+2017-06-15	2017-06-15	sinthuja	modules/distribution/src/core/conf/security/cipher-tool.properties
+2017-03-15	2017-03-07	sinthuja	modules/distribution/src/core/conf/synapse-handlers.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/synapse.properties
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/tomcat/carbon/WEB-INF/web.xml
+2017-03-14	2017-03-07	sinthuja	modules/distribution/src/core/conf/tomcat/catalina-server.xml
+2017-03-09	2017-03-07	sinthuja	modules/distribution/src/core/conf/tomcat/context.xml
+2017-03-11	2017-03-09	sinthuja	modules/distribution/src/core/conf/tomcat/webapp-classloading-environments.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/user-mgt.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/conf/user_mgt_config_change.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/api-store/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/api-store/site/conf/site.json
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/configs/designer.json
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/modules/oauth/token-handler-utils.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/modules/oauth/token-handlers.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/themes/analytics/css/dashboard.css
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/themes/analytics/js/VizGrammarSettings.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/themes/analytics/js/colorbrewer.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/themes/analytics/templates/dashboard.jag
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/portal/uipublisher/websocketSubscriptionEndpoint.jag
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/css/custom-common.css
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/images/logo-inverse.svg
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/jaggery.conf
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/js/u2f-api.js
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap-theme.css
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap-theme.css.map
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap-theme.min.css
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap.css
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap.css.map
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/css/bootstrap.min.css
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/fonts/glyphicons-halflings-regular.svg
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/js/bootstrap.js
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/js/bootstrap.min.js
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/bootstrap_3.3.5/js/npm.js
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/libs/jquery_1.11.3/jquery-1.11.3.js
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/pages/cookie-policy.jag
+2018-02-28	2018-02-28	geethkokila	modules/distribution/src/core/jaggeryapps/privacy-policies/pages/privacy-policy.jag
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/publisher/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/social/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/store/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/jaggeryapps/windows-web-agent/jaggery.conf
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/apimstore/module.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/encode/module.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/lifecycle/module.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/lifecycle/scripts/api/api.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/lifecycle/scripts/core/core.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/sso/module.xml
+2017-03-10	2017-03-07	sinthuja	modules/distribution/src/core/modules/sso/scripts/sso.client.js
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/tenantmanager/module.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/utils/module.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/modules/utils/scripts/xml/xml.js
+2017-09-05	2017-07-21	madhawap	modules/distribution/src/core/release-notes.html
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/appm-tenant-conf.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/db2.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/h2-sample-data.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/h2.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/mssql.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/mysql.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/mysql5.7.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/mysql_cluster.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/oracle.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/oracle_rac.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/apimgt/postgresql.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/h2-sample-data.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/h2.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/mssql.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/mysql.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/oracle.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/dbscripts/appmgt/postgresql.sql
+2018-03-12	2018-03-12	lasantha	modules/distribution/src/core/resources/dbscripts/storage/resource.sql
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/lifecycles/APILifeCycle.xml
+2017-06-11	2017-06-15	ayyoob	modules/distribution/src/core/resources/migration/3.0.0-to-3.1.0/dbscripts/h2.sql
+2017-06-11	2017-06-15	ayyoob	modules/distribution/src/core/resources/migration/3.0.0-to-3.1.0/dbscripts/mysql.sql
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/resources/profiles/backend/carbon.xml
+2017-04-08	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/backend/iot-server.bat
+2017-04-05	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/backend/iot-server.sh
+2017-05-16	2017-05-16	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/axis2/axis2.xml
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/carbon.xml
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/identity/application-authentication.xml
+2017-04-08	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/iot-server.bat
+2017-04-05	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/iot-server.sh
+2017-05-16	2017-05-16	sinthuja	modules/distribution/src/core/resources/profiles/keymanager/tomcat/context.xml
+2017-05-16	2017-05-16	sinthuja	modules/distribution/src/core/resources/profiles/manager/axis2/axis2.xml
+2017-04-17	2017-04-17	sinthuja	modules/distribution/src/core/resources/profiles/manager/carbon.xml
+2017-04-08	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/manager/iot-server.bat
+2017-04-05	2017-04-05	sinthuja	modules/distribution/src/core/resources/profiles/manager/iot-server.sh
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/styles/css/main.css
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/api/_AuthorizeAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/api/_RevokeAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/api/_TokenAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/api/_UserInfoAPI_.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/imports/empty.txt
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/inbound-endpoints/empty.txt
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/local-entries/empty.txt
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/proxy-services/empty.txt
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/registry.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/sequences/fault.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/sequences/main.xml
+2017-03-07	2017-03-07	sinthuja	modules/distribution/src/core/resources/synapse-configs/default/synapse.xml
+2017-05-04	2017-05-04	ayyoob	modules/distribution/src/core/resources/tenant/tenant-conf.json
+2017-04-07	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup-samples-deployer.xml
+2017-03-15	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/datasense/PushLevel.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/datasense/PushTemperature.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/transport/TransportHandler.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/transport/TransportHandlerException.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/transport/mqtt/ConnectedCupMQttTransportHandler.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/java/org/coffeeking/agent/transport/mqtt/MQTTTransportHandler.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/WEB-INF/web.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/css/coffee.css
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/index.jsp
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/js/coffee.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/js/libs/htmlpreview.min.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/agent/src/main/webapp/js/libs/jquery.min.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/build.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/assembly/src.xml
+2017-04-04	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/artifacts.xml
+2017-06-28	2017-06-28	thisaripatabendi	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_publisher/artifact.xml
+2017-06-28	2017-06-28	thisaripatabendi	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_publisher/coffee_level_publisher.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_receiver/artifact.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_receiver/coffee_level_receiver.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_script/artifact.xml
+2017-04-18	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_script/coffee_level_script.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_store/artifact.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_store/org_wso2_iot_devices_coffeelevel.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_stream/artifact.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/coffee_level_stream/org.wso2.iot.devices.coffeelevel_1.0.0.json
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_publisher/artifact.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_publisher/temperature_level_publisher.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_receiver/artifact.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_receiver/temperature_level_receiver.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_script/artifact.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_script/temperature_level_script.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_store/artifact.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_store/org_wso2_iot_devices_temperature.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_stream/artifact.xml
+2017-07-12	2017-07-12	Nirothipan	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/coffee_level/temperature_level_stream/org.wso2.iot.devices.temperature_1.0.0.json
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/artifacts.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_execution/artifact.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_execution/connected_cup_execution.siddhiql
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_publisher/artifact.xml
+2017-03-18	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_publisher/connected_cup_publisher.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_receiver/artifact.xml
+2017-03-16	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_receiver/connected_cup_receiver.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_stream/artifact.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/analytics/src/main/resources/carbonapps/connected_cup/connected_cup_stream/org.wso2.iot.connectedcup_1.0.0.json
+2017-03-15	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/java/org/coffeeking/api/ConnectedCupService.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/java/org/coffeeking/api/ConnectedCupServiceImpl.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/java/org/coffeeking/api/exception/ConnectedCupException.java
+2017-03-19	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/java/org/coffeeking/api/util/APIUtil.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/java/org/coffeeking/api/util/SensorRecord.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/webapp/META-INF/permissions.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/webapp/META-INF/webapp-classloading.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/webapp/WEB-INF/cxf-servlet.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/api/src/main/webapp/WEB-INF/web.xml
+2017-03-17	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/constants/ConnectedCupConstants.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/exception/ConnectedCupDeviceMgtPluginException.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/ConnectedCupFeatureManager.java
+2017-03-20	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/ConnectedCupManager.java
+2017-04-10	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/ConnectedCupManagerService.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/dao/ConnectedCupDAO.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/dao/ConnectedCupDAOUtil.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/impl/dao/util/ConnectedCupUtils.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/plugin/src/main/java/org/coffeeking/connectedcup/plugin/internal/ConnectedCupServiceComponent.java
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/assembly/src.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.analytics-view/analytics-view.hbs
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.analytics-view/analytics-view.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.analytics-view/analytics-view.json
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.analytics-view/public/js/connectedcup.js
+2017-05-13	2017-06-23	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.device-view/device-view.hbs
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.device-view/device-view.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.device-view/device-view.json
+2017-04-29	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/analytics-view.hbs
+2017-04-01	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/analytics-view.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/analytics-view.json
+2017-05-13	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/public/js/device-stats.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/public/js/moment.min.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.realtime.analytics-view/public/js/socket.io.min.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/private/config.json
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/public/css/styles.css
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/public/js/download.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/public/js/jquery.validate.js
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/type-view.hbs
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.connectedcup.type-view/type-view.json
+2017-06-23	2017-06-23	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/analytics-feature/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/analytics-feature/src/main/resources/build.properties
+2017-06-23	2017-06-23	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/analytics-feature/src/main/resources/p2.inf
+2017-03-25	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/src/main/resources/build.properties
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/src/main/resources/datasources/connectedcup-datasources.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/src/main/resources/dbscripts/h2.sql
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/src/main/resources/dbscripts/mysql.sql
+2017-06-23	2017-06-23	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/backend-feature/src/main/resources/p2.inf
+2017-03-20	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/pom.xml
+2017-03-18	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/ui-feature/pom.xml
+2017-03-14	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/ui-feature/src/main/resources/build.properties
+2017-06-23	2017-06-23	sinthuja	modules/distribution/src/core/samples/connectedcup/feature/ui-feature/src/main/resources/p2.inf
+2017-03-15	2017-03-14	sinthuja	modules/distribution/src/core/samples/connectedcup/pom.xml
+2017-05-10	2017-05-09	ayyoob	modules/distribution/src/core/samples/device-plugins-deployer.xml
+2017-08-21	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice-deployer.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/build.xml
+2017-08-17	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/pom.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/assembly/src.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/artifacts.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_mqtt_receiver_1.0.0/artifact.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_mqtt_receiver_1.0.0/sensor_temp_mqtt_receiver.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_publisher_1.0.0/artifact.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_publisher_1.0.0/sensor_temp_publisher.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_spark_script_1.0.0/artifact.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_spark_script_1.0.0/sensor_temp_spark_script.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_store_1.0.0/artifact.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_store_1.0.0/org_wso2_iot_devices_sensor_temp.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_stream_1.0.0/artifact.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/analytics/src/main/resources/carbonapps/sensor_temp/sensor_temp_stream_1.0.0/org.wso2.iot.devices.sensor_temp_1.0.0.json
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/pom.xml
+2017-08-15	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/DeviceTypeService.java
+2017-08-17	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/DeviceTypeServiceImpl.java
+2017-08-18	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/dto/DeviceJSON.java
+2017-08-15	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/dto/SensorRecord.java
+2017-08-16	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/exception/DeviceTypeException.java
+2017-08-15	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/util/APIUtil.java
+2017-08-17	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/util/ZipArchive.java
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/java/org/wso2/iot/sampledevice/api/util/ZipUtil.java
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/webapp/META-INF/permissions.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/webapp/META-INF/webapp-classloading.xml
+2017-08-18	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/webapp/WEB-INF/cxf-servlet.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/api/src/main/webapp/WEB-INF/web.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/pom.xml
+2017-08-16	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/constants/DeviceTypeConstants.java
+2017-08-16	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/exception/DeviceMgtPluginException.java
+2017-08-19	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/DeviceTypeManager.java
+2017-08-25	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/DeviceTypeManagerService.java
+2017-08-19	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/dao/DeviceTypeDAO.java
+2017-08-18	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/dao/impl/DeviceTypeDAOImpl.java
+2017-08-15	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/feature/DeviceTypeFeatureManager.java
+2017-08-17	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/util/DeviceSchemaInitializer.java
+2017-08-19	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/impl/util/DeviceTypeUtils.java
+2017-08-21	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/plugin/src/main/java/org/wso2/iot/sampledevice/plugin/internal/ServiceComponent.java
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/pom.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/pom.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/assembly/src.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.analytics-view/analytics-view.hbs
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.analytics-view/analytics-view.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.analytics-view/analytics-view.json
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.analytics-view/public/js/devicetype-graph.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.device-view/device-view.hbs
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.device-view/device-view.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.device-view/device-view.json
+2017-08-24	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/analytics-view.hbs
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/analytics-view.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/analytics-view.json
+2017-08-28	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/public/js/device-stats.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/public/js/moment.min.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.realtime.analytics-view/public/js/socket.io.min.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/private/config.json
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/public/css/styles.css
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/public/js/download.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/public/js/jquery.validate.js
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/type-view.hbs
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.sampledevice.type-view/type-view.json
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/pom.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/deviceConfig.properties
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/sketch.properties
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/src/agent.py
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/src/iotUtils.py
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/src/mqttHandler.py
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/src/running_mode.py
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/src/token_updater.py
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/agent/startService.sh
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/build.properties
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/datasources/sampledevice-datasources.xml
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/dbscripts/h2.sql
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/dbscripts/mssql.sql
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/dbscripts/mysql.sql
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/dbscripts/oracle.sql
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/devicetypes/sampledevice.xml
+2017-09-29	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/feature/src/main/resources/p2.inf
+2017-08-14	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/feature/pom.xml
+2017-08-29	2017-08-14	Sameera Wickramasekara	modules/distribution/src/core/samples/sampledevice/pom.xml
+2017-03-15	2017-03-07	sinthuja	modules/features/org.wso2.iot.core.styles.feature/pom.xml
+2017-03-25	2017-03-07	sinthuja	modules/features/pom.xml
+2017-04-04	2017-03-20	sinthuja	modules/integration/pom.xml
+2017-04-03	2017-03-29	sinthuja	modules/integration/tests-common/integration-common/pom.xml
+2015-12-16	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/AssertUtil.java
+2016-09-08	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/Constants.java
+2016-04-05	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/IOTHttpClient.java
+2015-12-24	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/IOTResponse.java
+2017-05-22	2017-05-22	megala21	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/MqttSubscriberClient.java
+2016-06-27	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/OAuthUtil.java
+2016-03-27	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/PayloadGenerator.java
+2015-12-12	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/RestClient.java
+2016-05-10	2015-12-05	charithag	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/TestBase.java
+2017-02-21	2017-01-25	Menaka Jayawardena	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/extensions/AnalyticsServerExtension.java
+2017-02-21	2017-01-25	Menaka Jayawardena	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/extensions/BrokerServerExtension.java
+2017-06-20	2017-06-05	GDLMadushanka	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/extensions/CarbonServerManagerExtension.java
+2017-02-15	2017-01-25	Menaka Jayawardena	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/extensions/CustomTestServerManager.java
+2017-02-22	2017-01-25	Menaka Jayawardena	modules/integration/tests-common/integration-common/src/main/java/org/wso2/iot/integration/common/extensions/IOTServerExtension.java
+2017-04-04	2017-03-20	sinthuja	modules/integration/tests-common/pom.xml
+2015-08-10	2015-05-13	Ace	modules/integration/tests-common/web-ui-pages/pom.xml
+2016-02-11	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/UIElementMapper.java
+2016-03-10	2016-03-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/UIUtils.java
+2016-04-12	2016-03-04	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/devices/DevicesPage.java
+2016-03-09	2016-02-29	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/devices/EnrollDevicePage.java
+2017-04-20	2017-01-06	Menaka Jayawardena	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/error/IOTErrorPage.java
+2016-03-10	2016-03-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/graphs/Graph.java
+2016-03-10	2016-03-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/graphs/GraphHandler.java
+2016-02-29	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/groups/DeviceAddGroupPage.java
+2016-03-01	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/groups/DeviceGroupsPage.java
+2016-05-09	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/home/IOTAdminDashboard.java
+2016-02-20	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/home/IOTHomePage.java
+2016-02-16	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/login/LoginPage.java
+2018-03-04	2018-03-04	Madawa Soysa	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/policy/PolicyAddPage.java
+2018-03-04	2018-03-04	Madawa Soysa	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/policy/PolicyPage.java
+2018-03-04	2018-03-04	Madawa Soysa	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/policy/PolicyViewPage.java
+2016-03-06	2016-03-04	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/samples/ConnectedCupDeviceInterface.java
+2016-03-03	2016-02-29	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/samples/ConnectedCupDeviceTypeViewPage.java
+2016-03-06	2016-03-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/samples/ConnectedCupDeviceViewPage.java
+2016-02-20	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/AddUserPage.java
+2016-02-16	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/EditUserPage.java
+2016-02-23	2016-02-25	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/NewUserRegisterPage.java
+2016-02-19	2016-02-25	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/UserAddedConfirmationPage.java
+2016-02-16	2016-02-12	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/UserListingPage.java
+2016-02-17	2016-02-10	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/java/org/wso2/iot/integration/ui/pages/uesr/ViewUserPage.java
+2016-03-15	2016-02-12	Menaka Madushanka	modules/integration/tests-common/web-ui-pages/src/main/resources/mapper.properties
+2016-03-29	2015-12-05	charithag	modules/integration/tests-integration/pom.xml
+2015-12-18	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/configuration/ConfigurationManagement.java
+2016-07-01	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/configuration/AndroidConfigurationManagement.java
+2016-09-20	2015-12-05	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/enrollment/AndroidEnrollment.java
+2017-05-17	2017-05-14	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/enrollment/AndroidSenseEnrollment.java
+2015-12-21	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/enrollment/WindowsEnrollment.java
+2016-08-27	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/operation/AndroidOperation.java
+2015-12-21	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/device/policy/AndroidPolicy.java
+2016-01-15	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/feature/FeatureManagement.java
+2017-04-22	2017-04-21	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/AndroidDeviceManagementAPIJmeterTestCase.java
+2017-05-05	2017-05-05	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/AppManagerJmeterTestCase.java
+2017-04-26	2017-04-26	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/DeviceManagementAPINegativeTestCase.java
+2017-06-21	2017-06-17	ayyoob	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/DeviceTypeManagementJMeterTestCase.java
+2017-04-26	2017-04-26	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/GroupManagementJMeterTestCase.java
+2017-04-30	2017-04-29	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/NotificationManagementAPIJMeterTestCase.java
+2017-05-02	2017-05-02	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/jmeter/PolicyManagementJMeterTestCase.java
+2015-12-22	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/license/LicenseManagement.java
+2016-09-24	2017-04-21	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/mobileDevice/MobileDeviceManagement.java
+2016-09-01	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/mobileDevice/MobileDeviceManagementWithNoDevices.java
+2015-12-15	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/notification/NotificationManagement.java
+2016-01-06	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/operation/OperationManagement.java
+2016-01-15	2015-12-05	charithag	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/policy/PolicyManagement.java
+2016-10-08	2015-12-05	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/role/RoleManagement.java
+2017-06-10	2017-05-16	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/samples/MobileQSGTestCase.java
+2017-05-27	2017-05-20	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/samples/VirtualFireAlarmTestCase.java
+2016-10-01	2017-04-17	megala21	modules/integration/tests-integration/src/test/java/org/wso2/iot/integration/user/UserManagement.java
+2016-04-12	2016-03-11	Menaka Madushanka	modules/integration/tests-integration/src/test/resources/automation.xml
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/automationSchema.xsd
+2016-03-11	2016-03-11	Menaka Madushanka	modules/integration/tests-integration/src/test/resources/filters.txt
+2017-08-29	2017-08-28	geethkokila	modules/integration/tests-integration/src/test/resources/instrumentation.txt
+2017-04-21	2017-04-21	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/AndroidDeviceManagementAPIAdditionalPermutations.jmx
+2017-04-26	2017-04-26	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/AndroidDeviceManagementAPI_Negative_Tests.jmx
+2017-05-14	2017-05-05	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/AppManagerTest.jmx
+2017-06-17	2017-06-17	ayyoob	modules/integration/tests-integration/src/test/resources/jmeter-scripts/DeviceTypeManagementAPI.jmx
+2017-04-26	2017-04-26	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/GroupManagementAPI.jmx
+2017-04-21	2017-04-21	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/NewAndroidDeviceManagementAPI.jmx
+2017-04-29	2017-04-29	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/NotificationManagementAPI.jmx
+2017-05-02	2017-05-02	megala21	modules/integration/tests-integration/src/test/resources/jmeter-scripts/PolicyManagementAPI.jmx
+2016-03-11	2016-03-11	Menaka Madushanka	modules/integration/tests-integration/src/test/resources/log4j.properties
+2016-01-19	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/android-config-response-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/android-configuration-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/android-device-mgt-response-payloads.json
+2016-12-03	2017-01-25	Menaka Jayawardena	modules/integration/tests-integration/src/test/resources/payloads/android-enrollment-payloads.json
+2016-12-25	2017-01-26	Menaka Jayawardena	modules/integration/tests-integration/src/test/resources/payloads/android-enrollment-response-payloads.json
+2016-05-13	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/android-operation-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/android-policy-response-payloads.json
+2017-05-14	2017-05-14	megala21	modules/integration/tests-integration/src/test/resources/payloads/android-sense-enrollment-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/configuration-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/configuration-response-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/get-notifications-response-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/license-response-payloads.json
+2017-04-21	2017-04-21	megala21	modules/integration/tests-integration/src/test/resources/payloads/mobile-device-mgt-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/mobile-device-mgt-view-device-types-response-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/notification-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/notification-response-payloads.json
+2017-01-26	2017-01-26	Menaka Jayawardena	modules/integration/tests-integration/src/test/resources/payloads/permissions.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/policy-payloads.json
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/policy-response-payloads.json
+2016-05-06	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/role-payloads.json
+2017-04-17	2017-04-17	megala21	modules/integration/tests-integration/src/test/resources/payloads/role-response-payloads.json
+2016-02-19	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/user-payloads.json
+2016-07-10	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/payloads/user-response-payloads.json
+2017-05-21	2017-05-22	megala21	modules/integration/tests-integration/src/test/resources/payloads/virtual-fire-alarm-enrollment-payloads.json
+2016-03-11	2016-03-11	Menaka Madushanka	modules/integration/tests-integration/src/test/resources/testng-server-mgt.xml
+2016-08-08	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/testng.xml
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/windows/enrollment/discovery-post.xml
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/windows/enrollment/ms_xcep.xml
+2015-12-05	2015-12-05	charithag	modules/integration/tests-integration/src/test/resources/windows/enrollment/wstep.xml
+2016-03-04	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/pom.xml
+2016-03-17	2016-03-14	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/common/Constants.java
+2016-03-12	2016-03-12	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/common/IOTIntegrationUIBaseTestCase.java
+2016-02-12	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/common/LoginUtils.java
+2017-01-06	2017-01-06	Menaka Jayawardena	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/error/InitialErrorTest.java
+2017-01-06	2017-01-06	Menaka Jayawardena	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/extension/AnalyticsServerExtension.java
+2017-01-06	2017-01-06	Menaka Jayawardena	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/extension/BrokerServerExtension.java
+2017-01-13	2017-01-06	Menaka Jayawardena	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/extension/CustomTestServerManager.java
+2017-01-06	2017-01-06	Menaka Jayawardena	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/extension/IOTServerExtension.java
+2016-02-13	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/group/DeviceGroupFailTest.java
+2016-02-14	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/group/DeviceGroupTest.java
+2016-02-15	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/login/LoginFormValidationTest.java
+2016-02-20	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/login/LoginTest.java
+2018-03-04	2018-03-04	Madawa Soysa	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/policy/PolicyTest.java
+2016-03-06	2016-03-04	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/samples/SampleEnrollmentTest.java
+2016-03-05	2016-03-04	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/samples/SampleEnrolmentVerificationTest.java
+2016-03-11	2016-03-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/samples/SampleFunctionalityTest.java
+2016-03-08	2016-02-25	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/samples/SampleInstallationTest.java
+2016-02-19	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/samples/SampleInstallationVerification.java
+2016-02-21	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/user/AddUserFormValidationTest.java
+2016-02-13	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/user/AdminFunctionsTest.java
+2016-02-18	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/user/NewUserRegistrationTest.java
+2016-03-12	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/java/org/wso2/carbon/iot/integration/web/ui/test/user/RegistrationFormValidationTest.java
+2016-02-21	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/automation.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/automationXMLSchema.xsd
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/axis2config/axis2_client.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/filters.txt
+2016-03-11	2016-03-11	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/instrumentation.txt
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/log4j.properties
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario-config.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario1-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario10-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario11-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario12-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario13-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario14-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario15-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario16-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario17-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario2-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario3-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario4-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario5-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario6-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario7-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario8-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/security/policies/scenario9-policy.xml
+2016-02-10	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/testng-server-mgt.xml
+2016-04-14	2016-02-10	Menaka Madushanka	modules/integration/tests-iot-web-ui/src/test/resources/testng.xml
+2018-09-03	2018-09-03	geethkokila	modules/migration/migration-emm_2.1.0-to-iot_3.3.1/android-migration.sql
+2018-09-03	2018-09-03	geethkokila	modules/migration/migration-emm_2.1.0-to-iot_3.3.1/cdm-migration.sql
+2018-09-03	2018-09-03	geethkokila	modules/migration/migration-emm_2.1.0-to-iot_3.3.1/ios-migration.sql
+2018-10-22	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/apim-migration.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/archival.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/cdm-migration.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/README.txt
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.0.0-SP1/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.1.0/dbscripts/step1/um/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.2.0/dbscripts/step1/um/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/data/claim-config.xml
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/data/resources.xml
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.3.0/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/data/claim-config.xml
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step1/um/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.4.0/dbscripts/step2/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/oracle_rac.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/consent/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step1/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/db2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/h2.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/mssql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/mysql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/mysql5.7.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/oracle.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/5.5.0/dbscripts/step2/identity/postgresql.sql
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/identity-migration/migration-resources/migration-config.yaml
+2018-10-20	2018-10-20	geethkokila	modules/migration/migration-iot_3.1.0-to-iot-3.3.1/ios-migration.sql
+2016-07-14	2016-06-07	ayyoob	modules/p2-profile/analytics-profile/carbon.product
+2016-12-07	2016-11-08	sinthuja	modules/p2-profile/analytics-profile/pom.xml
+2017-03-27	2017-03-06	sinthuja	modules/p2-profile/broker-profile/carbon.product
+2017-03-22	2017-03-06	sinthuja	modules/p2-profile/broker-profile/pom.xml
+2016-07-21	2016-06-07	ayyoob	modules/p2-profile/iot-core-profile/carbon.product
+2016-02-21	2015-05-13	Ace	modules/p2-profile/iot-core-profile/pom.xml
+2016-04-12	2015-12-05	charithag	modules/p2-profile/pom.xml
+2017-08-05	2017-08-02	lasantha	modules/scripts/change-ip.sh
+2018-01-07	2017-12-31	lasantha	modules/scripts/change-superadmin-credentials.sh
+2018-02-23	2018-02-23	geethkokila	modules/scripts/forget-me.bat
+2018-02-23	2018-02-23	geethkokila	modules/scripts/forget-me.sh
+2017-03-20	2017-03-07	sinthuja	modules/scripts/mobile-qsg/pom.xml
+2017-06-14	2017-06-23	sinthuja	modules/scripts/mobile-qsg/resources/Readme.txt
+2017-03-31	2017-03-07	sinthuja	modules/scripts/mobile-qsg/resources/config.properties
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/resources/mobile-qsg.sh
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/AppOperations.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/PolicyOperations.java
+2017-03-09	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/QSGExecutor.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/UserOperations.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/dto/ClientCredentials.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/dto/EMMQSGConfig.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/dto/HTTPResponse.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/dto/MobileApplication.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/utils/Constants.java
+2017-03-07	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/utils/HTTPInvoker.java
+2017-03-16	2017-03-07	sinthuja	modules/scripts/mobile-qsg/src/main/java/org/wso2/mdm/qsg/utils/QSGUtils.java
+2017-03-23	2017-03-07	sinthuja	modules/scripts/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/README.md
+2017-03-25	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/META-INF/maven/archetype-metadata.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/build.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/assembly/src.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventpublisher___nameOfTheSensor___1.0.0/EventPublisher___nameOfTheSensor__.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventpublisher___nameOfTheSensor___1.0.0/artifact.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventreceiver_mqtt___nameOfTheSensor___1.0.0/EventReceiver_mqtt___nameOfTheSensor__.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventreceiver_mqtt___nameOfTheSensor___1.0.0/artifact.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventstore___nameOfTheSensor___1.0.0/artifact.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventstore___nameOfTheSensor___1.0.0/org_wso2_iot_devices___nameOfTheSensor__.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventstream___nameOfTheSensor___1.0.0/artifact.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Eventstream___nameOfTheSensor___1.0.0/org.wso2.iot.devices.__nameOfTheSensor___1.0.0.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Sparkscripts_1.0.0/__nameOfTheSensor___Script.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/Sparkscripts_1.0.0/artifact.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/analytics/src/main/resources/carbonapps/__nameOfTheSensor__/artifacts.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/DeviceTypeService.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/DeviceTypeServiceImpl.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/dto/DeviceJSON.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/dto/SensorRecord.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/exception/DeviceTypeException.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/util/APIUtil.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/util/Constants.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/util/ResponsePayload.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/util/ServiceUtils.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/java/__groupId__/__rootArtifactId__/api/util/ZipUtil.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/webapp/META-INF/permissions.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/webapp/META-INF/webapp-classloading.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/webapp/WEB-INF/cxf-servlet.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/api/src/main/webapp/WEB-INF/web.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/constants/DeviceTypeConstants.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/exception/DeviceMgtPluginException.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/DeviceTypeManager.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/DeviceTypeManagerService.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/dao/DeviceTypeDAO.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/dao/impl/DeviceTypeDAOImpl.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/feature/DeviceTypeFeatureManager.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/util/DeviceSchemaInitializer.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/util/DeviceTypeStartupListener.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/impl/util/DeviceTypeUtils.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/internal/DeviceTypeManagementDataHolder.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/internal/ServiceComponent.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/plugin/src/main/java/__groupId__/__rootArtifactId__/plugin/mqtt/MqttConfig.java
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/assembly/src.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/analytics-view.hbs
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/analytics-view.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/analytics-view.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/public/css/graph.css
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/public/js/d3.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/public/js/devicetype-graph.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/public/js/moment.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.analytics-view/public/js/rickshaw.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.device-view/device-view.hbs
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.device-view/device-view.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.device-view/device-view.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/analytics-view.hbs
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/analytics-view.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/analytics-view.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/css/graph.css
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/js/d3.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/js/device-stats.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/js/moment.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/js/rickshaw.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.realtime.analytics-view/public/js/socket.io.min.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.type-view/private/config.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.type-view/public/js/download.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.type-view/public/js/jquery.validate.js
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.type-view/type-view.hbs
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/component/ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.__deviceType__.type-view/type-view.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/deviceConfig.properties
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/sketch.properties
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/src/agent.py
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/src/iotUtils.py
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/src/mqttHandler.py
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/agent/startService.sh
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/build.properties
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/configs/__deviceType__.json
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/configs/__deviceType__.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/datasources/__deviceType__-datasources.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/dbscripts/h2.sql
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/dbscripts/mssql.sql
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/dbscripts/mysql.sql
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/dbscripts/oracle.sql
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/feature/src/main/resources/p2.inf
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/feature/pom.xml
+2017-03-07	2017-03-07	sinthuja	modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/pom.xml
+2017-03-23	2017-03-07	sinthuja	modules/tools/pom.xml
+2015-11-18	2015-05-13	Ace	pom.xml
+2017-10-03	2017-10-03	maheshika	pull_request_template.md

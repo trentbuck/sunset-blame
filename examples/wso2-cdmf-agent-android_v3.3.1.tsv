@@ -1,0 +1,436 @@
+DATE(MEAN)	DATE(MODE)	WHO(MODE)	PATH
+2016-12-14	2016-12-14	Chatura Dilan	.gitignore
+2017-04-13	2017-04-13	Charitha Goonetilleke	README.md
+2016-06-08	2016-04-30	Kasun Delgolla	app-catalog/.gitignore
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/.gitignore
+2016-05-05	2016-04-30	Kasun Delgolla	app-catalog/app/build.gradle
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/proguard-rules.pro
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/androidTest/java/org/wso2/app/catalog/ApplicationTest.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/AndroidManifest.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/AppCatalogException.java
+2016-06-03	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/AppDetailsActivity.java
+2016-05-09	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/AppListActivity.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/LoginActivity.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/ReadMoreInfoActivity.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/ServerDetails.java
+2016-06-02	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/adapters/ApplicationAdapter.java
+2016-05-01	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/api/ApplicationManager.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/api/InputStreamVolleyRequest.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/beans/Application.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/beans/DeviceAppInfo.java
+2016-05-02	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/beans/RegistrationProfile.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/beans/ServerConfig.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/beans/UnregisterProfile.java
+2016-05-01	2016-05-01	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/services/AppCatalogService.java
+2016-05-05	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/services/DynamicClientManager.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/CommonDialogUtils.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/CommonUtils.java
+2016-05-18	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/Constants.java
+2016-05-10	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/PayloadParser.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/Preference.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/java/org/wso2/app/catalog/utils/StreamHandler.java
+2016-05-01	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/activity_app_details.xml
+2016-05-13	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/activity_app_list.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/activity_login.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/activity_read_more_info.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/activity_settings.xml
+2016-05-01	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/layout/app_list_item.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/menu/menu_app_details.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/menu/menu_app_list.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/menu/menu_login.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/menu/menu_read_more_info.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/values-w820dp/dimens.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/values/dimens.xml
+2016-05-11	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/values/strings.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/app/src/main/res/values/styles.xml
+2016-05-11	2016-04-30	Kasun Delgolla	app-catalog/build.gradle
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/gradle.properties
+2016-09-04	2016-04-30	Kasun Delgolla	app-catalog/gradle/wrapper/gradle-wrapper.properties
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/gradlew
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/gradlew.bat
+2016-05-05	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/build.gradle
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/AndroidManifest.xml
+2016-05-07	2016-05-12	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/APIController.java
+2016-05-03	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/AccessTokenHandler.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/IDPTokenManagerException.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/IdentityProxy.java
+2016-05-03	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/RefreshTokenHandler.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/authenticators/AuthenticatorFactory.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/authenticators/ClientAuthenticator.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/authenticators/MutualSSLAuthenticator.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/authenticators/OAuthAuthenticator.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/beans/CredentialInfo.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/beans/EndPointInfo.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/beans/Token.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/clients/CommunicationClient.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/clients/CommunicationClientFactory.java
+2016-05-04	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/clients/MutualSSLClient.java
+2016-05-03	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/clients/OAuthSSLClient.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/interfaces/APIAccessCallBack.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/interfaces/APIResultCallBack.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/interfaces/AuthenticationCallback.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/interfaces/CallBack.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/interfaces/TokenCallBack.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/utils/Constants.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/utils/Keystore.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/utils/ServerUtilities.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/java/org/wso2/emm/agent/proxy/utils/StreamHandlerUtil.java
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/res/values-v11/styles.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/res/values-v14/styles.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/res/values/strings.xml
+2016-04-30	2016-04-30	Kasun Delgolla	app-catalog/iDPProxy/src/main/res/values/styles.xml
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/settings.gradle
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/Android.mk
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/bintray.gradle
+2016-05-22	2016-05-12	Kasun Delgolla	app-catalog/volley/build.gradle
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/build.xml
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/custom_rules.xml
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/gradle/wrapper/gradle-wrapper.properties
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/gradlew
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/gradlew.bat
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/pom.xml
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/proguard-project.txt
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/proguard.cfg
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/rules.gradle
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/AndroidManifest.xml
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/AuthFailureError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/Cache.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/CacheDispatcher.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/ClientError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/DefaultRetryPolicy.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/ExecutorDelivery.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/Network.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/NetworkDispatcher.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/NetworkError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/NetworkResponse.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/NoConnectionError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/ParseError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/Request.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/RequestQueue.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/Response.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/ResponseDelivery.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/RetryPolicy.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/ServerError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/TimeoutError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/VolleyError.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/VolleyLog.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/AndroidAuthenticator.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/Authenticator.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/BasicNetwork.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/ByteArrayPool.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/ClearCacheRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/DiskBasedCache.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/HttpClientStack.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/HttpHeaderParser.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/HttpStack.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/HurlStack.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/ImageLoader.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/ImageRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/JsonArrayRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/JsonObjectRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/JsonRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/NetworkImageView.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/NoCache.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/PoolingByteArrayOutputStream.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/RequestFuture.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/StringRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/main/java/com/android/volley/toolbox/Volley.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/CacheDispatcherTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/NetworkDispatcherTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/RequestQueueIntegrationTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/RequestQueueTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/RequestTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/ResponseDeliveryTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockCache.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockHttpClient.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockHttpStack.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockHttpURLConnection.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockNetwork.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/MockResponseDelivery.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/ShadowSystemClock.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/TestRequest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/mock/WaitableQueue.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/AndroidAuthenticatorTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/BasicNetworkTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/ByteArrayPoolTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/CacheTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/DiskBasedCacheTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/HttpClientStackTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/HttpHeaderParserTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/HurlStackTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/ImageLoaderTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/ImageRequestTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/JsonRequestCharsetTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/JsonRequestTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/NetworkImageViewTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/PoolingByteArrayOutputStreamTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/RequestFutureTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/RequestQueueTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/RequestTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/ResponseTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/toolbox/StringRequestTest.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/utils/CacheTestUtils.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/java/com/android/volley/utils/ImmediateResponseDelivery.java
+2016-05-12	2016-05-12	Kasun Delgolla	app-catalog/volley/src/test/resources/org.robolectric.Config.properties
+2017-03-09	2017-03-08	charitha	client/.gitignore
+2015-05-16	2015-07-09	Your Name	client/README.md
+2016-01-05	2015-07-09	Your Name	client/build.gradle
+2017-03-03	2017-01-26	inoshperera	client/client/build.gradle
+2016-11-26	2016-11-24	inoshperera	client/client/google-services.json
+2016-03-30	2016-03-30	pasinduj	client/client/gradle/wrapper/gradle-wrapper.properties
+2016-03-30	2016-03-30	pasinduj	client/client/gradlew
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/Constants.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/OperationManagerTest.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/UnitTestSuite.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/util/FTPTestServer.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/util/MockOperationManager.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/androidTest/java/org/wso2/iot/agent/services/operation/util/SFTPTestServer.java
+2016-07-22	2015-07-09	Your Name	client/client/src/main/AndroidManifest.xml
+2017-10-17	2017-10-17	GDLMadushanka	client/client/src/main/assets/ringing.json
+2016-10-30	2016-08-09	charitha	client/client/src/main/java/org/wso2/iot/agent/AgentApplication.java
+2018-10-24	2018-10-24	charitha	client/client/src/main/java/org/wso2/iot/agent/AgentFileProvider.java
+2015-12-28	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/AlertActivity.java
+2015-07-21	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/AndroidAgentException.java
+2016-03-10	2016-02-15	Lakshman	client/client/src/main/java/org/wso2/iot/agent/AppLockActivity.java
+2015-08-10	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/AuthenticationErrorActivity.java
+2016-09-09	2016-09-01	charitha	client/client/src/main/java/org/wso2/iot/agent/EnableDeviceAdminActivity.java
+2017-07-03	2017-09-25	GDLMadushanka	client/client/src/main/java/org/wso2/iot/agent/KioskActivity.java
+2016-04-10	2016-03-30	mharindu	client/client/src/main/java/org/wso2/iot/agent/LockActivity.java
+2016-07-17	2016-02-25	pasinduj	client/client/src/main/java/org/wso2/iot/agent/WorkProfileManager.java
+2016-06-07	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/AlreadyRegisteredActivity.java
+2016-04-27	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/AuthenticationActivity.java
+2017-10-13	2017-08-18	charitha	client/client/src/main/java/org/wso2/iot/agent/activities/DisclaimerActivity.java
+2015-09-30	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/DisplayDeviceInfoActivity.java
+2016-04-30	2016-02-25	pasinduj	client/client/src/main/java/org/wso2/iot/agent/activities/EnableProfileActivity.java
+2017-06-24	2017-06-22	Pasindu	client/client/src/main/java/org/wso2/iot/agent/activities/KioskRestrictionActivity.java
+2015-12-16	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/PinCodeActivity.java
+2016-05-05	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/RegistrationActivity.java
+2017-09-04	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/activities/ScreenShareActivity.java
+2016-02-05	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/activities/ServerConfigsActivity.java
+2017-07-08	2017-05-03	charitha	client/client/src/main/java/org/wso2/iot/agent/activities/SplashActivity.java
+2016-05-27	2016-03-07	pasinduj	client/client/src/main/java/org/wso2/iot/agent/activities/WorkProfileSelectionActivity.java
+2017-07-23	2017-06-14	Janak Amarasena	client/client/src/main/java/org/wso2/iot/agent/adapters/AppDrawerAdapter.java
+2016-10-08	2015-07-09	charitha	client/client/src/main/java/org/wso2/iot/agent/api/ApplicationManager.java
+2015-11-08	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/api/DeviceInfo.java
+2015-12-02	2016-02-12	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/api/DeviceState.java
+2016-05-16	2016-05-12	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/api/InputStreamVolleyRequest.java
+2015-09-23	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/api/RootChecker.java
+2016-07-15	2016-02-12	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/api/RuntimeInfo.java
+2015-08-27	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/api/ShellExecutor.java
+2017-04-19	2017-04-19	charitha	client/client/src/main/java/org/wso2/iot/agent/api/TenantResolverCallback.java
+2017-04-19	2017-04-19	charitha	client/client/src/main/java/org/wso2/iot/agent/api/TenantResolverHandler.java
+2016-01-25	2015-07-09	Chatura Dilan	client/client/src/main/java/org/wso2/iot/agent/api/WiFiConfig.java
+2016-05-09	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/beans/Address.java
+2017-01-05	2017-01-03	inoshperera	client/client/src/main/java/org/wso2/iot/agent/beans/ApiRegistrationProfile.java
+2016-09-24	2016-09-21	charitha	client/client/src/main/java/org/wso2/iot/agent/beans/AppInstallRequest.java
+2016-05-05	2016-04-28	Lakshman	client/client/src/main/java/org/wso2/iot/agent/beans/AppRestriction.java
+2018-04-18	2018-04-18	charitha	client/client/src/main/java/org/wso2/iot/agent/beans/AppUninstallRequest.java
+2016-04-05	2016-03-30	mharindu	client/client/src/main/java/org/wso2/iot/agent/beans/Application.java
+2015-08-02	2015-07-22	Your Name	client/client/src/main/java/org/wso2/iot/agent/beans/ComplianceFeature.java
+2015-07-23	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/beans/Device.java
+2015-09-22	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/beans/DeviceAppInfo.java
+2016-03-15	2016-02-17	mharindu	client/client/src/main/java/org/wso2/iot/agent/beans/Notification.java
+2015-07-26	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/beans/Operation.java
+2016-02-15	2016-02-12	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/beans/Power.java
+2015-11-23	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/beans/ServerConfig.java
+2017-04-19	2017-04-19	charitha	client/client/src/main/java/org/wso2/iot/agent/beans/Tenant.java
+2015-07-22	2015-07-10	mharindu	client/client/src/main/java/org/wso2/iot/agent/beans/UnregisterProfile.java
+2016-05-12	2016-05-11	Chatura Dilan	client/client/src/main/java/org/wso2/iot/agent/beans/WifiProfile.java
+2016-03-26	2016-02-17	mharindu	client/client/src/main/java/org/wso2/iot/agent/dao/NotificationDAO.java
+2016-05-07	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/EventAlarmReceiver.java
+2016-05-04	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/EventRegistry.java
+2016-04-29	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/beans/ApplicationStatus.java
+2016-04-27	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/beans/EventPayload.java
+2016-04-28	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/listeners/AlertEventListener.java
+2017-02-23	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/listeners/ApplicationStateListener.java
+2016-06-13	2016-05-25	Chatura Dilan	client/client/src/main/java/org/wso2/iot/agent/events/listeners/DeviceCertCreationListener.java
+2017-06-26	2017-06-09	Janak Amarasena	client/client/src/main/java/org/wso2/iot/agent/events/listeners/KioskAppInstallationListener.java
+2016-07-05	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/listeners/RuntimeStateListener.java
+2016-06-04	2016-05-25	Chatura Dilan	client/client/src/main/java/org/wso2/iot/agent/events/listeners/WifiConfigCreationListener.java
+2016-05-14	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/publisher/DataPublisher.java
+2016-08-31	2016-04-22	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/events/publisher/HttpDataPublisher.java
+2016-07-24	2016-07-07	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/events/publisher/SplunkLogPublisher.java
+2016-04-21	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/services/AgentDeviceAdminReceiver.java
+2016-12-09	2015-07-09	charitha	client/client/src/main/java/org/wso2/iot/agent/services/AgentStartupReceiver.java
+2016-07-05	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/services/AlarmReceiver.java
+2016-03-29	2016-02-15	Lakshman	client/client/src/main/java/org/wso2/iot/agent/services/AppLockService.java
+2016-08-14	2016-04-30	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/ApplicationManagementService.java
+2016-01-30	2015-09-16	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/DeviceInfoPayload.java
+2016-06-04	2016-05-12	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/DynamicClientManager.java
+2016-08-08	2016-06-09	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/EnrollmentService.java
+2018-01-04	2018-01-04	charitha	client/client/src/main/java/org/wso2/iot/agent/services/FCMInstanceIdService.java
+2018-01-23	2018-01-23	charitha	client/client/src/main/java/org/wso2/iot/agent/services/FCMMessagingService.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/services/FileDownloadService.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/services/FileUploadService.java
+2016-09-01	2015-07-09	charitha	client/client/src/main/java/org/wso2/iot/agent/services/LocalNotification.java
+2017-04-28	2017-04-22	charitha	client/client/src/main/java/org/wso2/iot/agent/services/LocationUpdateReceiver.java
+2016-09-11	2016-07-07	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/LogPublisherFactory.java
+2017-10-13	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/services/MessageProcessor.java
+2016-07-05	2016-06-09	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/NetworkConnectedReceiver.java
+2016-07-17	2016-02-12	inosh-perera	client/client/src/main/java/org/wso2/iot/agent/services/NetworkInfoService.java
+2016-04-23	2016-03-30	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/NotificationReceiver.java
+2016-06-04	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/NotificationService.java
+2016-03-26	2015-07-22	Your Name	client/client/src/main/java/org/wso2/iot/agent/services/PolicyComplianceChecker.java
+2015-12-07	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/services/PolicyOperationsMapper.java
+2016-08-31	2015-07-22	Your Name	client/client/src/main/java/org/wso2/iot/agent/services/PolicyRevokeHandler.java
+2015-11-11	2015-09-16	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/ResultPayload.java
+2016-11-28	2016-07-04	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/SystemServiceResponseReceiver.java
+2016-04-29	2016-04-24	Kasun Delgolla	client/client/src/main/java/org/wso2/iot/agent/services/VPNService.java
+2017-06-22	2017-06-22	Pasindu	client/client/src/main/java/org/wso2/iot/agent/services/kiosk/KioskAlarmReceiver.java
+2017-06-22	2017-06-22	Pasindu	client/client/src/main/java/org/wso2/iot/agent/services/kiosk/KioskLockDownService.java
+2017-10-17	2017-10-17	GDLMadushanka	client/client/src/main/java/org/wso2/iot/agent/services/kiosk/KioskMsgAlarmService.java
+2017-06-22	2017-06-22	Pasindu	client/client/src/main/java/org/wso2/iot/agent/services/kiosk/KioskUnlockService.java
+2016-06-20	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/location/DeviceLocation.java
+2017-06-14	2017-04-07	charitha	client/client/src/main/java/org/wso2/iot/agent/services/location/LocationService.java
+2016-07-12	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/location/ReverseGeoCodingService.java
+2016-08-06	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/location/impl/OpenStreetMapService.java
+2016-11-28	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManager.java
+2017-06-29	2017-05-29	Pasindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerBYOD.java
+2017-03-11	2017-01-17	Chatura Dilan	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerCOSU.java
+2016-11-29	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerDeviceOwner.java
+2016-06-15	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerFactory.java
+2016-08-30	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerOlderSdk.java
+2016-10-10	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationManagerWorkProfile.java
+2016-08-25	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/OperationProcessor.java
+2016-08-15	2016-05-06	mharindu	client/client/src/main/java/org/wso2/iot/agent/services/operation/VersionBasedOperations.java
+2017-09-07	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/services/screenshare/ScreenImageReader.java
+2017-09-11	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/services/screenshare/ScreenSharingService.java
+2017-10-01	2017-10-01	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/services/shell/RemoteShellExecutor.java
+2017-10-01	2017-10-01	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/services/shell/RemoteShellTask.java
+2017-08-31	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/transport/exception/TransportHandlerException.java
+2017-08-31	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/transport/exception/TransportMessageFormatException.java
+2017-09-01	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/transport/websocket/AndroidWebSocketClient.java
+2017-09-06	2017-08-31	warunalakshitha	client/client/src/main/java/org/wso2/iot/agent/transport/websocket/WebSocketSessionHandler.java
+2016-07-25	2016-04-30	gayank	client/client/src/main/java/org/wso2/iot/agent/utils/AlarmUtils.java
+2018-04-18	2018-04-18	charitha	client/client/src/main/java/org/wso2/iot/agent/utils/AppManagementRequestUtil.java
+2015-09-19	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/utils/CommonDialogUtils.java
+2016-06-04	2015-07-09	charitha	client/client/src/main/java/org/wso2/iot/agent/utils/CommonUtils.java
+2016-09-15	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/utils/Constants.java
+2016-03-17	2016-02-17	mharindu	client/client/src/main/java/org/wso2/iot/agent/utils/DatabaseHelper.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/utils/FileTransferUtils.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/utils/FileUploadCancelReceiver.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/utils/FileUploadReceiver.java
+2017-10-18	2017-10-18	Nirothipan	client/client/src/main/java/org/wso2/iot/agent/utils/HTTPAuthenticator.java
+2016-01-06	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/utils/Preference.java
+2015-08-17	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/utils/Response.java
+2015-07-20	2015-07-09	Your Name	client/client/src/main/java/org/wso2/iot/agent/utils/StreamHandler.java
+2017-05-03	2017-05-03	charitha	client/client/src/main/res/anim/clockwise_refresh.xml
+2017-05-03	2017-05-03	charitha	client/client/src/main/res/color/non_prominent_button_text.xml
+2015-12-09	2015-07-09	Your Name	client/client/src/main/res/drawable/btn_grey.xml
+2016-02-25	2015-07-09	Your Name	client/client/src/main/res/drawable/btn_orange.xml
+2017-05-03	2017-05-03	charitha	client/client/src/main/res/drawable/btn_orange_non_prominent.xml
+2015-07-09	2015-07-09	Your Name	client/client/src/main/res/drawable/mdm_logo.xml
+2015-09-15	2015-07-09	Your Name	client/client/src/main/res/layout/activity_alert.xml
+2016-11-28	2017-05-03	charitha	client/client/src/main/res/layout/activity_already_registered.xml
+2016-02-26	2016-02-15	Lakshman	client/client/src/main/res/layout/activity_app_lock.xml
+2016-05-11	2015-07-09	Your Name	client/client/src/main/res/layout/activity_authentication.xml
+2015-08-05	2015-07-09	Your Name	client/client/src/main/res/layout/activity_authentication_error.xml
+2017-08-18	2017-08-18	charitha	client/client/src/main/res/layout/activity_disclaimer.xml
+2015-12-12	2015-07-09	Your Name	client/client/src/main/res/layout/activity_display_device_info.xml
+2016-08-01	2016-03-07	pasinduj	client/client/src/main/res/layout/activity_enable_work_profile.xml
+2017-03-15	2017-01-13	Chatura Dilan	client/client/src/main/res/layout/activity_kiosk.xml
+2017-06-22	2017-06-22	Pasindu	client/client/src/main/res/layout/activity_kiosk_lock_down.xml
+2016-04-13	2016-03-30	mharindu	client/client/src/main/res/layout/activity_lock.xml
+2016-05-14	2015-07-09	Your Name	client/client/src/main/res/layout/activity_pin_code.xml
+2016-03-18	2015-07-09	Your Name	client/client/src/main/res/layout/activity_registration.xml
+2017-05-06	2017-05-03	charitha	client/client/src/main/res/layout/activity_server_configs.xml
+2017-03-28	2017-03-16	charitha	client/client/src/main/res/layout/activity_splash.xml
+2017-10-21	2017-10-17	GDLMadushanka	client/client/src/main/res/layout/device_ring_kiosk.xml
+2017-10-09	2017-10-17	GDLMadushanka	client/client/src/main/res/layout/dialog_kiosk.xml
+2017-05-03	2017-05-03	charitha	client/client/src/main/res/layout/dialog_license.xml
+2017-06-14	2017-06-14	Janak Amarasena	client/client/src/main/res/layout/kiosk_app_drawer.xml
+2017-05-07	2017-05-03	charitha	client/client/src/main/res/layout/top_banner.xml
+2017-09-05	2017-10-17	GDLMadushanka	client/client/src/main/res/layout/top_banner_kiosk.xml
+2015-07-21	2015-07-09	Your Name	client/client/src/main/res/menu/authentication_error.xml
+2015-07-09	2015-07-09	Your Name	client/client/src/main/res/values-sw600dp/dimens.xml
+2015-07-09	2015-07-09	Your Name	client/client/src/main/res/values-sw720dp-land/dimens.xml
+2016-03-05	2015-07-09	Your Name	client/client/src/main/res/values-v21/styles.xml
+2017-01-11	2017-01-11	Chatura Dilan	client/client/src/main/res/values-w820dp/dimens.xml
+2017-03-16	2017-03-16	charitha	client/client/src/main/res/values/attrs.xml
+2016-01-24	2015-07-09	Your Name	client/client/src/main/res/values/colors.xml
+2015-07-31	2015-07-09	Your Name	client/client/src/main/res/values/dimens.xml
+2015-07-09	2015-07-09	Your Name	client/client/src/main/res/values/ids.xml
+2017-06-22	2017-06-22	Pasindu	client/client/src/main/res/values/runtimePermissions.xml
+2016-04-07	2015-07-09	Your Name	client/client/src/main/res/values/strings.xml
+2016-01-18	2015-07-09	Your Name	client/client/src/main/res/values/styles.xml
+2015-07-25	2015-07-09	Your Name	client/client/src/main/res/xml/agent_device_admin.xml
+2017-08-21	2017-08-21	Sameera Wickramasekara	client/client/src/main/res/xml/provider_paths.xml
+2016-04-29	2016-05-23	Chatura Dilan	client/client/src/main/res/xml/share_paths.xml
+2018-05-22	2018-05-22	charitha	client/gradle.properties
+2016-04-12	2015-07-09	Your Name	client/gradle/wrapper/gradle-wrapper.properties
+2015-07-09	2015-07-09	Your Name	client/gradlew
+2015-07-09	2015-07-09	Your Name	client/gradlew.bat
+2016-10-11	2017-01-26	inoshperera	client/iDPProxy/build.gradle
+2015-08-03	2015-07-09	Your Name	client/iDPProxy/src/main/AndroidManifest.xml
+2016-03-23	2016-05-12	Kasun Delgolla	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/APIController.java
+2016-02-27	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/AccessTokenHandler.java
+2015-07-21	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/IDPTokenManagerException.java
+2016-03-12	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/IdentityProxy.java
+2016-04-07	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/RefreshTokenHandler.java
+2016-04-11	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/authenticators/AuthenticatorFactory.java
+2016-03-24	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/authenticators/ClientAuthenticator.java
+2016-04-25	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/authenticators/MutualSSLAuthenticator.java
+2016-03-26	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/authenticators/OAuthAuthenticator.java
+2015-11-14	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/beans/CredentialInfo.java
+2015-09-01	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/beans/EndPointInfo.java
+2015-09-27	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/beans/Token.java
+2016-04-03	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/clients/CommunicationClient.java
+2016-04-03	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/clients/CommunicationClientFactory.java
+2016-05-02	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/clients/MutualSSLClient.java
+2016-07-15	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/clients/OAuthSSLClient.java
+2015-07-31	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/interfaces/APIAccessCallBack.java
+2015-07-29	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/interfaces/APIResultCallBack.java
+2016-03-27	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/interfaces/AuthenticationCallback.java
+2015-08-03	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/interfaces/CallBack.java
+2015-09-11	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/interfaces/TokenCallBack.java
+2016-03-21	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/utils/Constants.java
+2016-03-30	2016-03-17	inosh-perera	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/utils/Keystore.java
+2016-02-03	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/utils/ServerUtilities.java
+2015-07-19	2015-07-09	Your Name	client/iDPProxy/src/main/java/org/wso2/iot/agent/proxy/utils/StreamHandlerUtil.java
+2015-10-17	2015-12-16	Kasun Delgolla	client/iDPProxy/src/main/res/values/strings.xml
+2015-06-04	2015-07-10	Your Name	client/pom.xml
+2015-08-11	2015-07-09	Your Name	client/settings.gradle
+2017-09-26	2017-09-26	maheshika	issue_template.md
+2017-10-03	2017-10-03	maheshika	pull_request_template.md
+2016-03-22	2016-02-01	Kasun Delgolla	system-service/.gitignore
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/app/.gitignore
+2016-12-15	2017-05-08	charitha	system-service/app/build.gradle
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/app/proguard-rules.pro
+2016-03-07	2016-02-01	Kasun Delgolla	system-service/app/src/androidTest/java/org/wso2/iot/system/service/ApplicationTest.java
+2016-09-17	2016-02-01	Kasun Delgolla	system-service/app/src/main/AndroidManifest.xml
+2016-07-10	2016-06-08	mharindu	system-service/app/src/main/java/org/wso2/iot/system/service/LockActivity.java
+2016-05-02	2016-03-30	inosh-perera	system-service/app/src/main/java/org/wso2/iot/system/service/MainActivity.java
+2016-04-20	2016-03-30	inosh-perera	system-service/app/src/main/java/org/wso2/iot/system/service/ServiceDeviceAdminReceiver.java
+2016-08-11	2016-03-30	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/SystemService.java
+2016-02-05	2016-02-01	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/api/BuildPropParser.java
+2017-10-01	2017-10-01	warunalakshitha	system-service/app/src/main/java/org/wso2/iot/system/service/api/InputEventHandler.java
+2016-03-14	2016-02-01	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/api/NetworkConnectedReceiver.java
+2016-06-07	2016-02-01	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/api/OTADownload.java
+2016-03-20	2016-02-01	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/api/OTAServerConfig.java
+2017-01-06	2016-02-01	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/api/OTAServerManager.java
+2016-06-15	2016-03-30	inosh-perera	system-service/app/src/main/java/org/wso2/iot/system/service/api/SettingsManager.java
+2016-05-30	2016-04-25	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/services/AlarmReceiver.java
+2016-10-19	2016-07-07	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/services/BatteryChargingStateReceiver.java
+2016-08-01	2016-04-25	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/services/DeviceStartupIntentReceiver.java
+2016-09-02	2016-08-10	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/services/NetworkConnectivityStatusReceiver.java
+2016-10-14	2016-08-12	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/services/NotificationActionReceiver.java
+2018-03-14	2018-03-14	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/services/OTADownloadService.java
+2016-05-22	2016-04-25	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/utils/AlarmUtils.java
+2016-12-17	2016-10-10	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/utils/AppUtils.java
+2016-07-02	2016-06-15	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/utils/CommonUtils.java
+2016-08-12	2016-02-01	charitha	system-service/app/src/main/java/org/wso2/iot/system/service/utils/Constants.java
+2016-08-08	2016-03-30	inosh-perera	system-service/app/src/main/java/org/wso2/iot/system/service/utils/FileUtils.java
+2016-05-19	2016-04-25	Kasun Delgolla	system-service/app/src/main/java/org/wso2/iot/system/service/utils/Preference.java
+2016-06-17	2016-06-08	mharindu	system-service/app/src/main/res/layout/activity_lock.xml
+2016-04-18	2016-03-17	inosh-perera	system-service/app/src/main/res/layout/activity_main.xml
+2016-03-17	2016-03-17	inosh-perera	system-service/app/src/main/res/values-w820dp/dimens.xml
+2016-03-17	2016-03-17	inosh-perera	system-service/app/src/main/res/values/dimens.xml
+2017-03-12	2018-03-14	charitha	system-service/app/src/main/res/values/strings.xml
+2016-03-30	2016-03-30	inosh-perera	system-service/app/src/main/res/xml/agent_device_admin.xml
+2016-02-14	2016-02-01	Kasun Delgolla	system-service/build.gradle
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/gradle.properties
+2016-04-09	2016-02-01	Kasun Delgolla	system-service/gradle/wrapper/gradle-wrapper.properties
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/gradlew
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/gradlew.bat
+2016-02-01	2016-02-01	Kasun Delgolla	system-service/settings.gradle
