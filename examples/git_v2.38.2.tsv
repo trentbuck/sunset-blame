@@ -1,4 +1,3 @@
-fatal: bad object HEAD:sha1collisiondetection
 DATE(MODE),DATE(MEAN),AUTHOR,PATH
 2019-12-20,2020-08-08,emaste,.cirrus.yml
 2017-08-15,2017-10-16,bwilliams.eng,.clang-format
@@ -1857,6 +1856,7 @@ DATE(MODE),DATE(MEAN),AUTHOR,PATH
 2005-07-24,2013-01-08,gitster,server-info.c
 2017-03-14,2015-09-22,peff,setup.c
 2011-05-14,2011-08-10,avarab,sh-i18n--envsubst.c
+fatal: bad object HEAD:sha1collisiondetection
 Traceback (most recent call last):
   File "/home/twb/Desktop/sunset-blame/sunset-blame.py", line 78, in <module>
     data = subprocess.check_output(['git', 'show', '{}:{}'.format(commit, path)])
