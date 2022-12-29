@@ -40,9 +40,19 @@ EXAMPLE OUTPUT:
 ls_tree_args = sys.argv[1:] or ['HEAD']
 commit = ls_tree_args[0]
 
-paths = subprocess.check_output(
-    ['git', 'ls-tree', '-z', '-r', '--name-only', *ls_tree_args],
-    text=True).split('\x00')[:-1]
+paths = [
+    path
+    for line in subprocess.check_output(
+            ['git', 'ls-tree', '-z', '-r', *ls_tree_args],
+            text=True).strip('\x00').split('\x00')
+    for metadata, path in [line.split('\t', 1)]
+    # Skip submodules as they don't Just Work, e.g.
+    #
+    #     bash5$ git -C coreutils.git ls-tree -r v9.1 gnulib
+    #     160000 commit 58c597d13bc57dce3e97ea97856573f2d68ccb8c	gnulib
+    #     bash5$ git -C coreutils.git show v9.1:gnulib
+    #     fatal: bad object v9.1:gnulib
+    if ' commit ' not in metadata]
 
 # FIXME: this turns into [''] not [] when you do "sunset-blame HEAD -- doesnotexist.py".
 # FIXME: this crashes when it hits a git submodule.
